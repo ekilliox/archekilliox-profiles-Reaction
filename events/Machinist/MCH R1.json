@@ -1,0 +1,5921 @@
+{
+  "Id": "MCH REACTIONS",
+  "Name": "MCH REACTIONS",
+  "Description": "",
+  "Timelines": {
+    "AacCruiserweightM4Savage": {
+      "Id": "f8cb0d1b-d0db-40a0-902b-350b5fabe610",
+      "Name": "AacCruiserweightM4Savage",
+      "Description": "",
+      "ZoneId": 1263,
+      "CreatedAt": "2025-11-19T14:31:29.4436714Z",
+      "ModifiedAt": "2025-11-19T16:06:25.7643852Z",
+      "VisualizerSettings": {
+        "TimeScale": 50.0,
+        "ClusterThreshold": 0.5,
+        "LastScrollPosition": 3561.0
+      },
+      "ActionSequences": [
+        {
+          "Id": "4c0ae74d-5537-4fcb-88c9-c65fa04be5f5",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 4.96,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T14:44:04.0906757Z",
+          "ModifiedAt": "2025-11-19T14:44:04.0906762Z",
+          "Actions": [
+            {
+              "Id": "82d88de1-0d32-4228-9eed-54bb87937d65",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "7641badf-7088-4b89-89d2-4b5ae2013103",
+          "Name": "Action Sequence",
+          "Description": "Auto-added: NativeHotbar change",
+          "Time": 74.270515,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T15:19:40.6294365Z",
+          "ModifiedAt": "2025-11-19T15:19:40.6294366Z",
+          "Actions": [
+            {
+              "Id": "6cd634ee-6e4a-4401-b2a3-dc72167498ac",
+              "ActionId": 7548,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "3675d764-4ad0-4f33-8a6f-e9833e4c94cd",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Sprint",
+          "Time": 74.74,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T16:06:24.4510033Z",
+          "ModifiedAt": "2025-11-19T16:06:24.4510034Z",
+          "Actions": [
+            {
+              "Id": "960e5f5a-ec37-4a28-9b70-1d011866f388",
+              "ActionId": 3,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "e11eb070-c68f-45ef-92f8-cdd34b0912af",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 99.58,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T14:44:31.3457438Z",
+          "ModifiedAt": "2025-11-19T14:44:31.3457438Z",
+          "Actions": [
+            {
+              "Id": "28766169-6b3c-449f-b2ee-c2caf226239b",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "b76d22ba-1597-4925-aeda-26b8dd333ea9",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 102.0,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T14:44:34.6912262Z",
+          "ModifiedAt": "2025-11-19T14:44:34.6912263Z",
+          "Actions": [
+            {
+              "Id": "1ec40842-f3da-44b5-890f-22ab36b7fb7c",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "468a8ecd-2136-4948-a022-72099f4b9f96",
+          "Name": "Action Sequence",
+          "Description": "Sequence with 2 actions",
+          "Time": 247.62,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T14:45:00.9666155Z",
+          "ModifiedAt": "2025-11-19T14:45:00.9666157Z",
+          "Actions": [
+            {
+              "Id": "099e0279-e4ac-4b14-a038-fd52cec70c4f",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            },
+            {
+              "Id": "78fba262-e657-4509-aae1-2e7749c45e78",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "ba0e69a2-3d9d-4002-b577-45af0883e9f1",
+          "Name": "Action Sequence",
+          "Description": "Sequence with 2 actions",
+          "Time": 370.78,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T14:45:19.3148569Z",
+          "ModifiedAt": "2025-11-19T14:45:19.3148569Z",
+          "Actions": [
+            {
+              "Id": "099e0279-e4ac-4b14-a038-fd52cec70c4f",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            },
+            {
+              "Id": "78fba262-e657-4509-aae1-2e7749c45e78",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "381f18d2-7568-416c-a34a-a213fb113d1d",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 501.18,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T14:45:45.42434Z",
+          "ModifiedAt": "2025-11-19T14:45:45.42434Z",
+          "Actions": [
+            {
+              "Id": "bf377f7a-31c6-41da-a625-8b7b64321880",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "b94ffe1d-1817-47bc-936d-532ee7530f13",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 625.98,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T14:46:00.803799Z",
+          "ModifiedAt": "2025-11-19T14:46:00.803799Z",
+          "Actions": [
+            {
+              "Id": "b6e3ad92-e725-43bf-835a-f673dc0970c3",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "8ea8de44-5fa2-421e-916b-9e7f40ab2a10",
+          "Name": "Action Sequence",
+          "Description": "Sequence with 2 actions",
+          "Time": 804.04,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T14:46:15.8260939Z",
+          "ModifiedAt": "2025-11-19T14:46:15.8260939Z",
+          "Actions": [
+            {
+              "Id": "099e0279-e4ac-4b14-a038-fd52cec70c4f",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            },
+            {
+              "Id": "78fba262-e657-4509-aae1-2e7749c45e78",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        }
+      ],
+      "LogicSequences": []
+    },
+    "DragonsongsRepriseUltimate": {
+      "Id": "2a53fc13-50bf-44ee-b4c0-10af6d9ed5a9",
+      "Name": "DragonsongsRepriseUltimate",
+      "Description": "",
+      "ZoneId": 968,
+      "CreatedAt": "2025-11-19T14:31:29.6692748Z",
+      "ModifiedAt": "2025-11-23T16:13:16.1053076Z",
+      "VisualizerSettings": {
+        "TimeScale": 50.0,
+        "ClusterThreshold": 0.5,
+        "LastScrollPosition": 1080.0
+      },
+      "ActionSequences": [
+        {
+          "Id": "7887e835-af00-45c1-946a-ec3424b1fab8",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 22.82,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T21:35:44.1818989Z",
+          "ModifiedAt": "2025-11-19T21:35:44.1818989Z",
+          "Actions": [
+            {
+              "Id": "d385e1df-777e-476e-8514-edacf36fe2a4",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "94c72a0d-b60f-4936-b7a7-9d6e318612b3",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 55.9,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T16:33:40.2054328Z",
+          "ModifiedAt": "2025-11-19T16:33:40.2054328Z",
+          "Actions": [
+            {
+              "Id": "4e9befd3-6286-4a31-a9e5-9f71ff1f7d62",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "6bc4859c-b233-4bd1-8961-c6bd3bf562e9",
+          "Name": "Action Sequence",
+          "Description": "Auto-added: NativeHotbar change",
+          "Time": 56.800385,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-23T16:13:16.1039098Z",
+          "ModifiedAt": "2025-11-23T16:13:16.1039101Z",
+          "Actions": [
+            {
+              "Id": "7d950913-bfb5-43a5-9f77-8717a7fdebcf",
+              "ActionId": 7548,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "1ba93d14-f632-42c5-99b3-a6c4044ff769",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 163.36,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T16:34:10.6626547Z",
+          "ModifiedAt": "2025-11-19T16:34:10.6626551Z",
+          "Actions": [
+            {
+              "Id": "20e9bb50-0819-4607-b416-f9cb1541d05b",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "ffae7779-ab2e-420d-8540-128bb3409af7",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 181.84,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T16:34:25.7619656Z",
+          "ModifiedAt": "2025-11-19T16:34:25.7619656Z",
+          "Actions": [
+            {
+              "Id": "ea0a0e9d-48e1-441e-a409-e1f245830e28",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "f2a418fb-d8a6-4435-a8be-4cc0fec9675c",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 330.9,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T16:34:53.3763175Z",
+          "ModifiedAt": "2025-11-19T16:34:53.3763177Z",
+          "Actions": [
+            {
+              "Id": "b27212c7-73ae-4399-94fa-3eaae8fd3e12",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "4dd2dce9-80da-4e1e-946f-f3ca30f2af06",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 428.56,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T16:36:34.8394246Z",
+          "ModifiedAt": "2025-11-19T16:36:34.8394246Z",
+          "Actions": [
+            {
+              "Id": "d490d565-c2f8-49b8-826e-b1fc1323503f",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "066ff325-6535-4baa-9a4c-dd500016cc15",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 435.52,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T16:35:33.7550432Z",
+          "ModifiedAt": "2025-11-19T16:35:33.7550432Z",
+          "Actions": [
+            {
+              "Id": "6726139a-1768-4dc5-a9a7-cfd91af40060",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "42a353d7-5970-47c1-8afc-af7395ca6d83",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 519.38,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T16:37:34.7376269Z",
+          "ModifiedAt": "2025-11-19T16:37:34.7376269Z",
+          "Actions": [
+            {
+              "Id": "ad7cc6e7-be9f-4c16-bb60-bcc4b909f3ee",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "1b518e8e-4337-443e-b067-3ea7b3f58a1e",
+          "Name": "Action Sequence",
+          "Description": "Sequence with 2 actions",
+          "Time": 611.52,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T16:37:08.8397171Z",
+          "ModifiedAt": "2025-11-19T16:37:08.8397171Z",
+          "Actions": [
+            {
+              "Id": "2c6c0ca9-998a-49c7-aa41-68ae7ef1c2a6",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            },
+            {
+              "Id": "b713d95a-49d0-42c5-9565-e6fac7b19907",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "56322903-30e8-480f-ad79-3e449bea2ca6",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 720.06,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T16:38:06.4931149Z",
+          "ModifiedAt": "2025-11-19T16:38:06.493115Z",
+          "Actions": [
+            {
+              "Id": "ad1ea955-a8b9-411a-918d-ce53a6e6e1ed",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "42b9d15e-fa26-45cc-8a39-cec8b3c57540",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 763.24,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T16:38:25.5680076Z",
+          "ModifiedAt": "2025-11-19T16:38:25.5680077Z",
+          "Actions": [
+            {
+              "Id": "c14055e5-9263-4384-ac07-4a37135fa87b",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "84804765-48e1-442c-bc4c-479c2f30dde5",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 847.8,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T16:38:43.0493205Z",
+          "ModifiedAt": "2025-11-19T16:38:43.0493206Z",
+          "Actions": [
+            {
+              "Id": "cd700938-563b-4026-966c-810713d68827",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "8aec785e-0b5f-4e78-97ca-46a47b7206e3",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 893.52,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T16:38:53.3212622Z",
+          "ModifiedAt": "2025-11-19T16:38:53.3212623Z",
+          "Actions": [
+            {
+              "Id": "828d71d0-b7d0-4198-b6c6-a410a0028bf7",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "2702a126-7612-4229-9a2d-cb84706ec9a1",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 965.06,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T16:39:15.8936958Z",
+          "ModifiedAt": "2025-11-19T16:39:15.8936959Z",
+          "Actions": [
+            {
+              "Id": "17e32082-a238-4598-8033-beefdb68f58a",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "0334c6e0-934d-4e32-88f9-75389565c4b5",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 1052.48,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T16:39:53.5626904Z",
+          "ModifiedAt": "2025-11-19T16:39:53.5626905Z",
+          "Actions": [
+            {
+              "Id": "7ff92716-b733-470a-958d-5afd2a18c315",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "11e886c1-3573-4fdd-bccc-7e4de8fdf5ba",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 1055.86,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T16:39:31.0356377Z",
+          "ModifiedAt": "2025-11-19T16:39:31.0356378Z",
+          "Actions": [
+            {
+              "Id": "0d324509-f009-42aa-983e-ed953dfc8213",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        }
+      ],
+      "LogicSequences": []
+    },
+    "AacCruiserweightM3Savage": {
+      "Id": "d5ede0b2-8ebd-4906-a3ab-078f64fbb210",
+      "Name": "AacCruiserweightM3Savage",
+      "Description": "",
+      "ZoneId": 1261,
+      "CreatedAt": "2025-11-19T14:31:29.4425022Z",
+      "ModifiedAt": "2025-11-19T17:15:26.5268033Z",
+      "VisualizerSettings": {
+        "TimeScale": 50.0,
+        "ClusterThreshold": 0.5,
+        "LastScrollPosition": 32937.0
+      },
+      "ActionSequences": [
+        {
+          "Id": "6311eb56-d4cc-46a6-b6c3-72aa395dd099",
+          "Name": "Action Sequence",
+          "Description": "Sequence with 2 actions",
+          "Time": 4.58,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T17:10:48.9290524Z",
+          "ModifiedAt": "2025-11-19T17:10:48.9290525Z",
+          "Actions": [
+            {
+              "Id": "f4dbd13d-9233-4620-97eb-6ffbad42f721",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "540bf075-cb76-474f-b147-be316e2f9cf1",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 5.64,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T17:11:40.1038879Z",
+          "ModifiedAt": "2025-11-19T17:11:40.1038879Z",
+          "Actions": [
+            {
+              "Id": "6f8db34c-c913-4ebb-8025-437370e3adff",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "34c6a131-8fb5-40d9-9ea4-7f434e497be5",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 95.82,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T17:10:32.7270808Z",
+          "ModifiedAt": "2025-11-19T17:10:32.7270808Z",
+          "Actions": [
+            {
+              "Id": "7f048862-2691-4241-94da-8ade34e6311b",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "41cc8382-5150-44e5-ab5d-b3d5e4f2f800",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 126.46,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T17:11:51.3093301Z",
+          "ModifiedAt": "2025-11-19T17:11:51.3093302Z",
+          "Actions": [
+            {
+              "Id": "1e3e46e2-1d8e-4e3b-b399-c470207ba0b0",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "342e282d-9c41-4ad9-b1a2-fc3833570bf0",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 186.64,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T17:13:12.4258541Z",
+          "ModifiedAt": "2025-11-19T17:13:12.4258542Z",
+          "Actions": [
+            {
+              "Id": "80f9a48b-7648-47c7-b336-b919a83aaeaa",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "909796d0-16ef-4f1a-9f6d-9f1aee3333ae",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 248.52,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T17:13:45.2104878Z",
+          "ModifiedAt": "2025-11-19T17:13:45.2104878Z",
+          "Actions": [
+            {
+              "Id": "1776f0da-4c06-4e4d-ace5-a85c6d13513c",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "e47ab3f3-f478-44be-b211-6de7ee765377",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 337.62,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T17:14:02.2786913Z",
+          "ModifiedAt": "2025-11-19T17:14:02.2786914Z",
+          "Actions": [
+            {
+              "Id": "a229dd4a-c81b-4dae-a9d0-e28ee40c5933",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "4f8b950d-f0d8-4a17-be8e-2be2b7ee4eaf",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 378.68,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T17:14:19.5600044Z",
+          "ModifiedAt": "2025-11-19T17:14:19.5600044Z",
+          "Actions": [
+            {
+              "Id": "30d2b4c9-8720-4f13-8ded-d50eb3133fd6",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "afcaf3bb-7401-4602-844d-2ed3ab24ae6d",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 441.06,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T17:14:39.7607042Z",
+          "ModifiedAt": "2025-11-19T17:14:39.7607042Z",
+          "Actions": [
+            {
+              "Id": "35f38451-322d-4345-994b-12969cae020e",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "0699763a-1e35-4006-9217-b536d8233bd9",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 540.9,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T17:15:10.7478285Z",
+          "ModifiedAt": "2025-11-19T17:15:10.7478285Z",
+          "Actions": [
+            {
+              "Id": "2a1a481c-3c6e-4567-b2c5-c4a6299d8c4f",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "bc2caebc-622f-4a8c-b9c7-d14d6a50f25d",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 548.9,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T17:15:17.5244005Z",
+          "ModifiedAt": "2025-11-19T17:15:17.5244006Z",
+          "Actions": [
+            {
+              "Id": "2f0321b9-be13-47e4-9d53-388614ab8e44",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "222a9b90-b9d3-46ec-a3dd-febf8f45300a",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 636.72,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T17:15:26.5267974Z",
+          "ModifiedAt": "2025-11-19T17:15:26.5267975Z",
+          "Actions": [
+            {
+              "Id": "30966a5d-1f46-439d-93f8-f1cab5b0b274",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        }
+      ],
+      "LogicSequences": []
+    },
+    "AacCruiserweightM2Savage": {
+      "Id": "42c42e2e-d346-43c2-93e6-359578a375d3",
+      "Name": "AacCruiserweightM2Savage",
+      "Description": "",
+      "ZoneId": 1259,
+      "CreatedAt": "2025-11-19T14:31:29.4400902Z",
+      "ModifiedAt": "2025-11-20T23:57:09.2640782Z",
+      "VisualizerSettings": {
+        "TimeScale": 50.0,
+        "ClusterThreshold": 0.5,
+        "LastScrollPosition": 0.0
+      },
+      "ActionSequences": [
+        {
+          "Id": "0841132f-8502-4a12-8d4f-4b84d6bcf59c",
+          "Name": "Action Sequence",
+          "Description": "Sequence with 1 actions",
+          "Time": 0.02,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-20T23:57:09.2640739Z",
+          "ModifiedAt": "2025-11-20T23:57:09.2640739Z",
+          "Actions": [
+            {
+              "Id": "a89b2fbe-b692-479e-9545-702f40968e6b",
+              "ActionId": 0,
+              "SkillbarId": "SaveCD",
+              "TTSText": "",
+              "TriggerType": 1,
+              "LogicOperator": 8,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "3976485b-1baf-4519-bfa8-e28bd8b3c0cb",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 7.02,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T17:43:26.6821394Z",
+          "ModifiedAt": "2025-11-19T17:43:26.6821395Z",
+          "Actions": [
+            {
+              "Id": "e9e9b47f-c4ca-46b3-b4c1-946b211f0723",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "d5052d02-3558-4fe3-bbf4-d14272802b34",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 69.24,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T19:14:08.3498244Z",
+          "ModifiedAt": "2025-11-19T19:14:08.3498244Z",
+          "Actions": [
+            {
+              "Id": "eb898041-8ec3-41a7-bc3d-1ce44cb4c380",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "3253bc45-dc44-4d26-9926-5fa234e5ae5f",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 147.14,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T17:46:26.6824543Z",
+          "ModifiedAt": "2025-11-19T17:46:26.6824543Z",
+          "Actions": [
+            {
+              "Id": "1d567901-7c6c-472f-9fe2-0aae85c02517",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "f34bdacf-1277-47b4-b24a-43c732e97d2f",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 194.96,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T17:46:37.7489314Z",
+          "ModifiedAt": "2025-11-19T17:46:37.7489314Z",
+          "Actions": [
+            {
+              "Id": "0fa00e0a-2cce-43f6-bd86-a0f54f79e0d1",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "f5674d2a-b307-42f7-b8a2-2c7596826a85",
+          "Name": "Action Sequence",
+          "Description": "Auto-added: SkillSetting change",
+          "Time": 219.76123,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T19:05:42.8151359Z",
+          "ModifiedAt": "2025-11-19T19:05:42.8151361Z",
+          "Actions": [
+            {
+              "Id": "6a68b572-cab0-4f08-8977-feb38262edba",
+              "ActionId": 0,
+              "SkillbarId": "SaveCD",
+              "TTSText": "",
+              "TriggerType": 1,
+              "LogicOperator": 4,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "42a83441-8266-4a72-8b2a-229b77738ca2",
+          "Name": "Action Sequence",
+          "Description": "Auto-added: SkillSetting change",
+          "Time": 263.86722,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T19:13:44.560007Z",
+          "ModifiedAt": "2025-11-19T19:13:44.5600071Z",
+          "Actions": [
+            {
+              "Id": "152b4f06-7c53-47ae-9355-41796ba8509a",
+              "ActionId": 0,
+              "SkillbarId": "SaveCD",
+              "TTSText": "",
+              "TriggerType": 1,
+              "LogicOperator": 8,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "bb83ff6e-caf7-4875-b3d7-7ea384051867",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 303.0,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T17:46:58.3428417Z",
+          "ModifiedAt": "2025-11-19T17:46:58.3428418Z",
+          "Actions": [
+            {
+              "Id": "f2816b54-26c8-4d4c-b294-b4696c6396ea",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "d5820961-5898-4a2c-aa03-1ff98d84dfe3",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 386.62,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T17:47:21.6002298Z",
+          "ModifiedAt": "2025-11-19T17:47:21.6002298Z",
+          "Actions": [
+            {
+              "Id": "e40dc3e3-a001-4ae0-848f-7d9fb91505c1",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "e82ed80a-5cdc-4d3a-bae2-99caba227114",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 409.0,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T17:47:46.5237298Z",
+          "ModifiedAt": "2025-11-19T17:47:46.5237299Z",
+          "Actions": [
+            {
+              "Id": "ea4c1734-a37f-482e-89c2-320d08e4a9b4",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "53c270dc-8f10-4087-bbcd-d12c28be2cfe",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 515.66,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T17:48:10.1992981Z",
+          "ModifiedAt": "2025-11-19T17:48:10.1992982Z",
+          "Actions": [
+            {
+              "Id": "95c2fc17-55c7-4b1c-9603-59119baea2cf",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "457f0ad1-356a-4c32-95fd-38421995555c",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 587.12,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T17:48:26.1911882Z",
+          "ModifiedAt": "2025-11-19T17:48:26.1911882Z",
+          "Actions": [
+            {
+              "Id": "b8da313d-1c78-42ee-bfa4-5fdb198a9f67",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        }
+      ],
+      "LogicSequences": []
+    },
+    "AacCruiserweightM1Savage": {
+      "Id": "24f910a4-cc6f-43c9-82df-e9de0f491169",
+      "Name": "AacCruiserweightM1Savage",
+      "Description": "",
+      "ZoneId": 1257,
+      "CreatedAt": "2025-11-19T14:31:29.4354867Z",
+      "ModifiedAt": "2025-11-19T18:41:30.8024211Z",
+      "VisualizerSettings": {
+        "TimeScale": 50.0,
+        "ClusterThreshold": 0.5,
+        "LastScrollPosition": 25920.0
+      },
+      "ActionSequences": [
+        {
+          "Id": "ea488cbc-cf01-42e9-9ce8-a28f40a3f274",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 55.26,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T18:39:06.352969Z",
+          "ModifiedAt": "2025-11-19T18:39:06.352969Z",
+          "Actions": [
+            {
+              "Id": "744fa6dd-6607-401c-bfd6-234a3fa89a07",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "6bea6ef0-7f34-486c-825d-07e4a5fb3de0",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 63.14,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T18:39:31.3922119Z",
+          "ModifiedAt": "2025-11-19T18:39:31.392212Z",
+          "Actions": [
+            {
+              "Id": "84c8d8cb-7840-42d2-84c4-d0a0ce8d1206",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "0b0bb152-0981-4fe7-9557-f3aa78078c9f",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 238.3,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T18:39:52.7918945Z",
+          "ModifiedAt": "2025-11-19T18:39:52.7918945Z",
+          "Actions": [
+            {
+              "Id": "9697e2db-ea6d-4942-8d6a-c9815c3fdfb2",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "6403bd6e-a211-4ba6-9751-3c655ac9bcb3",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 242.28,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T18:40:05.3977776Z",
+          "ModifiedAt": "2025-11-19T18:40:05.3977776Z",
+          "Actions": [
+            {
+              "Id": "0910d04c-4208-4335-bf25-feacac6f331f",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "882f8bc0-e6e8-4848-b55d-ca5a349ce74d",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 350.06,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T18:40:48.2001234Z",
+          "ModifiedAt": "2025-11-19T18:40:48.2001234Z",
+          "Actions": [
+            {
+              "Id": "4040ef20-9557-43e0-909c-816a001b8518",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "45a7fa5f-623b-4b0c-b978-cc197bb1fda5",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 389.24,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T18:41:00.9236628Z",
+          "ModifiedAt": "2025-11-19T18:41:00.9236629Z",
+          "Actions": [
+            {
+              "Id": "edd98884-a4ee-4f75-9e83-22f1e64110bb",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "50f75aa0-3176-4716-9a62-2fcc4f98c318",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 520.1,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T18:41:17.2139066Z",
+          "ModifiedAt": "2025-11-19T18:41:17.2139066Z",
+          "Actions": [
+            {
+              "Id": "28ffb73c-bec2-44f0-8b3a-2f9a942455ef",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "c592126c-bfe9-445c-9aab-8e9c4604137f",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 522.76,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T18:41:30.8024149Z",
+          "ModifiedAt": "2025-11-19T18:41:30.802415Z",
+          "Actions": [
+            {
+              "Id": "a7271a74-8ce8-4cce-bd8a-3bbbccdb41ac",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        }
+      ],
+      "LogicSequences": []
+    },
+    "AacLightHeavyweightM4Savage": {
+      "Id": "453b0c6f-9b48-4ef6-8a23-68f658b8ecbb",
+      "Name": "AacLightHeavyweightM4Savage",
+      "Description": "",
+      "ZoneId": 1232,
+      "CreatedAt": "2025-11-19T14:31:29.4716169Z",
+      "ModifiedAt": "2025-11-21T15:17:54.5820065Z",
+      "VisualizerSettings": {
+        "TimeScale": 50.0,
+        "ClusterThreshold": 0.5,
+        "LastScrollPosition": 27965.0
+      },
+      "ActionSequences": [
+        {
+          "Id": "c0dfbb02-4fac-44e8-b1ef-a663ac7468ee",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 3.52,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T19:29:07.066851Z",
+          "ModifiedAt": "2025-11-19T19:29:07.066851Z",
+          "Actions": [
+            {
+              "Id": "255cbbb1-ff43-466a-b811-29f47a1e1f12",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "252fd463-0bf4-4690-aeb2-31c78aa4ec56",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 6.7,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T19:28:51.4290817Z",
+          "ModifiedAt": "2025-11-19T19:28:51.4290817Z",
+          "Actions": [
+            {
+              "Id": "752d3e2b-f446-4c22-b80c-0cc66841aed3",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "786eaafa-fce4-4252-8d02-e7b92c8af48b",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 94.88,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T19:29:40.8958802Z",
+          "ModifiedAt": "2025-11-19T19:29:40.8958802Z",
+          "Actions": [
+            {
+              "Id": "fb7f8982-c170-4aff-90f2-42cd039846ba",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "b0cc77eb-57d2-48cc-b0c4-7638bf1d3b6d",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 127.34,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T19:30:14.5517955Z",
+          "ModifiedAt": "2025-11-19T19:30:14.5517955Z",
+          "Actions": [
+            {
+              "Id": "1f673829-de24-47a4-95a4-3f93e9c85e59",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "d072af20-49c0-44e9-8256-25409960dd77",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 248.58,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T19:31:54.9181291Z",
+          "ModifiedAt": "2025-11-19T19:31:54.9181292Z",
+          "Actions": [
+            {
+              "Id": "f933a76d-1c74-41e6-a79f-ff7468144f0a",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "c144bab6-92e4-4949-b6db-aefd5e29eb8f",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 274.8,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T19:31:34.3519833Z",
+          "ModifiedAt": "2025-11-19T19:31:34.3519833Z",
+          "Actions": [
+            {
+              "Id": "4f40e419-0345-4e82-9cdf-a367e382bd95",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "761a7468-49de-48a8-a1e6-962071f7a8c9",
+          "Name": "Action Sequence",
+          "Description": "Auto-added: NativeHotbar change",
+          "Time": 354.4,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-21T14:51:52.7639022Z",
+          "ModifiedAt": "2025-11-21T14:51:52.7639024Z",
+          "Actions": [
+            {
+              "Id": "72dbd721-e5e0-4d22-a807-6d1b896d3fa3",
+              "ActionId": 1045996,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "99e9d7e8-0628-4641-890c-7b10c2f7d0e2",
+          "Name": "Action Sequence",
+          "Description": "Sequence with 2 actions",
+          "Time": 407.9,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T19:33:16.3386421Z",
+          "ModifiedAt": "2025-11-19T19:33:16.3386421Z",
+          "Actions": [
+            {
+              "Id": "fa267e8d-f4b2-47ba-b21d-cc1ff0679a07",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            },
+            {
+              "Id": "97e73c4e-1833-4902-8f3c-771c38a56fa5",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "ca3b490a-f854-4e19-a527-07f72b28bcda",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 498.9599,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T19:33:31.4168271Z",
+          "ModifiedAt": "2025-11-19T19:33:31.4168271Z",
+          "Actions": [
+            {
+              "Id": "239fc493-1628-4e82-b355-2f257fd11ccc",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "f3a5dfb8-6443-4234-a749-fd46316557c9",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 561.9204,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T19:34:18.1608993Z",
+          "ModifiedAt": "2025-11-19T19:34:18.1608994Z",
+          "Actions": [
+            {
+              "Id": "79c32f85-1245-4396-ac8e-72f1a95aaa5a",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "eb32901f-88d6-434d-a699-f39f59671031",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 679.98,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T19:34:52.123506Z",
+          "ModifiedAt": "2025-11-19T19:34:52.1235061Z",
+          "Actions": [
+            {
+              "Id": "c8f89105-2f12-4257-9f16-181d511bcb38",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "d53d06b5-7be4-4225-960e-eed58894f63c",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 698.84,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T19:35:14.1093503Z",
+          "ModifiedAt": "2025-11-19T19:35:14.1093504Z",
+          "Actions": [
+            {
+              "Id": "2498ed40-c2b5-4c5e-ab93-69e0ab22b1d0",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        }
+      ],
+      "LogicSequences": []
+    },
+    "AacLightHeavyweightM3Savage": {
+      "Id": "0881a8cd-b5a8-439a-941d-192ed3eae22c",
+      "Name": "AacLightHeavyweightM3Savage",
+      "Description": "",
+      "ZoneId": 1230,
+      "CreatedAt": "2025-11-19T14:31:29.4695129Z",
+      "ModifiedAt": "2025-11-19T19:40:55.8858926Z",
+      "VisualizerSettings": {
+        "TimeScale": 50.0,
+        "ClusterThreshold": 0.5,
+        "LastScrollPosition": 30240.0
+      },
+      "ActionSequences": [
+        {
+          "Id": "1f9c3a72-4ac2-43cb-a514-1c8c956fbf3f",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 33.84,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T19:37:48.8786859Z",
+          "ModifiedAt": "2025-11-19T19:37:48.878686Z",
+          "Actions": [
+            {
+              "Id": "071ddefe-9269-47ed-912f-c18fde3ec6b7",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "9a4b63db-9adf-4e52-a39e-eb384eb7e25f",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 57.02,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T19:37:55.1621538Z",
+          "ModifiedAt": "2025-11-19T19:37:55.1621538Z",
+          "Actions": [
+            {
+              "Id": "133edee8-ebbf-4be9-8d98-8a72b8ac3e83",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "e8f912b8-7c0f-43a9-a3f7-112ba69718d4",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 130.86,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T19:38:05.5228533Z",
+          "ModifiedAt": "2025-11-19T19:38:05.5228533Z",
+          "Actions": [
+            {
+              "Id": "8864f2ab-813e-4781-ae10-d75dab842ead",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "1abfada8-2e77-4694-a2a0-828ab519620f",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 223.9,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T19:38:45.723118Z",
+          "ModifiedAt": "2025-11-19T19:38:45.7231181Z",
+          "Actions": [
+            {
+              "Id": "e613433b-d316-4fc9-b324-625fd8a026f3",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "92e6eec4-2b7e-4a2f-9b49-ebef12587028",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 232.5,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T19:38:54.1948501Z",
+          "ModifiedAt": "2025-11-19T19:38:54.1948502Z",
+          "Actions": [
+            {
+              "Id": "5a2dffd8-8cd7-4457-8c9f-98b1c77a0407",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "09755c4c-6352-4d07-919d-bf1cbcf27b4f",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 321.14,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T19:39:42.4743924Z",
+          "ModifiedAt": "2025-11-19T19:39:42.4743925Z",
+          "Actions": [
+            {
+              "Id": "ef56f1e9-2479-4dfa-858e-4add136bce4e",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "350b8c03-6501-420b-88ce-e13d0fc88ad2",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 389.68,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T19:39:56.0976122Z",
+          "ModifiedAt": "2025-11-19T19:39:56.0976122Z",
+          "Actions": [
+            {
+              "Id": "8266f488-15d4-47c8-9daf-4d695e6d69fb",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "47544870-8b1f-4a96-b8af-31704d72b288",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 453.16,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T19:40:31.7253291Z",
+          "ModifiedAt": "2025-11-19T19:40:31.7253292Z",
+          "Actions": [
+            {
+              "Id": "e006e64a-828f-49dd-bce6-391a735074b6",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "0c5a83a6-1878-4992-b3c9-04dfb2a5222b",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 544.26,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T19:40:55.8858868Z",
+          "ModifiedAt": "2025-11-19T19:40:55.8858869Z",
+          "Actions": [
+            {
+              "Id": "d4a3b6fe-0ff3-48ac-a539-ce121e3445ae",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "ebe2f30b-5cc3-4db3-b5bb-eb3eef1b260e",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 554.18,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T19:40:46.6286654Z",
+          "ModifiedAt": "2025-11-19T19:40:46.6286655Z",
+          "Actions": [
+            {
+              "Id": "1b2a5a23-1516-4e70-a293-78854abf9d0f",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        }
+      ],
+      "LogicSequences": []
+    },
+    "AacLightHeavyweightM2Savage": {
+      "Id": "19fc5147-e13e-4ca4-9931-cdfaf0221a15",
+      "Name": "AacLightHeavyweightM2Savage",
+      "Description": "",
+      "ZoneId": 1228,
+      "CreatedAt": "2025-11-19T14:31:29.4678938Z",
+      "ModifiedAt": "2025-11-19T19:49:12.0531543Z",
+      "VisualizerSettings": {
+        "TimeScale": 50.0,
+        "ClusterThreshold": 0.5,
+        "LastScrollPosition": 29430.0
+      },
+      "ActionSequences": [
+        {
+          "Id": "169b0ee0-8b59-4ab3-87cc-b1118c388b6f",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 50.0,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T19:44:43.9174946Z",
+          "ModifiedAt": "2025-11-19T19:44:43.9174947Z",
+          "Actions": [
+            {
+              "Id": "5ea7c0c7-0695-402e-b478-e66d9969de1a",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "e74672cb-9cd7-4bca-afa4-1d4148820d1c",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 65.54,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T19:46:06.6330999Z",
+          "ModifiedAt": "2025-11-19T19:46:06.6330999Z",
+          "Actions": [
+            {
+              "Id": "97b204a9-c052-4af6-be64-a99079752f20",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "79353e2e-36a0-41fb-b297-e093c84460f7",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 156.46,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T19:45:55.6326885Z",
+          "ModifiedAt": "2025-11-19T19:45:55.6326885Z",
+          "Actions": [
+            {
+              "Id": "6936187d-e684-47f2-9426-434d00f57067",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "d028f0eb-4b9d-4f49-9df4-c2623383b7f7",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 247.46,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T19:46:34.7047854Z",
+          "ModifiedAt": "2025-11-19T19:46:34.7047855Z",
+          "Actions": [
+            {
+              "Id": "40955b20-e5d4-4274-9d25-a8f4a5e770b8",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "fd8597e1-4e3e-439c-a26f-7ae24dbc7de1",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 249.74,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T19:46:47.9310988Z",
+          "ModifiedAt": "2025-11-19T19:46:47.9310989Z",
+          "Actions": [
+            {
+              "Id": "d0f064bd-9420-4f83-bc4a-2bcebbd02c3a",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "dc51a5b2-b4ac-4402-b496-e2a428fa5c17",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 363.96,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T19:47:47.5689191Z",
+          "ModifiedAt": "2025-11-19T19:47:47.5689192Z",
+          "Actions": [
+            {
+              "Id": "c19568ae-bfff-4c20-9231-05cb89b20b61",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "3ddd9100-ddbd-4107-88ea-e7186da19438",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 385.14,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T19:48:04.6971126Z",
+          "ModifiedAt": "2025-11-19T19:48:04.6971127Z",
+          "Actions": [
+            {
+              "Id": "c76f3d69-eb8a-4bd3-8dd2-54c9dc989309",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "8e7fa025-cf5f-41d4-838b-058f32487502",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 471.3,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T19:48:21.5118477Z",
+          "ModifiedAt": "2025-11-19T19:48:21.5118478Z",
+          "Actions": [
+            {
+              "Id": "3e69e0e8-e9d1-4a6d-b1c5-9666b6f5c67c",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "2de3ed89-f3d2-4e31-b845-5cb19f37dd2f",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 531.2,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T19:48:55.3571638Z",
+          "ModifiedAt": "2025-11-19T19:48:55.3571638Z",
+          "Actions": [
+            {
+              "Id": "15dc758f-db7c-44d8-813d-cfe797e3f34c",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "53c2e5d5-778c-41cb-ac9f-4909e55d66c0",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 562.66,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T19:49:12.0531484Z",
+          "ModifiedAt": "2025-11-19T19:49:12.0531484Z",
+          "Actions": [
+            {
+              "Id": "b532cd64-1303-4276-922f-8257a5c4e8d0",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        }
+      ],
+      "LogicSequences": []
+    },
+    "AacLightHeavyweightM1Savage": {
+      "Id": "c8701f09-f87f-4aa3-8569-e761e2895942",
+      "Name": "AacLightHeavyweightM1Savage",
+      "Description": "",
+      "ZoneId": 1226,
+      "CreatedAt": "2025-11-19T14:31:29.4500955Z",
+      "ModifiedAt": "2025-11-19T19:55:55.3355974Z",
+      "VisualizerSettings": {
+        "TimeScale": 50.0,
+        "ClusterThreshold": 0.5,
+        "LastScrollPosition": 24300.0
+      },
+      "ActionSequences": [
+        {
+          "Id": "860da566-cef5-4f33-93ec-147d6bf65994",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 2.6,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T19:50:34.0107438Z",
+          "ModifiedAt": "2025-11-19T19:50:34.0107439Z",
+          "Actions": [
+            {
+              "Id": "b5a2b63c-b6b8-4d78-84a4-5e85863fe29c",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "15c45ccf-5397-475d-978d-d99a0842d56d",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 7.56,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T19:50:50.4217821Z",
+          "ModifiedAt": "2025-11-19T19:50:50.4217822Z",
+          "Actions": [
+            {
+              "Id": "27c416e0-eab0-412c-9923-5b25b4ad109b",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "0aea0fc8-c9d8-464c-8a34-5014a8a70720",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 97.66,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T19:52:19.4597887Z",
+          "ModifiedAt": "2025-11-19T19:52:19.4597888Z",
+          "Actions": [
+            {
+              "Id": "6b540e92-4d6b-41f2-b431-a0bd0385e97b",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "9f4eaaf1-74d1-45bd-beae-da5d42d79a9d",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 216.86,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T19:52:46.8564258Z",
+          "ModifiedAt": "2025-11-19T19:52:46.8564258Z",
+          "Actions": [
+            {
+              "Id": "bd3b897d-3b4e-4e8e-a9ba-8a02506d3d5d",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "6e8bbac9-33cb-470b-9300-7443170d7aa0",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 231.74,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T19:53:05.2155958Z",
+          "ModifiedAt": "2025-11-19T19:53:05.2155959Z",
+          "Actions": [
+            {
+              "Id": "e1d39c54-efee-4c5d-878e-6a1738c1571f",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "e245ae73-b78c-4e1a-98a5-27312de3495f",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 322.62,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T19:55:02.6409427Z",
+          "ModifiedAt": "2025-11-19T19:55:02.6409427Z",
+          "Actions": [
+            {
+              "Id": "4cd1847f-1713-4114-99c1-41300f73d02f",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "a8e1c2a0-dd2d-47d7-a6ce-656e2095c6c5",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 361.82,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T19:55:18.6623097Z",
+          "ModifiedAt": "2025-11-19T19:55:18.6623098Z",
+          "Actions": [
+            {
+              "Id": "c3621506-0974-46e4-8676-f34453da6b34",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "95fc8b62-41c2-4201-a816-467b341123f3",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 451.62,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T19:55:40.1339269Z",
+          "ModifiedAt": "2025-11-19T19:55:40.133927Z",
+          "Actions": [
+            {
+              "Id": "56c95837-ec10-4086-ac4e-23293ec7fc9c",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "936005e2-bab7-48ad-a067-b19f785a8de3",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 490.0,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T19:55:55.3355908Z",
+          "ModifiedAt": "2025-11-19T19:55:55.3355908Z",
+          "Actions": [
+            {
+              "Id": "6eef167b-14c2-437b-96bf-af145d8bce09",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        }
+      ],
+      "LogicSequences": []
+    },
+    "TheOmegaProtocolUltimate": {
+      "Id": "c3e0a256-d077-4939-b743-9b90be08d4bc",
+      "Name": "TheOmegaProtocolUltimate",
+      "Description": "",
+      "ZoneId": 1122,
+      "CreatedAt": "2025-11-19T14:31:29.8978361Z",
+      "ModifiedAt": "2025-11-19T20:03:18.9586137Z",
+      "VisualizerSettings": {
+        "TimeScale": 50.0,
+        "ClusterThreshold": 0.5,
+        "LastScrollPosition": 55800.0
+      },
+      "ActionSequences": [
+        {
+          "Id": "50072d16-dd2b-47f5-a01b-e7cd0d844190",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 84.18,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T19:58:29.1832039Z",
+          "ModifiedAt": "2025-11-19T19:58:29.1832039Z",
+          "Actions": [
+            {
+              "Id": "da55f8f7-8e6f-48c5-99f4-68f2635bcd14",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "2a028a03-806b-4133-a5a8-2501ecb6e1fe",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 91.56,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T19:58:05.0460371Z",
+          "ModifiedAt": "2025-11-19T19:58:05.0460371Z",
+          "Actions": [
+            {
+              "Id": "e737e226-db32-437e-a590-3a844aef9e27",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "4164fe27-6046-4f57-b056-c676b8f7ffc6",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 225.02,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T19:58:59.7985965Z",
+          "ModifiedAt": "2025-11-19T19:58:59.7985967Z",
+          "Actions": [
+            {
+              "Id": "be1f7b32-d1a4-49f9-b87b-895f76b8148a",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "dc0db019-3dad-4a84-9e8f-50da6e2a775a",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 337.92,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T19:59:50.8479204Z",
+          "ModifiedAt": "2025-11-19T19:59:50.8479204Z",
+          "Actions": [
+            {
+              "Id": "b7e0d79d-3377-4f3e-aa7b-f3c52b0a83bd",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "53afa4cb-a137-4811-a35f-8da8f2ce654b",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 350.06,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T19:59:58.9032044Z",
+          "ModifiedAt": "2025-11-19T19:59:58.9032044Z",
+          "Actions": [
+            {
+              "Id": "9a6bd7ef-35f2-4f50-ad76-9e31ddc57fda",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "502b9419-94f2-4bdd-aa68-229b3f694dac",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 485.06,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:00:34.2906037Z",
+          "ModifiedAt": "2025-11-19T20:00:34.2906037Z",
+          "Actions": [
+            {
+              "Id": "ab6236bd-d243-4fb5-bcc9-5bc08fa2a7ff",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "983ffd2e-98f9-4f98-af5e-0ee151c18573",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 521.7,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:00:45.5555479Z",
+          "ModifiedAt": "2025-11-19T20:00:45.555548Z",
+          "Actions": [
+            {
+              "Id": "6d49eeb1-6ce7-4207-93f2-0571c8642874",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "c330033b-2774-4ebd-b222-35bdd699e4ab",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 609.32,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:01:05.3367451Z",
+          "ModifiedAt": "2025-11-19T20:01:05.3367452Z",
+          "Actions": [
+            {
+              "Id": "53cf182e-3b9b-4331-a710-174d067c814f",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "89eeb7bd-4b96-4deb-b5f0-85a505fe5816",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 613.04,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:01:20.9912633Z",
+          "ModifiedAt": "2025-11-19T20:01:20.9912634Z",
+          "Actions": [
+            {
+              "Id": "187167d3-36ee-4061-a782-959691f0eb05",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "e9d62426-fbc2-4ca7-91df-c3b540aebc52",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 703.84,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:01:48.6254979Z",
+          "ModifiedAt": "2025-11-19T20:01:48.6254979Z",
+          "Actions": [
+            {
+              "Id": "bf875994-5358-4850-a854-5e0ec9b20329",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "5da570d3-c581-493d-adfe-2d77cf2795bc",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 794.72,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:02:07.2617434Z",
+          "ModifiedAt": "2025-11-19T20:02:07.2617435Z",
+          "Actions": [
+            {
+              "Id": "320c8d03-623d-4afe-91d3-32ae2c041287",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "708047f2-85db-437d-8d62-4037c2db0476",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 929.24,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:02:30.7976854Z",
+          "ModifiedAt": "2025-11-19T20:02:30.7976854Z",
+          "Actions": [
+            {
+              "Id": "22d9e93c-1ab3-4939-ba10-0c29e348bb78",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "30eb7bf9-f75c-4bde-8b78-bf93c0ef4ff7",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 1026.1,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:02:59.7230547Z",
+          "ModifiedAt": "2025-11-19T20:02:59.7230547Z",
+          "Actions": [
+            {
+              "Id": "d84af505-96e9-493b-8459-cf7e3ae5fd15",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "2edc9a36-ce31-420f-a157-040bca0b65ae",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 1031.42,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:03:18.9586076Z",
+          "ModifiedAt": "2025-11-19T20:03:18.9586078Z",
+          "Actions": [
+            {
+              "Id": "8a629717-8460-4670-b3ea-4e2e4edb8327",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        }
+      ],
+      "LogicSequences": []
+    },
+    "TheEpicOfAlexanderUltimate": {
+      "Id": "8208efb5-38ef-4475-b839-249772eb97cd",
+      "Name": "TheEpicOfAlexanderUltimate",
+      "Description": "",
+      "ZoneId": 887,
+      "CreatedAt": "2025-11-19T14:31:29.8378431Z",
+      "ModifiedAt": "2025-11-19T20:13:49.3101633Z",
+      "VisualizerSettings": {
+        "TimeScale": 50.0,
+        "ClusterThreshold": 0.5,
+        "LastScrollPosition": 0.0
+      },
+      "ActionSequences": [
+        {
+          "Id": "5f0567e1-1335-4271-ab74-4be8dd19e3be",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 79.38,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:07:37.5478575Z",
+          "ModifiedAt": "2025-11-19T20:07:37.5478576Z",
+          "Actions": [
+            {
+              "Id": "4e68c673-51d6-42d2-bd0c-bff28e7074e8",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "50f233e6-205b-4d6f-932a-dd1fceefe0b1",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 79.98,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:07:30.7444042Z",
+          "ModifiedAt": "2025-11-19T20:07:30.7444043Z",
+          "Actions": [
+            {
+              "Id": "c6b5a74d-7c11-494c-ac5c-3153cea99ba4",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "7ea1acfd-a93e-4dbd-b5a4-850f213c30ce",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 234.06,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:07:58.1572943Z",
+          "ModifiedAt": "2025-11-19T20:07:58.1572944Z",
+          "Actions": [
+            {
+              "Id": "29dd553a-ccf3-4eb8-b069-ec052d7b4e3f",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "72decbe6-5a0c-438a-8a37-12bde4a25816",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 234.86,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:08:00.623134Z",
+          "ModifiedAt": "2025-11-19T20:08:00.623134Z",
+          "Actions": [
+            {
+              "Id": "ed2f56b3-bf63-43c6-9878-2374a510fcf4",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "fe153d3c-1d0d-4acc-b465-be6fc1b414b2",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 356.14,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:10:40.7008507Z",
+          "ModifiedAt": "2025-11-19T20:10:40.7008507Z",
+          "Actions": [
+            {
+              "Id": "953246d7-d826-4a82-8820-e0bdd8e25897",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "8d6e14cc-fb85-4339-b580-4a5b23e39e52",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 362.94,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:08:25.7492988Z",
+          "ModifiedAt": "2025-11-19T20:08:25.7492988Z",
+          "Actions": [
+            {
+              "Id": "aadeda07-8d0d-4cd0-9265-c4388d66611b",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "547d1d88-724a-4d3f-a0e3-979008c0a1b6",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 520.02,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:09:33.1369196Z",
+          "ModifiedAt": "2025-11-19T20:09:33.1369197Z",
+          "Actions": [
+            {
+              "Id": "fe2678cc-ad4e-4c6e-8061-49c207788a41",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "4e89ef54-73ee-49f8-8389-b3b54d6364d1",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 526.02,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:11:19.9867706Z",
+          "ModifiedAt": "2025-11-19T20:11:19.9867707Z",
+          "Actions": [
+            {
+              "Id": "e6f581d7-ea6b-4fa1-b02e-06a47670b3b9",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "d04af5ba-e93f-4d9b-b84e-746b10b9a4ef",
+          "Name": "Action Sequence",
+          "Description": "Sequence with 2 actions",
+          "Time": 666.24,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:12:24.9246134Z",
+          "ModifiedAt": "2025-11-19T20:12:24.9246134Z",
+          "Actions": [
+            {
+              "Id": "b10f55cb-06c4-44e6-8976-ebf90d27931f",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            },
+            {
+              "Id": "d27f6a84-c884-490f-a166-e3cf14b2b734",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "bec82507-4a8c-4531-816a-0ff03769b1f7",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 757.16,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:13:02.9371702Z",
+          "ModifiedAt": "2025-11-19T20:13:02.9371703Z",
+          "Actions": [
+            {
+              "Id": "014a3f3e-f845-4f77-a1b0-086029928c1b",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "05e98e5e-0be0-4f4d-a3a4-f801e0445d59",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 787.06,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:13:19.1856785Z",
+          "ModifiedAt": "2025-11-19T20:13:19.1856785Z",
+          "Actions": [
+            {
+              "Id": "34c211ab-d534-4d55-8b0f-7d63e718da96",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "920c522a-57d2-4d42-820c-320bd9ac7df4",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 871.26,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:13:36.2643506Z",
+          "ModifiedAt": "2025-11-19T20:13:36.2643507Z",
+          "Actions": [
+            {
+              "Id": "9cc7280c-4d21-4ac0-b199-0376c32669fc",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "154ad71f-427b-4681-852a-7eb3efbd45b0",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 914.16,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:13:49.3101562Z",
+          "ModifiedAt": "2025-11-19T20:13:49.3101563Z",
+          "Actions": [
+            {
+              "Id": "c570344b-bd60-40fd-baee-2b66d3c03651",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        }
+      ],
+      "LogicSequences": []
+    },
+    "TheWeaponsRefrainUltimate": {
+      "Id": "88f029dc-2b92-4c80-9706-c35339ae68b0",
+      "Name": "TheWeaponsRefrainUltimate",
+      "Description": "",
+      "ZoneId": 777,
+      "CreatedAt": "2025-11-19T14:31:29.9500057Z",
+      "ModifiedAt": "2025-11-19T20:22:46.9614899Z",
+      "VisualizerSettings": {
+        "TimeScale": 50.0,
+        "ClusterThreshold": 0.5,
+        "LastScrollPosition": 46530.0
+      },
+      "ActionSequences": [
+        {
+          "Id": "11d44f5c-c71e-41db-9751-0dc39ab68ece",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 36.5,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:16:20.4760233Z",
+          "ModifiedAt": "2025-11-19T20:16:20.4760233Z",
+          "Actions": [
+            {
+              "Id": "928185cd-c8f2-4b75-a877-9d7d3ab8cad0",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "fd31ad95-09d9-4333-80e3-e0fbce55f1b6",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 159.14,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:17:16.5985978Z",
+          "ModifiedAt": "2025-11-19T20:17:16.5985979Z",
+          "Actions": [
+            {
+              "Id": "38e53ebb-2b89-42ac-a44f-441a07e99827",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "b242d5a0-281b-4a73-957d-670c8090ae9a",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 222.04,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:18:06.015134Z",
+          "ModifiedAt": "2025-11-19T20:18:06.015134Z",
+          "Actions": [
+            {
+              "Id": "e1224f86-79e5-40b5-8fb8-64b1c321c9af",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "8975d1fb-fa23-4c96-a6c6-bec2905f86b7",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 333.36,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:18:31.380936Z",
+          "ModifiedAt": "2025-11-19T20:18:31.380936Z",
+          "Actions": [
+            {
+              "Id": "41dd4b36-0845-42b4-8818-ecc497898864",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "139d7301-38c1-474c-95c2-b38035c0f8cc",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 413.5,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:18:56.9387894Z",
+          "ModifiedAt": "2025-11-19T20:18:56.9387895Z",
+          "Actions": [
+            {
+              "Id": "d7bce5dd-636d-4097-8933-50f977d9188b",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "bb00480a-dafd-4c32-a064-d001c990496e",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 424.2,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:19:13.2048233Z",
+          "ModifiedAt": "2025-11-19T20:19:13.2048233Z",
+          "Actions": [
+            {
+              "Id": "a35e6ad1-d5b1-4cec-a80e-7e19cb59ee76",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "1413e363-9e5b-4f6d-9344-c1736d9b3f05",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 567.78,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:19:54.4871459Z",
+          "ModifiedAt": "2025-11-19T20:19:54.487146Z",
+          "Actions": [
+            {
+              "Id": "c8d103c5-1bad-4b04-97be-ad9d695a265e",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "84fa3741-3843-42f2-853f-676069932600",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 647.54,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:20:32.5697052Z",
+          "ModifiedAt": "2025-11-19T20:20:32.5697053Z",
+          "Actions": [
+            {
+              "Id": "d7ee6969-2b03-4a10-8253-fa5f2ba80810",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "f21501f5-9686-4675-bfe8-7ea790dd3483",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 737.56,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:21:01.6533244Z",
+          "ModifiedAt": "2025-11-19T20:21:01.6533245Z",
+          "Actions": [
+            {
+              "Id": "6351a4c1-4567-48cb-8a0e-05472836ae9b",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "78ff7c64-9b0a-40f7-bdb1-529036bcac37",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 778.5,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:21:39.7330914Z",
+          "ModifiedAt": "2025-11-19T20:21:39.7330914Z",
+          "Actions": [
+            {
+              "Id": "5cac3961-cbea-4e51-8424-dfdc0dbc4521",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "b3e89a1c-9e84-442e-9da1-312a36605822",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 863.1,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:22:23.6143361Z",
+          "ModifiedAt": "2025-11-19T20:22:23.6143362Z",
+          "Actions": [
+            {
+              "Id": "4c9ba519-be43-4d86-b005-cb1f7647fed0",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "86cfe684-00d3-4196-a3c4-439fac114854",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 899.6,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:22:46.9614845Z",
+          "ModifiedAt": "2025-11-19T20:22:46.9614846Z",
+          "Actions": [
+            {
+              "Id": "47415e2f-8e1f-4dae-9dca-f63fa7332162",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        }
+      ],
+      "LogicSequences": []
+    },
+    "FuturesRewrittenUltimate": {
+      "Id": "e7ec844a-3a43-435b-9894-c61fe8227734",
+      "Name": "FuturesRewrittenUltimate",
+      "Description": "",
+      "ZoneId": 1238,
+      "CreatedAt": "2025-11-19T14:31:29.7192567Z",
+      "ModifiedAt": "2025-11-19T20:32:18.7680891Z",
+      "VisualizerSettings": {
+        "TimeScale": 50.0,
+        "ClusterThreshold": 0.5,
+        "LastScrollPosition": 63447.0
+      },
+      "ActionSequences": [
+        {
+          "Id": "df17b39e-c577-4208-a452-5df598ac9713",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 12.32,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:25:03.0327346Z",
+          "ModifiedAt": "2025-11-19T20:25:03.0327346Z",
+          "Actions": [
+            {
+              "Id": "c7887d33-a05d-4bef-b47e-db4044b3ca54",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "8d476678-f4ec-44f9-a7cf-bc40e970f858",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 84.44,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:25:58.084512Z",
+          "ModifiedAt": "2025-11-19T20:25:58.0845121Z",
+          "Actions": [
+            {
+              "Id": "0953dcf0-d48e-44e9-9d70-37af9241818b",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "6ba639eb-95d9-4a10-85f9-43b12f9cc119",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 111.78,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:26:07.3182663Z",
+          "ModifiedAt": "2025-11-19T20:26:07.3182663Z",
+          "Actions": [
+            {
+              "Id": "33d6902d-7e8a-4ce4-9c4e-0d545f62e17f",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "fac5f91f-1560-4dea-a107-2e92156c623e",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 211.8,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:26:27.1555675Z",
+          "ModifiedAt": "2025-11-19T20:26:27.1555675Z",
+          "Actions": [
+            {
+              "Id": "6b7651a7-7f91-4df8-8e94-814de2af0852",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "4fbbb678-2758-4203-8e28-b5070a986ef7",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 240.8,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:26:37.3807929Z",
+          "ModifiedAt": "2025-11-19T20:26:37.3807929Z",
+          "Actions": [
+            {
+              "Id": "c73fda6a-a45a-4c66-8b29-bf0267a980dc",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "c899f36b-d7e9-4ff6-83c0-4249359ccece",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 343.66,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:27:04.959038Z",
+          "ModifiedAt": "2025-11-19T20:27:04.959038Z",
+          "Actions": [
+            {
+              "Id": "c2f7e22b-191c-4a6a-a8bf-921f119a391d",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "7ef1b178-0975-4807-b4a5-647b73f4e265",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 456.6,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:27:36.5491928Z",
+          "ModifiedAt": "2025-11-19T20:27:36.5491928Z",
+          "Actions": [
+            {
+              "Id": "6148a214-cd6e-4b22-82b6-f43688c330cf",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "e83eaa11-5d7d-4a8c-acbf-321da08a684e",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 507.68,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:28:30.6164549Z",
+          "ModifiedAt": "2025-11-19T20:28:30.6164549Z",
+          "Actions": [
+            {
+              "Id": "c53c6971-d038-4056-9c22-58c9a689a859",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "dd3c7f3b-3745-4e13-a0ba-238d016d7421",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 585.06,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:29:36.1922057Z",
+          "ModifiedAt": "2025-11-19T20:29:36.1922058Z",
+          "Actions": [
+            {
+              "Id": "cb2d7ed8-cd28-4c72-b6fa-782d8b2a8fa3",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "267d9dde-a5e3-4920-b55c-e1f6c2ba1fe8",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 677.64,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:30:16.6953494Z",
+          "ModifiedAt": "2025-11-19T20:30:16.6953495Z",
+          "Actions": [
+            {
+              "Id": "c9c8576c-0f5c-4e29-b83e-49f059aa903b",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "9200bea4-0f7e-4304-a027-6988c7647029",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 740.58,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:30:35.0719459Z",
+          "ModifiedAt": "2025-11-19T20:30:35.0719459Z",
+          "Actions": [
+            {
+              "Id": "655cb84c-bdb6-43ed-aefd-aa4e8e1ee225",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "5b39cbdf-7264-4e7e-845d-ffc06e1bfff2",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 861.6,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:31:20.4503625Z",
+          "ModifiedAt": "2025-11-19T20:31:20.4503625Z",
+          "Actions": [
+            {
+              "Id": "01363433-7c10-4b96-a9e1-4a75427c6e29",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "b0b51e4f-9e1a-474a-b087-bf8fcb735ace",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 931.02,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:31:36.1981342Z",
+          "ModifiedAt": "2025-11-19T20:31:36.1981342Z",
+          "Actions": [
+            {
+              "Id": "2617a3e1-4876-43ae-aa2b-3790da8f295d",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "65e6d7bb-6e40-4f8f-8e5d-dac48d1e9a73",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 961.28,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:31:49.3014208Z",
+          "ModifiedAt": "2025-11-19T20:31:49.3014208Z",
+          "Actions": [
+            {
+              "Id": "8a828501-0d70-46d2-a4f9-a952e1782e42",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "21bb1cdd-8ef4-4118-8599-69b137b9b53b",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 1051.84,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:32:07.8228872Z",
+          "ModifiedAt": "2025-11-19T20:32:07.8228872Z",
+          "Actions": [
+            {
+              "Id": "94bc3864-cfe4-417e-b06c-7123454fd123",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "59bce510-8c9a-43b7-a7d9-d8005c83cef6",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 1065.02,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:32:18.7680832Z",
+          "ModifiedAt": "2025-11-19T20:32:18.7680833Z",
+          "Actions": [
+            {
+              "Id": "031e0fa0-acd4-421e-bcd0-f353e4bf98b4",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        }
+      ],
+      "LogicSequences": []
+    },
+    "TheUnendingCoilOfBahamutUltimate": {
+      "Id": "c7f8cb6a-1fdd-4646-a569-d70d05116c52",
+      "Name": "TheUnendingCoilOfBahamutUltimate",
+      "Description": "",
+      "ZoneId": 733,
+      "CreatedAt": "2025-11-19T14:31:29.9451416Z",
+      "ModifiedAt": "2025-11-19T20:42:38.9547753Z",
+      "VisualizerSettings": {
+        "TimeScale": 50.0,
+        "ClusterThreshold": 0.5,
+        "LastScrollPosition": 47700.0
+      },
+      "ActionSequences": [
+        {
+          "Id": "4eb769a2-12b2-4253-9308-5da3d356535f",
+          "Name": "Action Sequence",
+          "Description": "Sequence with 2 actions",
+          "Time": 4.98,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:37:11.5478194Z",
+          "ModifiedAt": "2025-11-19T20:37:11.5478194Z",
+          "Actions": [
+            {
+              "Id": "0bdd7341-be8a-4805-875e-3678bbea94ef",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            },
+            {
+              "Id": "423e2cc3-be7a-468f-9f45-58856d835af1",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "66c01917-0670-46fe-8d6f-3dd6b82299d1",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 144.12,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:37:47.3433443Z",
+          "ModifiedAt": "2025-11-19T20:37:47.3433444Z",
+          "Actions": [
+            {
+              "Id": "f29c45e5-155f-47a1-9fa9-436af1055408",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "c75d1f75-aa67-444a-ad54-690b912e9c27",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 207.46,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:38:12.3923217Z",
+          "ModifiedAt": "2025-11-19T20:38:12.3923217Z",
+          "Actions": [
+            {
+              "Id": "e30e99aa-5d98-4640-9b34-ae7a4d39af55",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "55276ef0-09a2-48f5-b1f3-df28c66a9357",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 278.34,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:38:30.6000333Z",
+          "ModifiedAt": "2025-11-19T20:38:30.6000334Z",
+          "Actions": [
+            {
+              "Id": "25bc76bc-2bc4-49ca-8ea0-418c3629fa82",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "8d86d23b-d658-4d25-aa6d-428946e23477",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 374.32,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:38:57.619922Z",
+          "ModifiedAt": "2025-11-19T20:38:57.6199221Z",
+          "Actions": [
+            {
+              "Id": "f0880253-2df6-4df9-993c-945b849128c1",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "0e0ca774-8b31-4290-a87a-3a8aaa3a0b5b",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 418.34,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:39:13.3650856Z",
+          "ModifiedAt": "2025-11-19T20:39:13.3650857Z",
+          "Actions": [
+            {
+              "Id": "6169ff88-86f8-4952-87ae-5c75193850d0",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "783a6cb2-b5fe-48eb-b6ed-89e12d85b381",
+          "Name": "Action Sequence",
+          "Description": "Sequence with 2 actions",
+          "Time": 548.58,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:40:29.6651499Z",
+          "ModifiedAt": "2025-11-19T20:40:29.6651499Z",
+          "Actions": [
+            {
+              "Id": "0bdd7341-be8a-4805-875e-3678bbea94ef",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            },
+            {
+              "Id": "423e2cc3-be7a-468f-9f45-58856d835af1",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "2adb3e5a-4571-418c-8ca6-a1037bd29883",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 669.28,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:40:57.2365798Z",
+          "ModifiedAt": "2025-11-19T20:40:57.2365798Z",
+          "Actions": [
+            {
+              "Id": "e66ff3c0-e080-4f17-8ab1-4e97617622ea",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "089e69da-5335-45bd-904c-807276973490",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 676.62,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:41:12.4664441Z",
+          "ModifiedAt": "2025-11-19T20:41:12.4664441Z",
+          "Actions": [
+            {
+              "Id": "30792d50-406d-4720-ade4-1c27711c8804",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "2b3f0cf8-1bea-480d-bf7c-06eef7667d53",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 816.74,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:41:44.9003635Z",
+          "ModifiedAt": "2025-11-19T20:41:44.9003636Z",
+          "Actions": [
+            {
+              "Id": "25a079fa-8ab3-465f-9bfb-2d13f87a82ec",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "d45f60a6-9350-4427-8aac-92acd6125a25",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 821.62,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:42:00.994849Z",
+          "ModifiedAt": "2025-11-19T20:42:00.9948492Z",
+          "Actions": [
+            {
+              "Id": "ac98939b-6766-41fd-8573-3e0f7d302673",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "e19710c2-a0f6-43a5-9ab7-510320ee5664",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 951.84,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:42:31.5366117Z",
+          "ModifiedAt": "2025-11-19T20:42:31.5366118Z",
+          "Actions": [
+            {
+              "Id": "862bdd4f-4144-4dcc-ad62-5c837c884656",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "649689b0-6169-433c-bb8f-3fe7566f6582",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 957.7,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-19T20:42:38.9547696Z",
+          "ModifiedAt": "2025-11-19T20:42:38.9547696Z",
+          "Actions": [
+            {
+              "Id": "af569d06-6623-4f67-8e8a-c507980257d4",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        }
+      ],
+      "LogicSequences": []
+    },
+    "TheMinstrelsBalladSphenesBurden": {
+      "Id": "ee6340bc-682f-40a0-81cf-41e35e427904",
+      "Name": "TheMinstrelsBalladSphenesBurden",
+      "Description": "",
+      "ZoneId": 1243,
+      "CreatedAt": "2025-11-30T21:57:12.8242154Z",
+      "ModifiedAt": "2025-11-30T22:10:06.893924Z",
+      "VisualizerSettings": {
+        "TimeScale": 50.0,
+        "ClusterThreshold": 0.5,
+        "LastScrollPosition": 2790.0
+      },
+      "ActionSequences": [
+        {
+          "Id": "43b4fc0c-235a-49e9-8854-c63e5f4fce78",
+          "Name": "Action Sequence",
+          "Description": "Auto-added: NativeHotbar change",
+          "Time": 46.17526,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-30T22:05:53.0046943Z",
+          "ModifiedAt": "2025-11-30T22:05:53.0046945Z",
+          "Actions": [
+            {
+              "Id": "29ef6651-d6e9-4c6b-a4af-f8e38d58e19c",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "3c8eac43-3b4f-4c37-addf-25f767aa4f18",
+          "Name": "Action Sequence",
+          "Description": "Auto-added: NativeHotbar change",
+          "Time": 71.26991,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-30T22:05:32.7948608Z",
+          "ModifiedAt": "2025-11-30T22:05:32.794861Z",
+          "Actions": [
+            {
+              "Id": "f9d54af5-8e8e-418f-a4c8-3d894b3aabfd",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "5e7d513d-8dc6-450a-a9ee-2c645893c12a",
+          "Name": "Action Sequence",
+          "Description": "Auto-added: NativeHotbar change",
+          "Time": 144.95453,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-11-30T22:05:31.1398909Z",
+          "ModifiedAt": "2025-11-30T22:05:31.139891Z",
+          "Actions": [
+            {
+              "Id": "a42f5335-f6d6-4d59-ab35-bcd7b8b68e83",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        }
+      ],
+      "LogicSequences": []
+    },
+    "WorqorLarDorExtreme": {
+      "Id": "7960f6d0-f65d-4c64-9943-6f1f55d47e04",
+      "Name": "WorqorLarDorExtreme",
+      "Description": "",
+      "ZoneId": 1196,
+      "CreatedAt": "2025-12-02T04:37:01.2670378Z",
+      "ModifiedAt": "2025-12-02T04:43:27.2011397Z",
+      "VisualizerSettings": {
+        "TimeScale": 50.0,
+        "ClusterThreshold": 0.5,
+        "LastScrollPosition": 200858.0
+      },
+      "ActionSequences": [
+        {
+          "Id": "24fce0a8-1a42-4144-89da-b966f8d9f657",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 45.88,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-12-02T04:40:56.2274449Z",
+          "ModifiedAt": "2025-12-02T04:40:56.2274449Z",
+          "Actions": [
+            {
+              "Id": "78526d90-05a4-48c9-b6e2-b0cb729675e7",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "57881fb9-790d-42ff-af90-fe61e544ff22",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 129.24,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-12-02T04:42:02.4631929Z",
+          "ModifiedAt": "2025-12-02T04:42:02.463193Z",
+          "Actions": [
+            {
+              "Id": "3f2fe3c2-4ef9-4fa9-ad1d-5c5745411c1b",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "cc2f2a3f-0a9c-40db-a309-66a6a762752e",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 186.52,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-12-02T04:42:33.4231731Z",
+          "ModifiedAt": "2025-12-02T04:42:33.4231732Z",
+          "Actions": [
+            {
+              "Id": "19fe3387-0902-4d50-bf99-218c7669bb34",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "831b8617-31f5-41f7-9cb1-8daa53c0fb72",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 285.02,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-12-02T04:42:56.8371577Z",
+          "ModifiedAt": "2025-12-02T04:42:56.8371578Z",
+          "Actions": [
+            {
+              "Id": "5afd080f-aff4-4a5f-934f-3e5e79ea61e2",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "7fa88f0a-f55b-452b-b01a-01788ee9d0e3",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 306.84,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-12-02T04:43:10.5897753Z",
+          "ModifiedAt": "2025-12-02T04:43:10.5897753Z",
+          "Actions": [
+            {
+              "Id": "8a6b4fda-06c2-433d-99b5-139fbc82604f",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "aa47813c-6580-4d5d-9969-d2cb922250ee",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 405.0,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-12-02T04:43:27.2011334Z",
+          "ModifiedAt": "2025-12-02T04:43:27.2011335Z",
+          "Actions": [
+            {
+              "Id": "5ccbcdab-952c-455b-9f26-2704f030c785",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        }
+      ],
+      "LogicSequences": []
+    },
+    "EverkeepExtreme": {
+      "Id": "af9ae093-a58c-45f2-98c2-1b1c2f72d8a5",
+      "Name": "EverkeepExtreme",
+      "Description": "",
+      "ZoneId": 1201,
+      "CreatedAt": "2025-12-02T04:37:00.9708849Z",
+      "ModifiedAt": "2025-12-02T04:49:42.3335497Z",
+      "VisualizerSettings": {
+        "TimeScale": 50.0,
+        "ClusterThreshold": 0.5,
+        "LastScrollPosition": 17640.0
+      },
+      "ActionSequences": [
+        {
+          "Id": "ffb4449e-ecb2-420a-8696-c8c2dc3243b9",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 4.92,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-12-02T04:45:36.1125389Z",
+          "ModifiedAt": "2025-12-02T04:45:36.1125389Z",
+          "Actions": [
+            {
+              "Id": "90199bce-d5b3-43a9-a85d-55e5a6c157b4",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "a4ad1372-535c-4e4b-96b9-014d45e3bebf",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 66.68,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-12-02T04:45:17.0452915Z",
+          "ModifiedAt": "2025-12-02T04:45:17.0452916Z",
+          "Actions": [
+            {
+              "Id": "5f87e5a1-7cd1-4f37-ab96-9a6f25fcbacd",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "5ea878a7-2044-4238-87f2-ef5ab2bb4309",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 140.94,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-12-02T04:48:21.6290458Z",
+          "ModifiedAt": "2025-12-02T04:48:21.6290459Z",
+          "Actions": [
+            {
+              "Id": "f452a3a4-8a6f-47f4-b54e-8af0883246c3",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "70a6bd85-8851-4059-9c39-481fcb8c0cb6",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 201.66,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-12-02T04:48:35.0993836Z",
+          "ModifiedAt": "2025-12-02T04:48:35.0993837Z",
+          "Actions": [
+            {
+              "Id": "9a8e0a84-118d-46c8-b3b5-3c90076b4962",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "b9c14b3b-b798-4366-9af9-9e58f14f6077",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 237.44,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-12-02T04:48:54.8580898Z",
+          "ModifiedAt": "2025-12-02T04:48:54.8580899Z",
+          "Actions": [
+            {
+              "Id": "e8f30cb5-6d66-41d6-8feb-33ffb36c1d99",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "ea5c9785-b179-417e-ac4a-88b10726c35c",
+          "Name": "Action Sequence",
+          "Description": "Sequence with 2 actions",
+          "Time": 356.06006,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-12-02T04:49:25.2357528Z",
+          "ModifiedAt": "2025-12-02T04:49:37.6491807Z",
+          "Actions": [
+            {
+              "Id": "c875c718-6a8e-478a-91cb-0f1fed87807a",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            },
+            {
+              "Id": "2a07b644-35c4-4122-94fe-380cb36d4793",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        }
+      ],
+      "LogicSequences": []
+    },
+    "TheInterphos": {
+      "Id": "08376890-e09f-4759-94e5-ef119f0bd783",
+      "Name": "TheInterphos",
+      "Description": "",
+      "ZoneId": 1202,
+      "CreatedAt": "2025-12-02T04:37:01.1106352Z",
+      "ModifiedAt": "2025-12-02T04:56:03.7907781Z",
+      "VisualizerSettings": {
+        "TimeScale": 50.0,
+        "ClusterThreshold": 0.5,
+        "LastScrollPosition": 24300.0
+      },
+      "ActionSequences": [
+        {
+          "Id": "6965d406-2c0f-489d-8494-f40770723ade",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 26.8,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-12-02T04:53:40.016976Z",
+          "ModifiedAt": "2025-12-02T04:53:40.0169761Z",
+          "Actions": [
+            {
+              "Id": "bef433d1-e905-4d39-903a-c0b933791f8e",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "630e8541-dbdf-4f21-b2a0-9a48e2aff6a7",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 56.58,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-12-02T04:53:48.7522994Z",
+          "ModifiedAt": "2025-12-02T04:53:48.7522994Z",
+          "Actions": [
+            {
+              "Id": "d0295c33-11ea-4360-a909-9fd050bd8b0c",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "e9400a1f-edfa-40d0-86fd-b4c8cdbf4b2f",
+          "Name": "Action Sequence",
+          "Description": "Sequence with 2 actions",
+          "Time": 144.28,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-12-02T04:54:37.9257484Z",
+          "ModifiedAt": "2025-12-02T04:54:37.9257484Z",
+          "Actions": [
+            {
+              "Id": "2e555d90-01da-4543-9d8b-029ee63caa2a",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            },
+            {
+              "Id": "6f79d2c3-040f-4256-8f6a-2138341174fe",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "30c346b6-2ad4-4734-a6e0-9065df719bf4",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 296.3,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-12-02T04:55:12.5136689Z",
+          "ModifiedAt": "2025-12-02T04:55:12.513669Z",
+          "Actions": [
+            {
+              "Id": "67c9cd40-a4e6-4006-827b-460b9b89d8b7",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "325f511e-efb6-4ab4-825f-d4421892014f",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 299.28,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-12-02T04:55:23.2130793Z",
+          "ModifiedAt": "2025-12-02T04:55:23.2130794Z",
+          "Actions": [
+            {
+              "Id": "2260bc12-e829-4ce0-800f-8c060a27d166",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "23a6f839-c211-4a7d-9396-e645ed99e6fa",
+          "Name": "Action Sequence",
+          "Description": "Sequence with 2 actions",
+          "Time": 424.42,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-12-02T04:56:03.7907751Z",
+          "ModifiedAt": "2025-12-02T04:56:03.7907751Z",
+          "Actions": [
+            {
+              "Id": "2e555d90-01da-4543-9d8b-029ee63caa2a",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            },
+            {
+              "Id": "6f79d2c3-040f-4256-8f6a-2138341174fe",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        }
+      ],
+      "LogicSequences": []
+    },
+    "RecollectionExtreme": {
+      "Id": "ea6cce7d-64c6-4e18-b25c-980edabb88e7",
+      "Name": "RecollectionExtreme",
+      "Description": "",
+      "ZoneId": 1271,
+      "CreatedAt": "2025-12-02T04:37:01.0246772Z",
+      "ModifiedAt": "2025-12-11T16:42:32.2274226Z",
+      "VisualizerSettings": {
+        "TimeScale": 50.0,
+        "ClusterThreshold": 0.5,
+        "LastScrollPosition": 6750.0
+      },
+      "ActionSequences": [
+        {
+          "Id": "f57c4ea3-c920-4400-aee8-f1b88ad3d73e",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 3.58,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-12-02T05:04:17.3171928Z",
+          "ModifiedAt": "2025-12-02T05:04:17.3171929Z",
+          "Actions": [
+            {
+              "Id": "dd312aea-b0cf-4c83-a681-7f963d6d113d",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "b5522bd8-f39d-4c3d-bc19-39f33f9cb313",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 82.24,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-12-02T05:03:51.8634088Z",
+          "ModifiedAt": "2025-12-02T05:03:51.8634089Z",
+          "Actions": [
+            {
+              "Id": "b67cbabb-8b62-431e-8f78-0a954638fe9a",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "ba6a531c-eb23-4640-8396-2c7c0f854c62",
+          "Name": "Action Sequence",
+          "Description": "Sequence with 1 actions",
+          "Time": 105.4,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-12-11T16:42:12.3770814Z",
+          "ModifiedAt": "2025-12-11T16:42:12.3770815Z",
+          "Actions": [
+            {
+              "Id": "8ad1e476-18ec-40a2-ba2a-c3f70ef65e48",
+              "ActionId": 0,
+              "SkillbarId": "SaveCD",
+              "TTSText": "",
+              "TriggerType": 1,
+              "LogicOperator": 4,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "b9b900a5-3164-4de8-b9f9-937841252d17",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 150.8,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-12-02T05:05:03.4023478Z",
+          "ModifiedAt": "2025-12-02T05:05:03.4023478Z",
+          "Actions": [
+            {
+              "Id": "261c2e96-f101-4673-a96f-5fd6e7a24a2a",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "e96d7eb2-a180-4582-b4a4-59197ffbbb28",
+          "Name": "Action Sequence",
+          "Description": "Sequence with 1 actions",
+          "Time": 155.6,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-12-11T16:42:26.4694962Z",
+          "ModifiedAt": "2025-12-11T16:42:26.4694965Z",
+          "Actions": [
+            {
+              "Id": "3df4c25f-4904-40ae-9c7d-559e18bfce77",
+              "ActionId": 0,
+              "SkillbarId": "SaveCD",
+              "TTSText": "",
+              "TriggerType": 1,
+              "LogicOperator": 8,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "b86a2e08-9383-4e37-85a2-d3854e07e2ba",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 198.68,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-12-02T05:04:44.5992067Z",
+          "ModifiedAt": "2025-12-02T05:04:44.5992068Z",
+          "Actions": [
+            {
+              "Id": "2afb9922-f941-4282-a866-c36f7e327141",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "28ae93af-ea8f-4c38-84e1-bebdcf649708",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 285.1,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-12-02T05:05:27.9945131Z",
+          "ModifiedAt": "2025-12-02T05:05:27.9945132Z",
+          "Actions": [
+            {
+              "Id": "ec39289f-10a2-4a43-843f-96dc409b373c",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "a1a5a91b-f670-4b09-bed6-a62e8572b363",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 312.36,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-12-02T05:05:51.6475299Z",
+          "ModifiedAt": "2025-12-02T05:05:51.64753Z",
+          "Actions": [
+            {
+              "Id": "f1e7ef0e-3096-4279-85b6-4b99f783f681",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "0146904e-9c85-49ce-81f8-0ea1782eeacf",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 431.36,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-12-02T05:06:15.8163361Z",
+          "ModifiedAt": "2025-12-02T05:06:15.8163362Z",
+          "Actions": [
+            {
+              "Id": "888162be-3d11-4ed6-a531-8d33c59ec1c9",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "ea1a5006-a83a-48b4-9f41-ccec61d45fc6",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 436.56,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-12-02T05:06:38.1152057Z",
+          "ModifiedAt": "2025-12-02T05:06:38.1152057Z",
+          "Actions": [
+            {
+              "Id": "9282a3ed-257b-43f3-9ab0-a88ca7a3bb36",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        }
+      ],
+      "LogicSequences": []
+    },
+    "TheMinstrelsBalladNecronsEmbrace": {
+      "Id": "6bc2e71d-4b67-4997-9a90-e58e959ca975",
+      "Name": "TheMinstrelsBalladNecronsEmbrace",
+      "Description": "",
+      "ZoneId": 1296,
+      "CreatedAt": "2025-12-02T04:37:01.1260721Z",
+      "ModifiedAt": "2025-12-02T05:22:53.7790464Z",
+      "VisualizerSettings": {
+        "TimeScale": 50.0,
+        "ClusterThreshold": 0.5,
+        "LastScrollPosition": 15201.0
+      },
+      "ActionSequences": [
+        {
+          "Id": "17fa2831-649a-4d39-92f3-3be7f146d0d4",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 0.76,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-12-02T05:18:00.8300311Z",
+          "ModifiedAt": "2025-12-02T05:18:00.8300311Z",
+          "Actions": [
+            {
+              "Id": "d0281320-c03e-4c5e-af62-94dd7170f2d4",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "2371cd56-3231-4030-8818-bfc24ccdb0f8",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 1.66,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-12-02T05:18:19.2403283Z",
+          "ModifiedAt": "2025-12-02T05:18:19.2403283Z",
+          "Actions": [
+            {
+              "Id": "d792cb7f-88d9-447f-a65e-741d45748d1e",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "c1a217ef-9a26-47b4-8563-8a17c3ef809c",
+          "Name": "Action Sequence",
+          "Description": "Sequence with 2 actions",
+          "Time": 122.44,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-12-02T05:18:46.5850734Z",
+          "ModifiedAt": "2025-12-02T05:18:46.5850735Z",
+          "Actions": [
+            {
+              "Id": "72485b7e-e906-43c1-82b2-92ce625f76b0",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            },
+            {
+              "Id": "832c34e8-be6c-4e3a-a30a-753d1f70ffe9",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "06b9d206-6b90-4390-987c-974a0d260b58",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 217.28,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-12-02T05:19:24.0582962Z",
+          "ModifiedAt": "2025-12-02T05:19:24.0582963Z",
+          "Actions": [
+            {
+              "Id": "cfe5632e-3350-46c2-bcad-be3a1ec6f002",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "e87aee97-8363-4b81-8cc8-31e4e46adf46",
+          "Name": "Action Sequence",
+          "Description": "Sequence with 1 actions",
+          "Time": 237.8,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-12-02T05:22:35.9736062Z",
+          "ModifiedAt": "2025-12-02T05:22:35.9736065Z",
+          "Actions": [
+            {
+              "Id": "46a5856c-ae5a-4a2a-b1fa-f45db0ba51e0",
+              "ActionId": 0,
+              "SkillbarId": "SaveCD",
+              "TTSText": "",
+              "TriggerType": 1,
+              "LogicOperator": 4,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "d55e7aa6-26cc-4519-b610-4c31520b3c18",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 275.26,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-12-02T05:19:41.3588957Z",
+          "ModifiedAt": "2025-12-02T05:19:41.3588957Z",
+          "Actions": [
+            {
+              "Id": "38bca4ff-16b2-4eb5-996e-03567836367f",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "9a77921b-61f8-42c2-80d7-eeeeed657cc7",
+          "Name": "Action Sequence",
+          "Description": "Sequence with 1 actions",
+          "Time": 310.22,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-12-02T05:22:53.7790417Z",
+          "ModifiedAt": "2025-12-02T05:22:53.7790419Z",
+          "Actions": [
+            {
+              "Id": "ba11536b-be84-49ea-adfd-55d01b4e6caf",
+              "ActionId": 0,
+              "SkillbarId": "SaveCD",
+              "TTSText": "",
+              "TriggerType": 1,
+              "LogicOperator": 8,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "0a8d537b-3b6d-44e3-8f66-4d07205514d5",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 325.08,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-12-02T05:20:07.5080459Z",
+          "ModifiedAt": "2025-12-02T05:20:07.508046Z",
+          "Actions": [
+            {
+              "Id": "1c49bd49-ce2a-42fb-a5e4-8764765cd89d",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "7772bce9-30a9-4c68-a217-735f89e57487",
+          "Name": "Action Sequence",
+          "Description": "Sequence with 2 actions",
+          "Time": 459.94,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-12-02T05:20:33.9204952Z",
+          "ModifiedAt": "2025-12-02T05:20:33.9204953Z",
+          "Actions": [
+            {
+              "Id": "72485b7e-e906-43c1-82b2-92ce625f76b0",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            },
+            {
+              "Id": "832c34e8-be6c-4e3a-a30a-753d1f70ffe9",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        }
+      ],
+      "LogicSequences": []
+    },
+    "TheWindwardWildsExtreme": {
+      "Id": "585fa2bc-6316-42f0-9a55-034e4e53ba0b",
+      "Name": "TheWindwardWildsExtreme",
+      "Description": "",
+      "ZoneId": 1306,
+      "CreatedAt": "2025-12-02T04:37:01.2521308Z",
+      "ModifiedAt": "2025-12-02T05:16:41.5798202Z",
+      "VisualizerSettings": {
+        "TimeScale": 50.0,
+        "ClusterThreshold": 0.5,
+        "LastScrollPosition": 34268.0
+      },
+      "ActionSequences": [
+        {
+          "Id": "fa2e861f-7163-4dd8-b5f4-5f29b19b01d0",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 0.48,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-12-02T05:15:05.6477496Z",
+          "ModifiedAt": "2025-12-02T05:15:05.6477497Z",
+          "Actions": [
+            {
+              "Id": "7dd6e9e2-47c1-4dc3-9a5a-8270a4869397",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "6d7a4b8c-7ec1-4aca-b8a5-d344d7a7ee51",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Dismantle",
+          "Time": 67.92,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-12-02T05:15:17.2041677Z",
+          "ModifiedAt": "2025-12-02T05:15:17.2041677Z",
+          "Actions": [
+            {
+              "Id": "1fbbe58a-bcdc-4be0-9925-b413843daf71",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "7acba79b-2d83-4e23-aac9-739905d22f4e",
+          "Name": "Action Sequence",
+          "Description": "Quick Drop: Tactician",
+          "Time": 121.42,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-12-02T05:15:31.5014313Z",
+          "ModifiedAt": "2025-12-02T05:15:31.5014313Z",
+          "Actions": [
+            {
+              "Id": "c7e431d1-b747-4c34-b94e-1009af08f791",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "e903ad98-e2e1-4c94-bd27-e8bd75569b7e",
+          "Name": "Action Sequence",
+          "Description": "Sequence with 2 actions",
+          "Time": 213.28,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-12-02T05:15:56.0686933Z",
+          "ModifiedAt": "2025-12-02T05:15:56.0686933Z",
+          "Actions": [
+            {
+              "Id": "58e1d7d8-e393-467b-bc59-b45d0b1b1af7",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            },
+            {
+              "Id": "a60f8ebd-1638-4218-a743-5510b91b5309",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "ed97d0fe-7230-414a-9398-7126fcf0d55b",
+          "Name": "Action Sequence",
+          "Description": "Sequence with 2 actions",
+          "Time": 461.34,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-12-02T05:16:25.0743453Z",
+          "ModifiedAt": "2025-12-02T05:16:25.0743454Z",
+          "Actions": [
+            {
+              "Id": "a60f8ebd-1638-4218-a743-5510b91b5309",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            },
+            {
+              "Id": "58e1d7d8-e393-467b-bc59-b45d0b1b1af7",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        },
+        {
+          "Id": "b2cc792a-0ac2-4287-8947-49f3eec749bc",
+          "Name": "Action Sequence",
+          "Description": "Sequence with 2 actions",
+          "Time": 637.26,
+          "Timeout": 5.0,
+          "CreatedAt": "2025-12-02T05:16:41.5798167Z",
+          "ModifiedAt": "2025-12-02T05:16:41.5798167Z",
+          "Actions": [
+            {
+              "Id": "a60f8ebd-1638-4218-a743-5510b91b5309",
+              "ActionId": 16889,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 0,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            },
+            {
+              "Id": "58e1d7d8-e393-467b-bc59-b45d0b1b1af7",
+              "ActionId": 2887,
+              "SkillbarId": "",
+              "TTSText": "",
+              "TriggerType": 0,
+              "LogicOperator": 0,
+              "TargetType": 1,
+              "TargetSelectionStrategy": 6,
+              "SkipBuffId": 0,
+              "TargetOperation": 0,
+              "TargetDataId": 0,
+              "TargetName": ""
+            }
+          ]
+        }
+      ],
+      "LogicSequences": []
+    }
+  },
+  "Conditions": [],
+  "Logics": [],
+  "CreatedAt": "2025-11-19T14:43:36.2869534Z",
+  "ModifiedAt": "2025-11-19T14:43:36.2869535Z"
+}
