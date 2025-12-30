@@ -1,9 +1,9 @@
 {
-  "Id": "MCH AUTO MIT (Copy)_2",
-  "Name": "MCH AUTO MIT (Copy)_2",
+  "Id": "Blackmage",
+  "Name": "Blackmage",
   "Description": "",
   "CreatedAt": "2025-09-07T15:27:36.6567597Z",
-  "ModifiedAt": "2025-12-30T18:28:33.1067508Z",
+  "ModifiedAt": "2025-12-30T18:40:12.0753161Z",
   "Events": [
     {
       "Id": "bedd208a-ebf2-4f96-aa97-c8bd814ee2a7",
@@ -17,7 +17,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-09-08T08:53:14.2342149Z",
-      "ModifiedAt": "2025-12-30T18:26:43.8167011Z"
+      "ModifiedAt": "2025-12-30T18:39:52.5034395Z"
     },
     {
       "Id": "dc3da58d-3ab3-494e-ae38-326a2cdfdb48",
@@ -31,7 +31,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-09-10T11:17:15.8671315Z",
-      "ModifiedAt": "2025-12-30T18:26:53.2473224Z"
+      "ModifiedAt": "2025-12-30T18:39:55.0743532Z"
     }
   ],
   "Conditions": [
@@ -3321,7 +3321,7 @@
       }
     ],
     "ToggleStates": {
-      "9f51548a-d631-41a0-9fa3-7e2b093f4399": true,
+      "9f51548a-d631-41a0-9fa3-7e2b093f4399": false,
       "bcdddb2e-db7d-40fc-8632-651d1bff02c9": false
     }
   },
