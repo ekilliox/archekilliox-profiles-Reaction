@@ -3,6 +3,7 @@ Full general reactions for all content types
 
 ------------------------------------------------------------------------
 TANK PROFILES:
+
 -Paladin-<br>
 Auto Holy Sheltron to avoid overcapping gauge<br>
 Auto buddymit feature<br>
