@@ -4,22 +4,22 @@ Full general reactions for all content types
 ------------------------------------------------------------------------
 TANK PROFILES:
 -Paladin-
-Auto Holy Sheltron to avoid overcapping gauge\
-Auto buddymit feature\
-Full auto mitigation toggles\
-Emergency invuln toggle\
-Holding of cooldowns\ 
-Auto enabling burn boss on final boss/trials/raids\
-Stance management for off-tanks\
+Auto Holy Sheltron to avoid overcapping gauge<br>
+Auto buddymit feature<br>
+Full auto mitigation toggles<br>
+Emergency invuln toggle<br>
+Holding of cooldowns<br>
+Auto enabling burn boss on final boss/trials/raids<br>
+Stance management for off-tanks<br>
 
 -Gunbreaker-
-Automatic Aurora
-Auto buddymit feature
-Full auto mitigation toggles 
-Emergency invuln toggle
-Holding of cooldowns 
-Auto enabling burn boss on final boss/trials/raids
-Stance management for off-tanks
+Automatic Aurora<br>
+Auto buddymit feature<br>
+Full auto mitigation toggles<br> 
+Emergency invuln toggle<br>
+Holding of cooldowns<br>
+Auto enabling burn boss on final boss/trials/raids<br>
+Stance management for off-tanks<br>
 
 -Warrior-
 Auto Bloodwhetting
