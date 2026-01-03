@@ -3,7 +3,7 @@ Full general reactions for all content types
 
 ------------------------------------------------------------------------
 TANK PROFILES:
--Paladin-
+-Paladin-<br>
 Auto Holy Sheltron to avoid overcapping gauge<br>
 Auto buddymit feature<br>
 Full auto mitigation toggles<br>
@@ -12,7 +12,7 @@ Holding of cooldowns<br>
 Auto enabling burn boss on final boss/trials/raids<br>
 Stance management for off-tanks<br>
 
--Gunbreaker-
+-Gunbreaker-<br>
 Automatic Aurora<br>
 Auto buddymit feature<br>
 Full auto mitigation toggles<br> 
@@ -21,7 +21,7 @@ Holding of cooldowns<br>
 Auto enabling burn boss on final boss/trials/raids<br>
 Stance management for off-tanks<br>
 
--Warrior-
+-Warrior-<br>
 Auto Bloodwhetting<br>
 Emergency heal via equilibrium<br>
 Auto buddymit feature<br>
