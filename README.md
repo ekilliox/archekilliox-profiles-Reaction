@@ -22,95 +22,96 @@ Auto enabling burn boss on final boss/trials/raids<br>
 Stance management for off-tanks<br>
 
 -Warrior-
-Auto Bloodwhetting
-Emergency heal via equilibrium
-Auto buddymit feature
-Full auto mitigation toggles 
-Emergency invuln toggle
-Holding of cooldowns 
-Auto enabling burn boss on final boss/trials/raids
-Stance management for off-tanks
+Auto Bloodwhetting<br>
+Emergency heal via equilibrium<br>
+Auto buddymit feature<br>
+Full auto mitigation toggles<br>
+Emergency invuln toggle<br>
+Holding of cooldowns<br>
+Auto enabling burn boss on final boss/trials/raids<br>
+Stance management for off-tanks<br>
 
-(Coming soon)
--Dark Knight-
-Auto buddymit feature
-Full auto mitigation toggles 
-Emergency invuln toggle
-Holding of cooldowns 
-Auto enabling burn boss on final boss/trials/raids
-Stance management for off-tanks
+(Coming soon)<br>
+-Dark Knight-<br>
+Auto buddymit feature<br>
+Full auto mitigation toggles <br>
+Emergency invuln toggle<br>
+Holding of cooldowns <br>
+Auto enabling burn boss on final boss/trials/raids<br>
+Stance management for off-tanks<br>
 
 ------------------------------------------------------------------------
-MELEE PROFILES: 
--Reaper-
-(Arcane Crest for all raidwide) + wipe opener + soulsow out combat
+MELEE PROFILES:
 
--Samurai-
-Automatic Tengentsu for all raidwide
-Bloodbath <= -50% hp  second wind <= -25% hp (Don't die friend dps) ❤️ 
+-Reaper-<br>
+(Arcane Crest for all raidwide) + wipe opener + soulsow out combat<br>
+
+-Samurai-<br>
+Automatic Tengentsu for all raidwide<br>
+Bloodbath <= -50% hp  second wind <= -25% hp (Don't die friend dps) ❤️ <br>
 
 ------------------------------------------------------------------------
 CASTER PROFILES:
 
--Black Mage-
-Auto mitigation
-New features coming soon!
+-Black Mage-<br>
+Auto mitigation<br>
+New features coming soon!<br>
 
--Pictomancer-
-Auto mitigation
-New features coming soon!
+-Pictomancer-<br>
+Auto mitigation<br>
+New features coming soon!<br>
 
--Red Mage-
-Auto use of Magick barrier
-New features coming soon!
+-Red Mage-<br>
+Auto use of Magick barrier<br>
+New features coming soon!<br>
 
--Summoner-
-New features coming soon!
+-Summoner-<br>
+New features coming soon!<br>
 
 ------------------------------------------------------------------------
 PHYS RANGE PROFILES:
 
--Dancer-
-Auto Shield Samba on incoming raidwides (best used in casual content)
-Automatic curing waltz & second wind -50%
-Toggles for holding cooldowns in dungeons
-Toggle for enabling burn boss on final boss/raids/trials
+-Dancer-<br>
+Auto Shield Samba on incoming raidwides (best used in casual content)<br>
+Automatic curing waltz & second wind -50%<br>
+Toggles for holding cooldowns in dungeons<br>
+Toggle for enabling burn boss on final boss/raids/trials<br>
 
--Machinist-
-Auto Dismantle/Tactician for incoming raidwides (best used in casual content)
-Toggles for holding cooldowns in dungeons
-Toggle for enabling burn boss on final boss/raids/trials
+-Machinist-<br>
+Auto Dismantle/Tactician for incoming raidwides (best used in casual content)<br>
+Toggles for holding cooldowns in dungeons<br>
+Toggle for enabling burn boss on final boss/raids/trials<br>
 
--Bard-
-New features coming soon!
+-Bard-<br>
+New features coming soon!<br>
 
 ------------------------------------------------------------------------
-TIMELINES: 
+TIMELINES: <br>
 
-For MCH R1
-Go 99 mit :3
+For MCH R1<br>
+Go 99 mit :3<br>
 
-Savage 
-M1S 
-M2S 
-M3S 
-M4S 
-M5S 
-M6S (2minute for add)
-M7S 
-M8S 
+Savage <br>
+M1S <br>
+M2S <br>
+M3S <br>
+M4S <br>
+M5S <br>
+M6S (2minute for add)<br>
+M7S <br>
+M8S <br>
 
-Ultimate
-FRU
-TOP 
-DSR 
-TEA
-UCOB
-UWU
+Ultimate<br>
+FRU<br>
+TOP <br>
+DSR <br>
+TEA<br>
+UCOB<br>
+UWU<br>
 
-Trial
-Zoraal Ja
-Queen Eternal
-Zelenia (2minute after the adds)
-Necron  (2minute after the adds)
-Guardian Arveld
+Trial<br>
+Zoraal Ja<br>
+Queen Eternal<br>
+Zelenia (2minute after the adds)<br>
+Necron  (2minute after the adds)<br>
+Guardian Arveld<br>
