@@ -3,7 +3,7 @@
   "Name": "archekilliox-gnb",
   "Description": "",
   "CreatedAt": "2025-08-14T04:53:49.8169798Z",
-  "ModifiedAt": "2026-01-05T23:18:57.6572315Z",
+  "ModifiedAt": "2026-01-05T23:30:40.7003148Z",
   "Events": [
     {
       "Id": "f2daaf1d-c477-42b2-9db1-baa49330bfe3",
@@ -17,7 +17,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-12T20:28:34.9132756Z",
-      "ModifiedAt": "2026-01-05T23:19:02.8564161Z"
+      "ModifiedAt": "2026-01-05T23:31:02.17014Z"
     },
     {
       "Id": "3b4c3657-448e-452f-952d-ea562cf330fb",
@@ -31,7 +31,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-12T20:29:16.5924414Z",
-      "ModifiedAt": "2026-01-05T23:19:06.3239928Z"
+      "ModifiedAt": "2026-01-05T23:31:03.9560083Z"
     },
     {
       "Id": "732a7c9a-5487-474b-bb80-91bf92cd7e74",
@@ -45,7 +45,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-12T20:23:27.0455383Z",
-      "ModifiedAt": "2026-01-05T23:19:08.194789Z"
+      "ModifiedAt": "2026-01-05T23:31:05.9759908Z"
     },
     {
       "Id": "09325808-4e89-4c09-a62e-5ea2aec65eac",
@@ -59,7 +59,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-14T02:35:46.8628569Z",
-      "ModifiedAt": "2026-01-05T23:19:09.6001593Z"
+      "ModifiedAt": "2026-01-05T23:31:07.4280202Z"
     },
     {
       "Id": "565fe51c-9d06-4338-bb4e-ad1d0cba3e32",
@@ -73,7 +73,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-12T20:28:17.4766558Z",
-      "ModifiedAt": "2026-01-05T23:19:11.5080774Z"
+      "ModifiedAt": "2026-01-05T23:31:09.8061379Z"
     },
     {
       "Id": "1b066cf9-12d8-450d-866e-677d61da153d",
@@ -87,7 +87,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-12T20:27:33.1643991Z",
-      "ModifiedAt": "2026-01-05T23:19:13.934541Z"
+      "ModifiedAt": "2026-01-05T23:31:11.3388644Z"
     },
     {
       "Id": "a6cdc6d2-6171-4f55-8f53-dbde09c85e86",
@@ -101,7 +101,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-13T05:47:18.104461Z",
-      "ModifiedAt": "2026-01-05T23:19:15.8872214Z"
+      "ModifiedAt": "2026-01-05T23:31:12.9152617Z"
     },
     {
       "Id": "f6a9ba02-bb93-406b-b7ad-b171fc3aa3d0",
@@ -115,7 +115,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-13T05:50:13.2969325Z",
-      "ModifiedAt": "2026-01-05T23:19:18.7881482Z"
+      "ModifiedAt": "2026-01-05T23:31:14.2591102Z"
     },
     {
       "Id": "08c75b56-6f6e-4b0c-88f7-7f58282253c4",
@@ -129,7 +129,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-10-06T20:54:10.239536Z",
-      "ModifiedAt": "2026-01-05T23:19:20.7017015Z"
+      "ModifiedAt": "2026-01-05T23:31:15.5735793Z"
     },
     {
       "Id": "5a47325b-00d5-4e36-8843-040393757b89",
@@ -143,7 +143,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-11-29T20:46:01.621465Z",
-      "ModifiedAt": "2026-01-05T23:19:22.8511772Z"
+      "ModifiedAt": "2026-01-05T23:31:17.0945015Z"
     },
     {
       "Id": "f97dfcaf-0ec7-4a05-aa20-89d26a48e419",
@@ -157,7 +157,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-11-29T20:48:00.0845001Z",
-      "ModifiedAt": "2026-01-05T23:19:24.5198195Z"
+      "ModifiedAt": "2026-01-05T23:31:18.5327474Z"
     },
     {
       "Id": "78f2c611-1379-41d2-a2bd-26f59e78abb9",
@@ -171,7 +171,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-03T00:06:54.3440002Z",
-      "ModifiedAt": "2026-01-05T23:19:26.246576Z"
+      "ModifiedAt": "2026-01-05T23:31:19.7428875Z"
     },
     {
       "Id": "b1a53fa1-f7f0-433b-ab95-0a01e86b12dd",
@@ -185,7 +185,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-03T00:07:04.6635422Z",
-      "ModifiedAt": "2026-01-05T23:19:28.0778434Z"
+      "ModifiedAt": "2026-01-05T23:31:21.3477706Z"
     },
     {
       "Id": "0f848527-2363-4851-9ca7-73666e9414b1",
@@ -199,7 +199,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-03T00:14:50.1039412Z",
-      "ModifiedAt": "2026-01-05T23:19:29.9441585Z"
+      "ModifiedAt": "2026-01-05T23:31:23.1376788Z"
     },
     {
       "Id": "65f5a501-e2a1-47af-9a1f-9c3b22f298a3",
@@ -213,7 +213,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-03T21:52:11.3787339Z",
-      "ModifiedAt": "2026-01-05T23:19:31.6756694Z"
+      "ModifiedAt": "2026-01-05T23:31:26.0457324Z"
     },
     {
       "Id": "b14f1b3c-1603-4c32-bc6f-9759e6b68265",
@@ -227,7 +227,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-05T23:17:18.1797238Z",
-      "ModifiedAt": "2026-01-05T23:19:34.6597362Z"
+      "ModifiedAt": "2026-01-05T23:31:30.8319032Z"
     }
   ],
   "Conditions": [
@@ -5670,6 +5670,31 @@
           "VariableOperation": 0
         },
         {
+          "Id": "999be5d6-f551-4e2f-be13-034aac6bb2f0",
+          "ActionId": 7548,
+          "SkillbarId": "",
+          "TTSText": "",
+          "TriggerType": 0,
+          "LogicOperator": 1,
+          "TargetType": 0,
+          "TargetSelectionStrategy": 6,
+          "SkipBuffId": 0,
+          "TargetOperation": 0,
+          "TargetDataId": 0,
+          "TargetName": "",
+          "TargetX": 0.0,
+          "TargetY": 0.0,
+          "TargetZ": 0.0,
+          "OverlayText": "",
+          "OverlayDuration": 3.0,
+          "VariableName": "",
+          "VariableType": 0,
+          "VariableBoolValue": true,
+          "VariableStringValue": "",
+          "VariableNumberValue": 0.0,
+          "VariableOperation": 0
+        },
+        {
           "Id": "205270e7-1d42-4b5f-a58d-02726a2392a2",
           "ActionId": 7535,
           "SkillbarId": "",
@@ -5771,7 +5796,7 @@
         }
       ],
       "CreatedAt": "2025-08-12T20:19:14.0787708Z",
-      "ModifiedAt": "2026-01-02T23:49:24.2822849Z",
+      "ModifiedAt": "2026-01-05T23:30:29.2130306Z",
       "ExecuteFirstOnly": true
     },
     {
@@ -5789,6 +5814,31 @@
         {
           "Id": "8ccb424b-4d5d-485f-baec-195eec2c1ee8",
           "ActionId": 25758,
+          "SkillbarId": "",
+          "TTSText": "",
+          "TriggerType": 0,
+          "LogicOperator": 1,
+          "TargetType": 0,
+          "TargetSelectionStrategy": 6,
+          "SkipBuffId": 0,
+          "TargetOperation": 0,
+          "TargetDataId": 0,
+          "TargetName": "",
+          "TargetX": 0.0,
+          "TargetY": 0.0,
+          "TargetZ": 0.0,
+          "OverlayText": "",
+          "OverlayDuration": 3.0,
+          "VariableName": "",
+          "VariableType": 0,
+          "VariableBoolValue": true,
+          "VariableStringValue": "",
+          "VariableNumberValue": 0.0,
+          "VariableOperation": 0
+        },
+        {
+          "Id": "cd4becaf-4af6-419b-bf66-b2e3ff2d07c4",
+          "ActionId": 7548,
           "SkillbarId": "",
           "TTSText": "",
           "TriggerType": 0,
@@ -5913,7 +5963,7 @@
         }
       ],
       "CreatedAt": "2025-08-12T20:17:16.0236881Z",
-      "ModifiedAt": "2026-01-02T23:49:11.3475196Z",
+      "ModifiedAt": "2026-01-05T23:30:35.2804584Z",
       "ExecuteFirstOnly": true
     },
     {
@@ -6887,5 +6937,5 @@
       "f5037307-642a-4429-877c-58b929566bc9": true
     }
   },
-  "Version": "1.0.1"
+  "Version": "1.0.2"
 }
