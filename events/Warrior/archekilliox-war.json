@@ -1,9 +1,9 @@
 {
-  "Id": "archekilliox-war",
-  "Name": "archekilliox-war",
+  "Id": "archekilliox-war (Copy)",
+  "Name": "archekilliox-war (Copy)",
   "Description": "",
   "CreatedAt": "2025-08-14T04:53:49.8169798Z",
-  "ModifiedAt": "2026-01-03T23:47:56.206814Z",
+  "ModifiedAt": "2026-01-05T23:24:41.5369794Z",
   "Events": [
     {
       "Id": "f2daaf1d-c477-42b2-9db1-baa49330bfe3",
@@ -17,7 +17,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-12T20:28:34.9132756Z",
-      "ModifiedAt": "2026-01-03T23:49:14.150699Z"
+      "ModifiedAt": "2026-01-05T23:24:45.8757442Z"
     },
     {
       "Id": "3b4c3657-448e-452f-952d-ea562cf330fb",
@@ -31,7 +31,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-12T20:29:16.5924414Z",
-      "ModifiedAt": "2026-01-03T23:49:23.8745913Z"
+      "ModifiedAt": "2026-01-05T23:24:48.8025314Z"
     },
     {
       "Id": "732a7c9a-5487-474b-bb80-91bf92cd7e74",
@@ -45,7 +45,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-12T20:23:27.0455383Z",
-      "ModifiedAt": "2026-01-03T23:49:25.4520909Z"
+      "ModifiedAt": "2026-01-05T23:24:53.7796902Z"
     },
     {
       "Id": "09325808-4e89-4c09-a62e-5ea2aec65eac",
@@ -59,7 +59,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-14T02:35:46.8628569Z",
-      "ModifiedAt": "2026-01-03T23:49:26.6766333Z"
+      "ModifiedAt": "2026-01-05T23:24:56.2192702Z"
     },
     {
       "Id": "565fe51c-9d06-4338-bb4e-ad1d0cba3e32",
@@ -73,7 +73,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-12T20:28:17.4766558Z",
-      "ModifiedAt": "2026-01-03T23:49:27.9202537Z"
+      "ModifiedAt": "2026-01-05T23:24:58.1111627Z"
     },
     {
       "Id": "1b066cf9-12d8-450d-866e-677d61da153d",
@@ -87,7 +87,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-12T20:27:33.1643991Z",
-      "ModifiedAt": "2026-01-03T23:49:29.4151144Z"
+      "ModifiedAt": "2026-01-05T23:25:00.0703056Z"
     },
     {
       "Id": "a6cdc6d2-6171-4f55-8f53-dbde09c85e86",
@@ -101,7 +101,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-13T05:47:18.104461Z",
-      "ModifiedAt": "2026-01-03T23:49:31.2173224Z"
+      "ModifiedAt": "2026-01-05T23:25:01.7443363Z"
     },
     {
       "Id": "08c75b56-6f6e-4b0c-88f7-7f58282253c4",
@@ -115,7 +115,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-10-06T20:54:10.239536Z",
-      "ModifiedAt": "2026-01-03T23:49:32.9969142Z"
+      "ModifiedAt": "2026-01-05T23:25:26.7799247Z"
     },
     {
       "Id": "5a47325b-00d5-4e36-8843-040393757b89",
@@ -129,7 +129,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-11-29T20:46:01.621465Z",
-      "ModifiedAt": "2026-01-03T23:49:34.4320115Z"
+      "ModifiedAt": "2026-01-05T23:25:28.4591216Z"
     },
     {
       "Id": "f97dfcaf-0ec7-4a05-aa20-89d26a48e419",
@@ -143,7 +143,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-11-29T20:48:00.0845001Z",
-      "ModifiedAt": "2026-01-03T23:49:35.7793004Z"
+      "ModifiedAt": "2026-01-05T23:25:30.6054818Z"
     },
     {
       "Id": "78f2c611-1379-41d2-a2bd-26f59e78abb9",
@@ -157,7 +157,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-03T00:06:54.3440002Z",
-      "ModifiedAt": "2026-01-03T23:49:37.3649696Z"
+      "ModifiedAt": "2026-01-05T23:25:32.2198608Z"
     },
     {
       "Id": "0f848527-2363-4851-9ca7-73666e9414b1",
@@ -171,7 +171,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-03T00:14:50.1039412Z",
-      "ModifiedAt": "2026-01-03T23:49:39.2647028Z"
+      "ModifiedAt": "2026-01-05T23:25:34.0542796Z"
     },
     {
       "Id": "6faa69f2-c15d-4fdc-850e-76823035610f",
@@ -185,7 +185,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-03T20:13:35.6221496Z",
-      "ModifiedAt": "2026-01-03T23:49:40.960439Z"
+      "ModifiedAt": "2026-01-05T23:25:35.5830173Z"
     },
     {
       "Id": "2d80ee64-f724-4599-9e89-1e3cc4569aec",
@@ -199,21 +199,21 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-03T20:19:19.9377126Z",
-      "ModifiedAt": "2026-01-03T23:49:42.5098888Z"
+      "ModifiedAt": "2026-01-05T23:25:37.050727Z"
     },
     {
       "Id": "4a1a57d1-548b-493e-b997-a5f4834de436",
       "Name": "Panic Heal",
       "Description": "",
       "EventType": "OnTick",
-      "LogicId": "385998fa-c6d8-4b31-a102-07c17fcc3e9a",
+      "LogicId": "ab041c02-24ba-4078-8ec5-66cea860df61",
       "ThrottleSameEvent": 0.5,
       "ThrottleAllEvents": 0.1,
       "Timeout": 5.0,
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-03T20:20:18.3895338Z",
-      "ModifiedAt": "2026-01-03T23:50:32.3485781Z"
+      "ModifiedAt": "2026-01-05T23:25:38.590524Z"
     },
     {
       "Id": "7b40e31b-cb13-4075-9cb6-7e6583968814",
@@ -227,7 +227,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-03T23:17:59.8902273Z",
-      "ModifiedAt": "2026-01-03T23:49:55.9867718Z"
+      "ModifiedAt": "2026-01-05T23:25:40.2260312Z"
     }
   ],
   "Conditions": [
@@ -6276,6 +6276,45 @@
       "ExecuteFirstOnly": false
     },
     {
+      "Id": "ab041c02-24ba-4078-8ec5-66cea860df61",
+      "Name": "Panic Heal",
+      "Description": "",
+      "LogicType": 0,
+      "ConditionIds": [
+        "887a22c3-db4b-4035-8eb1-cdc569878b07"
+      ],
+      "ActionTriggers": [
+        {
+          "Id": "f915eb02-04c9-4dd3-8132-11e4e34dbd49",
+          "ActionId": 3552,
+          "SkillbarId": "",
+          "TTSText": "",
+          "TriggerType": 0,
+          "LogicOperator": 1,
+          "TargetType": 0,
+          "TargetSelectionStrategy": 6,
+          "SkipBuffId": 0,
+          "TargetOperation": 0,
+          "TargetDataId": 0,
+          "TargetName": "",
+          "TargetX": 0.0,
+          "TargetY": 0.0,
+          "TargetZ": 0.0,
+          "OverlayText": "",
+          "OverlayDuration": 3.0,
+          "VariableName": "",
+          "VariableType": 0,
+          "VariableBoolValue": true,
+          "VariableStringValue": "",
+          "VariableNumberValue": 0.0,
+          "VariableOperation": 0
+        }
+      ],
+      "CreatedAt": "2026-01-05T23:14:07.7045013Z",
+      "ModifiedAt": "2026-01-05T23:14:33.621492Z",
+      "ExecuteFirstOnly": false
+    },
+    {
       "Id": "62f479f7-9a5f-4d78-9b8c-6c6a2b1ceb60",
       "Name": "Stance",
       "Description": "",
@@ -6530,5 +6569,5 @@
       "a8eef397-9faa-4bd2-bbd1-85cd9bddbfd6": true
     }
   },
-  "Version": "1.0.1"
+  "Version": "1.0.2"
 }

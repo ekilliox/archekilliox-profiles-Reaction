@@ -1,9 +1,9 @@
 {
-  "Id": "archetype-gnb",
-  "Name": "archetype-gnb",
+  "Id": "archekilliox-gnb",
+  "Name": "archekilliox-gnb",
   "Description": "",
   "CreatedAt": "2025-08-14T04:53:49.8169798Z",
-  "ModifiedAt": "2026-01-03T21:54:38.9074223Z",
+  "ModifiedAt": "2026-01-05T23:18:57.6572315Z",
   "Events": [
     {
       "Id": "f2daaf1d-c477-42b2-9db1-baa49330bfe3",
@@ -17,7 +17,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-12T20:28:34.9132756Z",
-      "ModifiedAt": "2026-01-03T21:50:57.348179Z"
+      "ModifiedAt": "2026-01-05T23:19:02.8564161Z"
     },
     {
       "Id": "3b4c3657-448e-452f-952d-ea562cf330fb",
@@ -31,7 +31,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-12T20:29:16.5924414Z",
-      "ModifiedAt": "2026-01-03T21:50:57.3481799Z"
+      "ModifiedAt": "2026-01-05T23:19:06.3239928Z"
     },
     {
       "Id": "732a7c9a-5487-474b-bb80-91bf92cd7e74",
@@ -45,7 +45,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-12T20:23:27.0455383Z",
-      "ModifiedAt": "2026-01-03T21:50:57.3481801Z"
+      "ModifiedAt": "2026-01-05T23:19:08.194789Z"
     },
     {
       "Id": "09325808-4e89-4c09-a62e-5ea2aec65eac",
@@ -59,7 +59,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-14T02:35:46.8628569Z",
-      "ModifiedAt": "2026-01-03T21:50:57.3481803Z"
+      "ModifiedAt": "2026-01-05T23:19:09.6001593Z"
     },
     {
       "Id": "565fe51c-9d06-4338-bb4e-ad1d0cba3e32",
@@ -73,7 +73,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-12T20:28:17.4766558Z",
-      "ModifiedAt": "2026-01-03T21:50:57.3481804Z"
+      "ModifiedAt": "2026-01-05T23:19:11.5080774Z"
     },
     {
       "Id": "1b066cf9-12d8-450d-866e-677d61da153d",
@@ -87,7 +87,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-12T20:27:33.1643991Z",
-      "ModifiedAt": "2026-01-03T21:50:57.3481807Z"
+      "ModifiedAt": "2026-01-05T23:19:13.934541Z"
     },
     {
       "Id": "a6cdc6d2-6171-4f55-8f53-dbde09c85e86",
@@ -101,7 +101,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-13T05:47:18.104461Z",
-      "ModifiedAt": "2026-01-03T21:50:57.3481808Z"
+      "ModifiedAt": "2026-01-05T23:19:15.8872214Z"
     },
     {
       "Id": "f6a9ba02-bb93-406b-b7ad-b171fc3aa3d0",
@@ -115,7 +115,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-13T05:50:13.2969325Z",
-      "ModifiedAt": "2026-01-03T21:50:57.348181Z"
+      "ModifiedAt": "2026-01-05T23:19:18.7881482Z"
     },
     {
       "Id": "08c75b56-6f6e-4b0c-88f7-7f58282253c4",
@@ -129,7 +129,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-10-06T20:54:10.239536Z",
-      "ModifiedAt": "2026-01-03T21:50:57.3481811Z"
+      "ModifiedAt": "2026-01-05T23:19:20.7017015Z"
     },
     {
       "Id": "5a47325b-00d5-4e36-8843-040393757b89",
@@ -143,7 +143,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-11-29T20:46:01.621465Z",
-      "ModifiedAt": "2026-01-03T21:50:57.3481813Z"
+      "ModifiedAt": "2026-01-05T23:19:22.8511772Z"
     },
     {
       "Id": "f97dfcaf-0ec7-4a05-aa20-89d26a48e419",
@@ -157,7 +157,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-11-29T20:48:00.0845001Z",
-      "ModifiedAt": "2026-01-03T21:50:57.3481815Z"
+      "ModifiedAt": "2026-01-05T23:19:24.5198195Z"
     },
     {
       "Id": "78f2c611-1379-41d2-a2bd-26f59e78abb9",
@@ -171,7 +171,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-03T00:06:54.3440002Z",
-      "ModifiedAt": "2026-01-03T21:50:57.3481816Z"
+      "ModifiedAt": "2026-01-05T23:19:26.246576Z"
     },
     {
       "Id": "b1a53fa1-f7f0-433b-ab95-0a01e86b12dd",
@@ -185,7 +185,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-03T00:07:04.6635422Z",
-      "ModifiedAt": "2026-01-03T21:50:57.3481818Z"
+      "ModifiedAt": "2026-01-05T23:19:28.0778434Z"
     },
     {
       "Id": "0f848527-2363-4851-9ca7-73666e9414b1",
@@ -199,7 +199,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-03T00:14:50.1039412Z",
-      "ModifiedAt": "2026-01-03T21:50:57.348182Z"
+      "ModifiedAt": "2026-01-05T23:19:29.9441585Z"
     },
     {
       "Id": "65f5a501-e2a1-47af-9a1f-9c3b22f298a3",
@@ -213,7 +213,21 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-03T21:52:11.3787339Z",
-      "ModifiedAt": "2026-01-03T21:52:29.3191603Z"
+      "ModifiedAt": "2026-01-05T23:19:31.6756694Z"
+    },
+    {
+      "Id": "b14f1b3c-1603-4c32-bc6f-9759e6b68265",
+      "Name": "Stance",
+      "Description": "",
+      "EventType": "OnWipe",
+      "LogicId": "ec0185f3-0bf0-47c7-a547-51fc74c7f474",
+      "ThrottleSameEvent": 0.5,
+      "ThrottleAllEvents": 0.1,
+      "Timeout": 5.0,
+      "RecheckDuration": 0.0,
+      "Filters": {},
+      "CreatedAt": "2026-01-05T23:17:18.1797238Z",
+      "ModifiedAt": "2026-01-05T23:19:34.6597362Z"
     }
   ],
   "Conditions": [
@@ -4390,7 +4404,7 @@
               "IsEnabled": true
             },
             "HealthParams": {
-              "Percentage": 50.0,
+              "Percentage": 80.1,
               "Comparison": 1,
               "UseRawValue": false,
               "RawValue": 1000,
@@ -4563,7 +4577,7 @@
         }
       ],
       "CreatedAt": "2026-01-02T23:58:36.3514729Z",
-      "ModifiedAt": "2026-01-03T00:02:43.7493512Z",
+      "ModifiedAt": "2026-01-04T02:14:05.6596904Z",
       "ExcludeFromTargetAccumulation": false
     },
     {
@@ -4988,7 +5002,7 @@
               "IsEnabled": true
             },
             "HealthParams": {
-              "Percentage": 80.0,
+              "Percentage": 90.2,
               "Comparison": 1,
               "UseRawValue": false,
               "RawValue": 1000,
@@ -5161,7 +5175,7 @@
         }
       ],
       "CreatedAt": "2026-01-03T00:02:55.3256903Z",
-      "ModifiedAt": "2026-01-03T00:03:23.7784906Z",
+      "ModifiedAt": "2026-01-04T02:14:11.9422172Z",
       "ExcludeFromTargetAccumulation": false
     },
     {
@@ -5368,6 +5382,212 @@
       ],
       "CreatedAt": "2026-01-03T00:11:10.6886328Z",
       "ModifiedAt": "2026-01-03T00:12:44.9638055Z",
+      "ExcludeFromTargetAccumulation": false
+    },
+    {
+      "Id": "cc6a2716-95d3-4d26-a63d-dacadec31012",
+      "Name": "Stance",
+      "Description": "",
+      "SubConditions": [
+        {
+          "Id": "d83c3544-16a4-4b71-9b7e-6195779d4ef4",
+          "Name": "Stance Off",
+          "Description": "",
+          "TargetType": 0,
+          "ConditionType": 0,
+          "Parameters": {
+            "BuffParams": {
+              "StatusId": 0,
+              "StatusIds": [],
+              "UseMultipleStatuses": false,
+              "StatusLogic": 1,
+              "CheckDuration": false,
+              "MinDuration": 0.0,
+              "DurationComparison": 3,
+              "CheckStacks": false,
+              "RequiredStacks": 1,
+              "StackComparison": 3,
+              "InvertCheck": false,
+              "RequiredBuffCount": 2,
+              "BuffCountComparison": 3,
+              "StatusTargetOverrides": {},
+              "IsEnabled": true
+            },
+            "HealthParams": {
+              "Percentage": 100.0,
+              "Comparison": 1,
+              "UseRawValue": false,
+              "RawValue": 1000,
+              "IsEnabled": true
+            },
+            "DistanceParams": {
+              "Distance": 0.0,
+              "Comparison": 1,
+              "CheckLineOfSight": false,
+              "IsEnabled": true
+            },
+            "GaugeParams": {
+              "PropertyName": "",
+              "ValueType": 0,
+              "NumericValue": 0.0,
+              "BooleanValue": false,
+              "StringValue": "",
+              "Comparison": 3,
+              "IsEnabled": true
+            },
+            "MpParams": {
+              "Percentage": 100.0,
+              "Comparison": 1,
+              "UseRawValue": false,
+              "RawValue": 1000,
+              "IsEnabled": true
+            },
+            "LastAbilityParams": {
+              "AbilityId": 1,
+              "TimeThreshold": 0.5,
+              "TimeComparison": 1,
+              "IsEnabled": true
+            },
+            "LastGcdParams": {
+              "AbilityId": 1,
+              "TimeThreshold": 0.5,
+              "TimeComparison": 1,
+              "IsEnabled": true
+            },
+            "CooldownParams": {
+              "AbilityId": 1,
+              "TimeThreshold": 0.0,
+              "TimeComparison": 2,
+              "CheckCharges": false,
+              "RequiredCharges": 1,
+              "IsEnabled": true
+            },
+            "ComboParams": {
+              "ComboId": 1,
+              "TimeRemaining": 0.0,
+              "TimeComparison": 3,
+              "IsEnabled": true
+            },
+            "MovementParams": {
+              "ExpectedState": true,
+              "IsEnabled": true
+            },
+            "ChannelingParams": {
+              "IsChanneling": true,
+              "SpecificAbilityId": 0,
+              "IsEnabled": true
+            },
+            "AggroParams": {
+              "HasAggro": true,
+              "AggroPosition": 1,
+              "PositionComparison": 2,
+              "IsEnabled": true
+            },
+            "AlwaysParams": {
+              "ExpectedState": true,
+              "IsEnabled": true
+            },
+            "InCombatParams": {
+              "ExpectedState": true,
+              "IsEnabled": true
+            },
+            "ActionHighlightedParams": {
+              "ActionId": 1,
+              "IsEnabled": true
+            },
+            "IsCastingParams": {
+              "IsCasting": true,
+              "SpecificActionId": 0,
+              "CheckSpecific": false,
+              "IsEnabled": true
+            },
+            "GcdTimeRemainingParams": {
+              "TimeThreshold": 2.5,
+              "Comparison": 1,
+              "IsEnabled": true
+            },
+            "CanInterruptParams": {
+              "CanInterrupt": true,
+              "IsEnabled": true
+            },
+            "EntityIdParams": {
+              "EntityId": 0,
+              "Comparison": 2,
+              "IsEnabled": true
+            },
+            "PartyHpAverageParams": {
+              "Percentage": 50.0,
+              "Comparison": 1,
+              "IsEnabled": true
+            },
+            "PartyHpLowestParams": {
+              "Percentage": 50.0,
+              "Comparison": 1,
+              "LowestMemberCount": 4,
+              "UseLowestMemberPercentage": false,
+              "LowestMemberPercentage": 50.0,
+              "IsEnabled": true
+            },
+            "PartyHpBandsParams": {
+              "CriticalThreshold": 30.0,
+              "LowThreshold": 50.0,
+              "ModerateThreshold": 70.0,
+              "RequiredCritical": 1,
+              "RequiredLow": 3,
+              "RequiredModerate": 5,
+              "BandLogic": 0,
+              "IsEnabled": true
+            },
+            "ActionChargesParams": {
+              "ActionId": 1,
+              "RequiredCharges": 1,
+              "Comparison": 3,
+              "CheckType": 0,
+              "TimeThreshold": 0.0,
+              "TimeComparison": 1,
+              "IsEnabled": true
+            },
+            "AggroCountParams": {
+              "RequiredCount": 1,
+              "CountComparison": 3,
+              "IsEnabled": true
+            },
+            "ShieldParams": {
+              "Percentage": 100.0,
+              "Comparison": 1,
+              "UseRawValue": false,
+              "RawValue": 1000,
+              "IsEnabled": true
+            },
+            "PartyShieldAverageParams": {
+              "Percentage": 20.0,
+              "Comparison": 3,
+              "IsEnabled": true
+            },
+            "VariableParams": {
+              "VariableName": "",
+              "VariableType": 0,
+              "ExpectedBoolValue": true,
+              "ExpectedStringValue": "",
+              "ExpectedNumberValue": 0.0,
+              "Comparison": 2,
+              "StringComparison": 0,
+              "InvertCheck": false,
+              "CheckExists": false,
+              "IsEnabled": true
+            }
+          },
+          "RequiredTargetCount": 1,
+          "TargetCountComparison": 3,
+          "UsePercentageMode": true,
+          "RequiredTargetPercentage": 50.0,
+          "CreatedAt": "2026-01-03T23:17:19.6144176Z",
+          "ModifiedAt": "2026-01-03T23:17:19.6144177Z",
+          "ShouldUseTargetCount": false
+        }
+      ],
+      "CreatedAt": "2026-01-05T23:11:13.2758851Z",
+      "ModifiedAt": "2026-01-05T23:11:13.2758851Z",
       "ExcludeFromTargetAccumulation": false
     }
   ],
@@ -6410,6 +6630,71 @@
       "CreatedAt": "2026-01-03T00:12:57.4594782Z",
       "ModifiedAt": "2026-01-03T00:14:31.3527902Z",
       "ExecuteFirstOnly": false
+    },
+    {
+      "Id": "ec0185f3-0bf0-47c7-a547-51fc74c7f474",
+      "Name": "Stance",
+      "Description": "",
+      "LogicType": 0,
+      "ConditionIds": [
+        "249a8ed2-49a5-4fac-b71b-072a4e8c749d",
+        "cc6a2716-95d3-4d26-a63d-dacadec31012"
+      ],
+      "ActionTriggers": [
+        {
+          "Id": "44e5aebf-63e8-482f-a5fb-396723d1b8b5",
+          "ActionId": 0,
+          "SkillbarId": "TankStance",
+          "TTSText": "",
+          "TriggerType": 1,
+          "LogicOperator": 8,
+          "TargetType": 1,
+          "TargetSelectionStrategy": 6,
+          "SkipBuffId": 0,
+          "TargetOperation": 0,
+          "TargetDataId": 0,
+          "TargetName": "",
+          "TargetX": 0.0,
+          "TargetY": 0.0,
+          "TargetZ": 0.0,
+          "OverlayText": "",
+          "OverlayDuration": 3.0,
+          "VariableName": "",
+          "VariableType": 0,
+          "VariableBoolValue": true,
+          "VariableStringValue": "",
+          "VariableNumberValue": 0.0,
+          "VariableOperation": 0
+        },
+        {
+          "Id": "e53d9f31-1f07-4a15-afff-edd4b8687a59",
+          "ActionId": 32068,
+          "SkillbarId": "",
+          "TTSText": "",
+          "TriggerType": 0,
+          "LogicOperator": 0,
+          "TargetType": 0,
+          "TargetSelectionStrategy": 6,
+          "SkipBuffId": 0,
+          "TargetOperation": 0,
+          "TargetDataId": 0,
+          "TargetName": "",
+          "TargetX": 0.0,
+          "TargetY": 0.0,
+          "TargetZ": 0.0,
+          "OverlayText": "",
+          "OverlayDuration": 3.0,
+          "VariableName": "",
+          "VariableType": 0,
+          "VariableBoolValue": true,
+          "VariableStringValue": "",
+          "VariableNumberValue": 0.0,
+          "VariableOperation": 0
+        }
+      ],
+      "CreatedAt": "2026-01-05T23:12:39.0817488Z",
+      "ModifiedAt": "2026-01-05T23:12:49.4660815Z",
+      "ExecuteFirstOnly": false
     }
   ],
   "QTBarConfig": {
@@ -6571,14 +6856,24 @@
         ],
         "Enabled": true,
         "Position": 14
+      },
+      {
+        "Id": "f5037307-642a-4429-877c-58b929566bc9",
+        "Name": "Stance OT",
+        "Description": "",
+        "EventIds": [
+          "b14f1b3c-1603-4c32-bc6f-9759e6b68265"
+        ],
+        "Enabled": true,
+        "Position": 15
       }
     ],
     "ToggleStates": {
       "cf6a5960-5035-4f57-9561-d6f8846ae131": false,
       "fd6236e3-f1d4-46c5-96a0-117c052adff4": false,
-      "072fc9c0-2923-42c1-90e4-8aa220eba0a0": false,
-      "9f65fecb-9378-499c-9c4f-88bd603bb1c5": false,
-      "677f6fdc-4fbc-444f-9b40-c7d54eee8ec0": false,
+      "072fc9c0-2923-42c1-90e4-8aa220eba0a0": true,
+      "9f65fecb-9378-499c-9c4f-88bd603bb1c5": true,
+      "677f6fdc-4fbc-444f-9b40-c7d54eee8ec0": true,
       "64f18124-b422-43d8-b2fd-fc359af1a6d7": false,
       "d81f6bcd-392e-4561-a03f-2c2989e6fb45": false,
       "df6d1cc3-cd46-477a-9300-24ab349e9872": false,
@@ -6588,8 +6883,9 @@
       "016f904b-11db-4135-9de6-25bd4634bca7": false,
       "c914f1a7-4786-4ea2-a9a3-01f150b36872": false,
       "6794c678-5c6f-45a5-88c6-d4f19b40bdf8": false,
-      "1b7bb064-7498-48a8-b688-0d0dd7980028": true
+      "1b7bb064-7498-48a8-b688-0d0dd7980028": false,
+      "f5037307-642a-4429-877c-58b929566bc9": true
     }
   },
-  "Version": "1.0.0"
+  "Version": "1.0.1"
 }

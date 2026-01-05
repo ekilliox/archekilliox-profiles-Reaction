@@ -3,7 +3,7 @@
   "Name": "archekilliox-drk",
   "Description": "",
   "CreatedAt": "2025-08-14T04:53:49.8169798Z",
-  "ModifiedAt": "2026-01-05T23:06:01.7541885Z",
+  "ModifiedAt": "2026-01-05T23:23:38.2744107Z",
   "Events": [
     {
       "Id": "3b4c3657-448e-452f-952d-ea562cf330fb",
@@ -17,7 +17,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-12T20:29:16.5924414Z",
-      "ModifiedAt": "2026-01-05T23:06:07.3775338Z"
+      "ModifiedAt": "2026-01-05T23:23:46.3212933Z"
     },
     {
       "Id": "732a7c9a-5487-474b-bb80-91bf92cd7e74",
@@ -31,7 +31,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-12T20:23:27.0455383Z",
-      "ModifiedAt": "2026-01-05T23:06:09.2256485Z"
+      "ModifiedAt": "2026-01-05T23:23:48.599197Z"
     },
     {
       "Id": "565fe51c-9d06-4338-bb4e-ad1d0cba3e32",
@@ -45,7 +45,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-12T20:28:17.4766558Z",
-      "ModifiedAt": "2026-01-05T23:06:10.7777012Z"
+      "ModifiedAt": "2026-01-05T23:23:50.5425133Z"
     },
     {
       "Id": "1b066cf9-12d8-450d-866e-677d61da153d",
@@ -59,7 +59,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-12T20:27:33.1643991Z",
-      "ModifiedAt": "2026-01-05T23:06:12.4988982Z"
+      "ModifiedAt": "2026-01-05T23:23:53.3023043Z"
     },
     {
       "Id": "a6cdc6d2-6171-4f55-8f53-dbde09c85e86",
@@ -73,7 +73,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-13T05:47:18.104461Z",
-      "ModifiedAt": "2026-01-05T23:06:14.5408555Z"
+      "ModifiedAt": "2026-01-05T23:23:55.1873153Z"
     },
     {
       "Id": "08c75b56-6f6e-4b0c-88f7-7f58282253c4",
@@ -87,7 +87,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-10-06T20:54:10.239536Z",
-      "ModifiedAt": "2026-01-05T23:06:16.1706146Z"
+      "ModifiedAt": "2026-01-05T23:23:57.3358576Z"
     },
     {
       "Id": "5a47325b-00d5-4e36-8843-040393757b89",
@@ -101,7 +101,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-11-29T20:46:01.621465Z",
-      "ModifiedAt": "2026-01-05T23:06:17.9274495Z"
+      "ModifiedAt": "2026-01-05T23:24:00.3251267Z"
     },
     {
       "Id": "78f2c611-1379-41d2-a2bd-26f59e78abb9",
@@ -115,7 +115,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-03T00:06:54.3440002Z",
-      "ModifiedAt": "2026-01-05T23:06:19.3658235Z"
+      "ModifiedAt": "2026-01-05T23:24:02.418517Z"
     },
     {
       "Id": "0f848527-2363-4851-9ca7-73666e9414b1",
@@ -129,7 +129,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-03T00:14:50.1039412Z",
-      "ModifiedAt": "2026-01-05T23:06:20.9438448Z"
+      "ModifiedAt": "2026-01-05T23:24:04.2732112Z"
     },
     {
       "Id": "65f5a501-e2a1-47af-9a1f-9c3b22f298a3",
@@ -143,7 +143,21 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-03T21:52:11.3787339Z",
-      "ModifiedAt": "2026-01-05T23:06:22.3087146Z"
+      "ModifiedAt": "2026-01-05T23:24:06.4034308Z"
+    },
+    {
+      "Id": "ff269048-453d-4cee-96a3-f8634242eef1",
+      "Name": "Stance",
+      "Description": "",
+      "EventType": "OnWipe",
+      "LogicId": "038edb64-1efe-4bb6-81cd-a87124d24b12",
+      "ThrottleSameEvent": 0.5,
+      "ThrottleAllEvents": 0.1,
+      "Timeout": 5.0,
+      "RecheckDuration": 0.0,
+      "Filters": {},
+      "CreatedAt": "2026-01-05T23:15:25.6106662Z",
+      "ModifiedAt": "2026-01-05T23:24:08.2373668Z"
     }
   ],
   "Conditions": [
@@ -4291,6 +4305,212 @@
       "CreatedAt": "2026-01-02T23:58:36.3514729Z",
       "ModifiedAt": "2026-01-04T02:14:05.6596904Z",
       "ExcludeFromTargetAccumulation": false
+    },
+    {
+      "Id": "e6e90d2d-b7fb-40f8-877c-8a2662b0f157",
+      "Name": "Stance",
+      "Description": "",
+      "SubConditions": [
+        {
+          "Id": "d83c3544-16a4-4b71-9b7e-6195779d4ef4",
+          "Name": "Stance Off",
+          "Description": "",
+          "TargetType": 0,
+          "ConditionType": 0,
+          "Parameters": {
+            "BuffParams": {
+              "StatusId": 0,
+              "StatusIds": [],
+              "UseMultipleStatuses": false,
+              "StatusLogic": 1,
+              "CheckDuration": false,
+              "MinDuration": 0.0,
+              "DurationComparison": 3,
+              "CheckStacks": false,
+              "RequiredStacks": 1,
+              "StackComparison": 3,
+              "InvertCheck": false,
+              "RequiredBuffCount": 2,
+              "BuffCountComparison": 3,
+              "StatusTargetOverrides": {},
+              "IsEnabled": true
+            },
+            "HealthParams": {
+              "Percentage": 100.0,
+              "Comparison": 1,
+              "UseRawValue": false,
+              "RawValue": 1000,
+              "IsEnabled": true
+            },
+            "DistanceParams": {
+              "Distance": 0.0,
+              "Comparison": 1,
+              "CheckLineOfSight": false,
+              "IsEnabled": true
+            },
+            "GaugeParams": {
+              "PropertyName": "",
+              "ValueType": 0,
+              "NumericValue": 0.0,
+              "BooleanValue": false,
+              "StringValue": "",
+              "Comparison": 3,
+              "IsEnabled": true
+            },
+            "MpParams": {
+              "Percentage": 100.0,
+              "Comparison": 1,
+              "UseRawValue": false,
+              "RawValue": 1000,
+              "IsEnabled": true
+            },
+            "LastAbilityParams": {
+              "AbilityId": 1,
+              "TimeThreshold": 0.5,
+              "TimeComparison": 1,
+              "IsEnabled": true
+            },
+            "LastGcdParams": {
+              "AbilityId": 1,
+              "TimeThreshold": 0.5,
+              "TimeComparison": 1,
+              "IsEnabled": true
+            },
+            "CooldownParams": {
+              "AbilityId": 1,
+              "TimeThreshold": 0.0,
+              "TimeComparison": 2,
+              "CheckCharges": false,
+              "RequiredCharges": 1,
+              "IsEnabled": true
+            },
+            "ComboParams": {
+              "ComboId": 1,
+              "TimeRemaining": 0.0,
+              "TimeComparison": 3,
+              "IsEnabled": true
+            },
+            "MovementParams": {
+              "ExpectedState": true,
+              "IsEnabled": true
+            },
+            "ChannelingParams": {
+              "IsChanneling": true,
+              "SpecificAbilityId": 0,
+              "IsEnabled": true
+            },
+            "AggroParams": {
+              "HasAggro": true,
+              "AggroPosition": 1,
+              "PositionComparison": 2,
+              "IsEnabled": true
+            },
+            "AlwaysParams": {
+              "ExpectedState": true,
+              "IsEnabled": true
+            },
+            "InCombatParams": {
+              "ExpectedState": true,
+              "IsEnabled": true
+            },
+            "ActionHighlightedParams": {
+              "ActionId": 1,
+              "IsEnabled": true
+            },
+            "IsCastingParams": {
+              "IsCasting": true,
+              "SpecificActionId": 0,
+              "CheckSpecific": false,
+              "IsEnabled": true
+            },
+            "GcdTimeRemainingParams": {
+              "TimeThreshold": 2.5,
+              "Comparison": 1,
+              "IsEnabled": true
+            },
+            "CanInterruptParams": {
+              "CanInterrupt": true,
+              "IsEnabled": true
+            },
+            "EntityIdParams": {
+              "EntityId": 0,
+              "Comparison": 2,
+              "IsEnabled": true
+            },
+            "PartyHpAverageParams": {
+              "Percentage": 50.0,
+              "Comparison": 1,
+              "IsEnabled": true
+            },
+            "PartyHpLowestParams": {
+              "Percentage": 50.0,
+              "Comparison": 1,
+              "LowestMemberCount": 4,
+              "UseLowestMemberPercentage": false,
+              "LowestMemberPercentage": 50.0,
+              "IsEnabled": true
+            },
+            "PartyHpBandsParams": {
+              "CriticalThreshold": 30.0,
+              "LowThreshold": 50.0,
+              "ModerateThreshold": 70.0,
+              "RequiredCritical": 1,
+              "RequiredLow": 3,
+              "RequiredModerate": 5,
+              "BandLogic": 0,
+              "IsEnabled": true
+            },
+            "ActionChargesParams": {
+              "ActionId": 1,
+              "RequiredCharges": 1,
+              "Comparison": 3,
+              "CheckType": 0,
+              "TimeThreshold": 0.0,
+              "TimeComparison": 1,
+              "IsEnabled": true
+            },
+            "AggroCountParams": {
+              "RequiredCount": 1,
+              "CountComparison": 3,
+              "IsEnabled": true
+            },
+            "ShieldParams": {
+              "Percentage": 100.0,
+              "Comparison": 1,
+              "UseRawValue": false,
+              "RawValue": 1000,
+              "IsEnabled": true
+            },
+            "PartyShieldAverageParams": {
+              "Percentage": 20.0,
+              "Comparison": 3,
+              "IsEnabled": true
+            },
+            "VariableParams": {
+              "VariableName": "",
+              "VariableType": 0,
+              "ExpectedBoolValue": true,
+              "ExpectedStringValue": "",
+              "ExpectedNumberValue": 0.0,
+              "Comparison": 2,
+              "StringComparison": 0,
+              "InvertCheck": false,
+              "CheckExists": false,
+              "IsEnabled": true
+            }
+          },
+          "RequiredTargetCount": 1,
+          "TargetCountComparison": 3,
+          "UsePercentageMode": true,
+          "RequiredTargetPercentage": 50.0,
+          "CreatedAt": "2026-01-03T23:17:19.6144176Z",
+          "ModifiedAt": "2026-01-03T23:17:19.6144177Z",
+          "ShouldUseTargetCount": false
+        }
+      ],
+      "CreatedAt": "2026-01-05T23:10:47.4225215Z",
+      "ModifiedAt": "2026-01-05T23:10:47.4225215Z",
+      "ExcludeFromTargetAccumulation": false
     }
   ],
   "Logics": [
@@ -5313,6 +5533,71 @@
       "CreatedAt": "2026-01-03T00:12:57.4594782Z",
       "ModifiedAt": "2026-01-03T00:14:31.3527902Z",
       "ExecuteFirstOnly": false
+    },
+    {
+      "Id": "038edb64-1efe-4bb6-81cd-a87124d24b12",
+      "Name": "Stance",
+      "Description": "",
+      "LogicType": 0,
+      "ConditionIds": [
+        "249a8ed2-49a5-4fac-b71b-072a4e8c749d",
+        "e6e90d2d-b7fb-40f8-877c-8a2662b0f157"
+      ],
+      "ActionTriggers": [
+        {
+          "Id": "44e5aebf-63e8-482f-a5fb-396723d1b8b5",
+          "ActionId": 0,
+          "SkillbarId": "TankStance",
+          "TTSText": "",
+          "TriggerType": 1,
+          "LogicOperator": 8,
+          "TargetType": 1,
+          "TargetSelectionStrategy": 6,
+          "SkipBuffId": 0,
+          "TargetOperation": 0,
+          "TargetDataId": 0,
+          "TargetName": "",
+          "TargetX": 0.0,
+          "TargetY": 0.0,
+          "TargetZ": 0.0,
+          "OverlayText": "",
+          "OverlayDuration": 3.0,
+          "VariableName": "",
+          "VariableType": 0,
+          "VariableBoolValue": true,
+          "VariableStringValue": "",
+          "VariableNumberValue": 0.0,
+          "VariableOperation": 0
+        },
+        {
+          "Id": "d0eb11e5-bc9b-420c-9b10-defe33b2c6f9",
+          "ActionId": 32067,
+          "SkillbarId": "",
+          "TTSText": "",
+          "TriggerType": 0,
+          "LogicOperator": 0,
+          "TargetType": 0,
+          "TargetSelectionStrategy": 6,
+          "SkipBuffId": 0,
+          "TargetOperation": 0,
+          "TargetDataId": 0,
+          "TargetName": "",
+          "TargetX": 0.0,
+          "TargetY": 0.0,
+          "TargetZ": 0.0,
+          "OverlayText": "",
+          "OverlayDuration": 3.0,
+          "VariableName": "",
+          "VariableType": 0,
+          "VariableBoolValue": true,
+          "VariableStringValue": "",
+          "VariableNumberValue": 0.0,
+          "VariableOperation": 0
+        }
+      ],
+      "CreatedAt": "2026-01-05T23:11:39.8042631Z",
+      "ModifiedAt": "2026-01-05T23:12:30.3909565Z",
+      "ExecuteFirstOnly": false
     }
   ],
   "QTBarConfig": {
@@ -5474,6 +5759,14 @@
         ],
         "Enabled": true,
         "Position": 14
+      },
+      {
+        "Id": "c240fe0c-0feb-485e-a73b-b4724ee81e01",
+        "Name": "Stance OT",
+        "Description": "Stance Management for OT",
+        "EventIds": [],
+        "Enabled": true,
+        "Position": 15
       }
     ],
     "ToggleStates": {
@@ -5491,8 +5784,9 @@
       "016f904b-11db-4135-9de6-25bd4634bca7": true,
       "c914f1a7-4786-4ea2-a9a3-01f150b36872": true,
       "6794c678-5c6f-45a5-88c6-d4f19b40bdf8": false,
-      "1b7bb064-7498-48a8-b688-0d0dd7980028": false
+      "1b7bb064-7498-48a8-b688-0d0dd7980028": false,
+      "c240fe0c-0feb-485e-a73b-b4724ee81e01": true
     }
   },
-  "Version": "1.0.0"
+  "Version": "1.0.1"
 }
