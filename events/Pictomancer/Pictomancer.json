@@ -1,9 +1,9 @@
 {
-  "Id": "Picto",
-  "Name": "Picto",
+  "Id": "Pictomancer (Copy)",
+  "Name": "Pictomancer (Copy)",
   "Description": "",
   "CreatedAt": "2025-09-07T15:27:36.6567597Z",
-  "ModifiedAt": "2025-12-30T19:01:34.7880519Z",
+  "ModifiedAt": "2026-01-14T17:29:05.6309806Z",
   "Events": [
     {
       "Id": "bedd208a-ebf2-4f96-aa97-c8bd814ee2a7",
@@ -17,7 +17,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-09-08T08:53:14.2342149Z",
-      "ModifiedAt": "2025-12-30T18:59:48.345629Z"
+      "ModifiedAt": "2026-01-14T17:28:57.0781032Z"
     },
     {
       "Id": "dc3da58d-3ab3-494e-ae38-326a2cdfdb48",
@@ -31,7 +31,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-09-10T11:17:15.8671315Z",
-      "ModifiedAt": "2025-12-30T18:59:48.3456297Z"
+      "ModifiedAt": "2026-01-14T17:28:57.0781118Z"
     }
   ],
   "Conditions": [
@@ -514,7 +514,8 @@
       ],
       "CreatedAt": "2025-09-08T08:51:04.1256848Z",
       "ModifiedAt": "2025-12-30T19:01:04.2030448Z",
-      "ExecuteFirstOnly": false
+      "ExecuteFirstOnly": false,
+      "Category": ""
     },
     {
       "Id": "0650ee7b-641f-4461-8170-48a02778df47",
@@ -553,12 +554,13 @@
       ],
       "CreatedAt": "2025-09-10T11:16:52.8663559Z",
       "ModifiedAt": "2025-09-10T11:17:04.6183738Z",
-      "ExecuteFirstOnly": false
+      "ExecuteFirstOnly": false,
+      "Category": ""
     }
   ],
   "QTBarConfig": {
     "BarEnabled": true,
-    "LockBar": true,
+    "LockBar": false,
     "NumberOfColumns": 2,
     "HorizontalSpacing": 5,
     "VerticalSpacing": 9,
@@ -602,5 +604,5 @@
       "bcdddb2e-db7d-40fc-8632-651d1bff02c9": false
     }
   },
-  "Version": "1.0.0"
+  "Version": "1.0.1"
 }

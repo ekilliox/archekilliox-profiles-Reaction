@@ -1,9 +1,9 @@
 {
-  "Id": "Monk",
-  "Name": "Monk",
+  "Id": "archekilliox-Monk (Copy)",
+  "Name": "archekilliox-Monk (Copy)",
   "Description": "",
   "CreatedAt": "2025-09-07T15:27:36.6567597Z",
-  "ModifiedAt": "2026-01-05T08:02:46.4893313Z",
+  "ModifiedAt": "2026-01-14T17:26:58.1683501Z",
   "Events": [
     {
       "Id": "b1f3010e-2c9f-49fa-b595-9c6554f543d2",
@@ -17,7 +17,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-09-08T08:14:23.2781235Z",
-      "ModifiedAt": "2026-01-05T08:23:47.8633163Z"
+      "ModifiedAt": "2026-01-14T17:26:53.1488443Z"
     },
     {
       "Id": "494fbe18-927f-43f0-875e-435fece4051e",
@@ -31,7 +31,7 @@
       "RecheckDuration": 60.0,
       "Filters": {},
       "CreatedAt": "2025-09-21T23:51:16.9244525Z",
-      "ModifiedAt": "2026-01-05T08:23:47.8633172Z"
+      "ModifiedAt": "2026-01-14T17:26:53.1488522Z"
     },
     {
       "Id": "dc3da58d-3ab3-494e-ae38-326a2cdfdb48",
@@ -45,7 +45,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-09-10T11:17:15.8671315Z",
-      "ModifiedAt": "2026-01-05T08:23:47.8633175Z"
+      "ModifiedAt": "2026-01-14T17:26:53.1488525Z"
     },
     {
       "Id": "63cdfec9-a8cc-45a0-a11d-4903d9381aad",
@@ -59,7 +59,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-12-18T11:20:11.8638237Z",
-      "ModifiedAt": "2026-01-05T08:23:47.8633177Z"
+      "ModifiedAt": "2026-01-14T17:26:53.1488528Z"
     },
     {
       "Id": "7b3857d9-5452-4ef8-af7a-26e09c771a8d",
@@ -73,7 +73,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-12-18T11:21:37.2385651Z",
-      "ModifiedAt": "2026-01-05T08:23:47.863318Z"
+      "ModifiedAt": "2026-01-14T17:26:53.148853Z"
     }
   ],
   "Conditions": [
@@ -1555,7 +1555,8 @@
       ],
       "CreatedAt": "2025-09-08T08:15:01.9132447Z",
       "ModifiedAt": "2025-12-29T14:31:31.8508891Z",
-      "ExecuteFirstOnly": false
+      "ExecuteFirstOnly": false,
+      "Category": ""
     },
     {
       "Id": "c1d49b5a-e8ff-4017-bf78-66528c174a4a",
@@ -1594,7 +1595,8 @@
       ],
       "CreatedAt": "2025-09-21T23:51:01.524327Z",
       "ModifiedAt": "2026-01-05T08:05:46.6676481Z",
-      "ExecuteFirstOnly": false
+      "ExecuteFirstOnly": false,
+      "Category": ""
     },
     {
       "Id": "0650ee7b-641f-4461-8170-48a02778df47",
@@ -1633,7 +1635,8 @@
       ],
       "CreatedAt": "2025-09-10T11:16:52.8663559Z",
       "ModifiedAt": "2025-09-10T11:17:04.6183738Z",
-      "ExecuteFirstOnly": false
+      "ExecuteFirstOnly": false,
+      "Category": ""
     },
     {
       "Id": "faea22ca-5c00-47b0-8cf7-17f4b37957bf",
@@ -1672,7 +1675,8 @@
       ],
       "CreatedAt": "2025-12-18T11:19:48.8759297Z",
       "ModifiedAt": "2025-12-18T11:19:56.9888119Z",
-      "ExecuteFirstOnly": false
+      "ExecuteFirstOnly": false,
+      "Category": ""
     },
     {
       "Id": "f844ec77-e521-4188-bb7b-f1cd6b80e6c0",
@@ -1711,12 +1715,13 @@
       ],
       "CreatedAt": "2025-12-18T11:21:15.6067083Z",
       "ModifiedAt": "2025-12-18T11:21:21.1523222Z",
-      "ExecuteFirstOnly": false
+      "ExecuteFirstOnly": false,
+      "Category": ""
     }
   ],
   "QTBarConfig": {
     "BarEnabled": true,
-    "LockBar": true,
+    "LockBar": false,
     "NumberOfColumns": 2,
     "HorizontalSpacing": 5,
     "VerticalSpacing": 9,
@@ -1760,5 +1765,5 @@
       "bcdddb2e-db7d-40fc-8632-651d1bff02c9": false
     }
   },
-  "Version": "1.0.0"
+  "Version": "1.0.1"
 }

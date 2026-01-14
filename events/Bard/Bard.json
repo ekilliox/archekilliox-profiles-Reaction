@@ -3,7 +3,7 @@
   "Name": "Bard",
   "Description": "",
   "CreatedAt": "2025-09-07T15:27:36.6567597Z",
-  "ModifiedAt": "2025-12-30T19:21:57.9301693Z",
+  "ModifiedAt": "2026-01-14T17:20:24.0580454Z",
   "Events": [
     {
       "Id": "ab339d4e-1ded-46f4-bee3-7a872ac47194",
@@ -17,7 +17,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-09-08T09:34:53.460959Z",
-      "ModifiedAt": "2025-12-30T19:22:02.5295155Z"
+      "ModifiedAt": "2026-01-14T17:19:37.8187645Z"
     },
     {
       "Id": "b7bf9014-58d9-405a-b0ac-ccd70d407c27",
@@ -31,7 +31,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-09-08T09:36:36.881292Z",
-      "ModifiedAt": "2025-12-30T19:22:04.1286411Z"
+      "ModifiedAt": "2026-01-14T17:19:37.8187666Z"
     },
     {
       "Id": "dc3da58d-3ab3-494e-ae38-326a2cdfdb48",
@@ -45,7 +45,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-09-10T11:17:15.8671315Z",
-      "ModifiedAt": "2025-12-30T19:22:05.584157Z"
+      "ModifiedAt": "2026-01-14T17:19:37.8187668Z"
     },
     {
       "Id": "ca2c12e5-d077-44aa-8e82-2bb82b270656",
@@ -59,7 +59,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-09-23T20:39:56.5477669Z",
-      "ModifiedAt": "2025-12-30T19:22:06.6935569Z"
+      "ModifiedAt": "2026-01-14T17:19:37.8187671Z"
     }
   ],
   "Conditions": [
@@ -930,7 +930,8 @@
       ],
       "CreatedAt": "2025-09-08T09:34:29.9194694Z",
       "ModifiedAt": "2025-09-08T09:34:41.5064376Z",
-      "ExecuteFirstOnly": false
+      "ExecuteFirstOnly": false,
+      "Category": ""
     },
     {
       "Id": "33e2c7b7-559f-45f7-9991-933a4742b6ed",
@@ -969,7 +970,8 @@
       ],
       "CreatedAt": "2025-09-08T09:36:21.0676907Z",
       "ModifiedAt": "2025-12-30T19:17:07.9780554Z",
-      "ExecuteFirstOnly": false
+      "ExecuteFirstOnly": false,
+      "Category": ""
     },
     {
       "Id": "0650ee7b-641f-4461-8170-48a02778df47",
@@ -1008,7 +1010,8 @@
       ],
       "CreatedAt": "2025-09-10T11:16:52.8663559Z",
       "ModifiedAt": "2025-09-26T08:25:48.7680995Z",
-      "ExecuteFirstOnly": false
+      "ExecuteFirstOnly": false,
+      "Category": ""
     },
     {
       "Id": "5b2ac3cc-d8d6-4d72-ab98-036032ec6905",
@@ -1047,12 +1050,13 @@
       ],
       "CreatedAt": "2025-09-23T20:39:01.213883Z",
       "ModifiedAt": "2025-09-23T20:39:14.095209Z",
-      "ExecuteFirstOnly": false
+      "ExecuteFirstOnly": false,
+      "Category": ""
     }
   ],
   "QTBarConfig": {
     "BarEnabled": true,
-    "LockBar": true,
+    "LockBar": false,
     "NumberOfColumns": 2,
     "HorizontalSpacing": 5,
     "VerticalSpacing": 9,
@@ -1094,5 +1098,5 @@
       "bcdddb2e-db7d-40fc-8632-651d1bff02c9": false
     }
   },
-  "Version": "1.0.0"
+  "Version": "1.0.1"
 }
