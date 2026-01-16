@@ -1,9 +1,9 @@
 {
   "Id": "archekilliox-gnb_1",
-  "Name": "archekilliox-gnb_1",
+  "Name": "archekilliox-gnb",
   "Description": "",
   "CreatedAt": "2025-08-14T04:53:49.8169798Z",
-  "ModifiedAt": "2026-01-10T23:25:50.0149297Z",
+  "ModifiedAt": "2026-01-15T23:31:05.6185137Z",
   "Events": [
     {
       "Id": "f2daaf1d-c477-42b2-9db1-baa49330bfe3",
@@ -17,7 +17,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-12T20:28:34.9132756Z",
-      "ModifiedAt": "2026-01-10T23:26:22.4307102Z"
+      "ModifiedAt": "2026-01-15T23:20:29.3870258Z"
     },
     {
       "Id": "732a7c9a-5487-474b-bb80-91bf92cd7e74",
@@ -31,7 +31,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-12T20:23:27.0455383Z",
-      "ModifiedAt": "2026-01-10T23:26:21.0053853Z"
+      "ModifiedAt": "2026-01-15T23:20:29.3870332Z"
     },
     {
       "Id": "09325808-4e89-4c09-a62e-5ea2aec65eac",
@@ -45,7 +45,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-14T02:35:46.8628569Z",
-      "ModifiedAt": "2026-01-10T23:26:19.7365822Z"
+      "ModifiedAt": "2026-01-15T23:20:29.3870334Z"
     },
     {
       "Id": "565fe51c-9d06-4338-bb4e-ad1d0cba3e32",
@@ -59,7 +59,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-12T20:28:17.4766558Z",
-      "ModifiedAt": "2026-01-10T23:26:18.3093249Z"
+      "ModifiedAt": "2026-01-15T23:20:29.3870336Z"
     },
     {
       "Id": "1b066cf9-12d8-450d-866e-677d61da153d",
@@ -73,7 +73,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-12T20:27:33.1643991Z",
-      "ModifiedAt": "2026-01-10T23:26:16.7678005Z"
+      "ModifiedAt": "2026-01-15T23:20:29.3870338Z"
     },
     {
       "Id": "a6cdc6d2-6171-4f55-8f53-dbde09c85e86",
@@ -87,7 +87,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-13T05:47:18.104461Z",
-      "ModifiedAt": "2026-01-10T23:26:15.3036629Z"
+      "ModifiedAt": "2026-01-15T23:20:29.3870341Z"
     },
     {
       "Id": "f6a9ba02-bb93-406b-b7ad-b171fc3aa3d0",
@@ -101,21 +101,21 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-13T05:50:13.2969325Z",
-      "ModifiedAt": "2026-01-10T23:26:13.8781436Z"
+      "ModifiedAt": "2026-01-15T23:20:29.3870342Z"
     },
     {
       "Id": "08c75b56-6f6e-4b0c-88f7-7f58282253c4",
       "Name": "Hold @ 15",
       "Description": "Holds Cooldowns at 15% boss HP. \nReccomended to use this for the first two dungeon bosses.",
       "EventType": "OnTick",
-      "LogicId": "ab1aac10-ec9d-4c09-8f04-a56842337722",
+      "LogicId": "32b92184-c156-43a9-a727-ddacf1700a85",
       "ThrottleSameEvent": 0.5,
       "ThrottleAllEvents": 0.1,
       "Timeout": 5.0,
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-10-06T20:54:10.239536Z",
-      "ModifiedAt": "2026-01-10T23:26:12.259391Z"
+      "ModifiedAt": "2026-01-15T23:30:31.820553Z"
     },
     {
       "Id": "5a47325b-00d5-4e36-8843-040393757b89",
@@ -129,7 +129,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-11-29T20:46:01.621465Z",
-      "ModifiedAt": "2026-01-10T23:26:10.6838086Z"
+      "ModifiedAt": "2026-01-15T23:20:29.3870348Z"
     },
     {
       "Id": "f97dfcaf-0ec7-4a05-aa20-89d26a48e419",
@@ -143,7 +143,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-11-29T20:48:00.0845001Z",
-      "ModifiedAt": "2026-01-10T23:26:09.0672827Z"
+      "ModifiedAt": "2026-01-15T23:20:29.3870351Z"
     },
     {
       "Id": "78f2c611-1379-41d2-a2bd-26f59e78abb9",
@@ -157,7 +157,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-03T00:06:54.3440002Z",
-      "ModifiedAt": "2026-01-10T23:26:06.9090353Z"
+      "ModifiedAt": "2026-01-15T23:20:29.3870353Z"
     },
     {
       "Id": "b1a53fa1-f7f0-433b-ab95-0a01e86b12dd",
@@ -171,7 +171,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-03T00:07:04.6635422Z",
-      "ModifiedAt": "2026-01-10T23:26:04.8841735Z"
+      "ModifiedAt": "2026-01-15T23:20:29.3870356Z"
     },
     {
       "Id": "0f848527-2363-4851-9ca7-73666e9414b1",
@@ -185,7 +185,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-03T00:14:50.1039412Z",
-      "ModifiedAt": "2026-01-10T23:26:03.1518322Z"
+      "ModifiedAt": "2026-01-15T23:20:29.3870359Z"
     },
     {
       "Id": "65f5a501-e2a1-47af-9a1f-9c3b22f298a3",
@@ -199,7 +199,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-03T21:52:11.3787339Z",
-      "ModifiedAt": "2026-01-10T23:26:00.7948517Z"
+      "ModifiedAt": "2026-01-15T23:20:29.3870362Z"
     },
     {
       "Id": "b14f1b3c-1603-4c32-bc6f-9759e6b68265",
@@ -213,7 +213,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-05T23:17:18.1797238Z",
-      "ModifiedAt": "2026-01-10T23:25:59.0520412Z"
+      "ModifiedAt": "2026-01-15T23:20:29.3870365Z"
     },
     {
       "Id": "fbc2cea7-a2de-443d-8c3e-17b155de744b",
@@ -227,7 +227,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-08T00:51:14.9533963Z",
-      "ModifiedAt": "2026-01-10T23:25:57.4182635Z"
+      "ModifiedAt": "2026-01-15T23:20:29.3870368Z"
     },
     {
       "Id": "abbafd47-f2d3-497a-927e-dd8525c758df",
@@ -241,7 +241,21 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-10T23:16:13.5209404Z",
-      "ModifiedAt": "2026-01-10T23:25:55.4598751Z"
+      "ModifiedAt": "2026-01-15T23:20:29.3870372Z"
+    },
+    {
+      "Id": "c3f48c29-96d2-417e-8faa-94b7cdf8bff7",
+      "Name": "Automit TB",
+      "Description": "Automatically executes the best mitigation to handle an incoming tank buster.",
+      "EventType": "OnAllTankBuster",
+      "LogicId": "ba5672cb-cc11-494b-ad31-90f80ee8a573",
+      "ThrottleSameEvent": 0.5,
+      "ThrottleAllEvents": 0.1,
+      "Timeout": 5.0,
+      "RecheckDuration": 0.0,
+      "Filters": {},
+      "CreatedAt": "2026-01-15T23:25:16.8466631Z",
+      "ModifiedAt": "2026-01-15T23:25:53.8187861Z"
     }
   ],
   "Conditions": [
@@ -675,7 +689,7 @@
     },
     {
       "Id": "d2859eb1-badb-4baf-9898-36452e6bd3da",
-      "Name": "Has No Mit",
+      "Name": "Has 1 Mit",
       "Description": "",
       "SubConditions": [
         {
@@ -892,7 +906,7 @@
         }
       ],
       "CreatedAt": "2025-08-12T19:54:17.6781024Z",
-      "ModifiedAt": "2025-08-14T02:13:04.3492684Z",
+      "ModifiedAt": "2026-01-15T23:21:28.2016763Z",
       "ExcludeFromTargetAccumulation": false
     },
     {
@@ -6215,6 +6229,147 @@
   ],
   "Logics": [
     {
+      "Id": "ba5672cb-cc11-494b-ad31-90f80ee8a573",
+      "Name": "Automit TB",
+      "Description": "Automatic Tankbuster Mitigation",
+      "LogicType": 0,
+      "ConditionIds": [
+        "d2859eb1-badb-4baf-9898-36452e6bd3da",
+        "a5f16623-4bb1-4d16-a42b-96cd9bccb5aa"
+      ],
+      "ActionTriggers": [
+        {
+          "Id": "552baa0e-9789-4520-a8f7-f70fa00f4fb3",
+          "ActionId": 36935,
+          "SkillbarId": "",
+          "TTSText": "",
+          "TriggerType": 0,
+          "LogicOperator": 1,
+          "TargetType": 0,
+          "TargetSelectionStrategy": 6,
+          "SkipBuffId": 0,
+          "TargetOperation": 0,
+          "TargetDataId": 0,
+          "TargetName": "",
+          "TargetX": 0.0,
+          "TargetY": 0.0,
+          "TargetZ": 0.0,
+          "OverlayText": "",
+          "OverlayDuration": 3.0,
+          "VariableName": "",
+          "VariableType": 0,
+          "VariableBoolValue": true,
+          "VariableStringValue": "",
+          "VariableNumberValue": 0.0,
+          "VariableOperation": 0
+        },
+        {
+          "Id": "602400f1-1e81-4551-8c2a-1b21f4cff807",
+          "ActionId": 16140,
+          "SkillbarId": "",
+          "TTSText": "",
+          "TriggerType": 0,
+          "LogicOperator": 1,
+          "TargetType": 0,
+          "TargetSelectionStrategy": 6,
+          "SkipBuffId": 0,
+          "TargetOperation": 0,
+          "TargetDataId": 0,
+          "TargetName": "",
+          "TargetX": 0.0,
+          "TargetY": 0.0,
+          "TargetZ": 0.0,
+          "OverlayText": "",
+          "OverlayDuration": 3.0,
+          "VariableName": "",
+          "VariableType": 0,
+          "VariableBoolValue": true,
+          "VariableStringValue": "",
+          "VariableNumberValue": 0.0,
+          "VariableOperation": 0
+        },
+        {
+          "Id": "8ccb424b-4d5d-485f-baec-195eec2c1ee8",
+          "ActionId": 25758,
+          "SkillbarId": "",
+          "TTSText": "",
+          "TriggerType": 0,
+          "LogicOperator": 1,
+          "TargetType": 0,
+          "TargetSelectionStrategy": 6,
+          "SkipBuffId": 0,
+          "TargetOperation": 0,
+          "TargetDataId": 0,
+          "TargetName": "",
+          "TargetX": 0.0,
+          "TargetY": 0.0,
+          "TargetZ": 0.0,
+          "OverlayText": "",
+          "OverlayDuration": 3.0,
+          "VariableName": "",
+          "VariableType": 0,
+          "VariableBoolValue": true,
+          "VariableStringValue": "",
+          "VariableNumberValue": 0.0,
+          "VariableOperation": 0
+        },
+        {
+          "Id": "cb19cc67-76ff-4e7c-bfac-cff0c2d06b65",
+          "ActionId": 7531,
+          "SkillbarId": "",
+          "TTSText": "",
+          "TriggerType": 0,
+          "LogicOperator": 1,
+          "TargetType": 0,
+          "TargetSelectionStrategy": 6,
+          "SkipBuffId": 0,
+          "TargetOperation": 0,
+          "TargetDataId": 0,
+          "TargetName": "",
+          "TargetX": 0.0,
+          "TargetY": 0.0,
+          "TargetZ": 0.0,
+          "OverlayText": "",
+          "OverlayDuration": 3.0,
+          "VariableName": "",
+          "VariableType": 0,
+          "VariableBoolValue": true,
+          "VariableStringValue": "",
+          "VariableNumberValue": 0.0,
+          "VariableOperation": 0
+        },
+        {
+          "Id": "205270e7-1d42-4b5f-a58d-02726a2392a2",
+          "ActionId": 7535,
+          "SkillbarId": "",
+          "TTSText": "",
+          "TriggerType": 0,
+          "LogicOperator": 1,
+          "TargetType": 0,
+          "TargetSelectionStrategy": 6,
+          "SkipBuffId": 0,
+          "TargetOperation": 0,
+          "TargetDataId": 0,
+          "TargetName": "",
+          "TargetX": 0.0,
+          "TargetY": 0.0,
+          "TargetZ": 0.0,
+          "OverlayText": "",
+          "OverlayDuration": 3.0,
+          "VariableName": "",
+          "VariableType": 0,
+          "VariableBoolValue": true,
+          "VariableStringValue": "",
+          "VariableNumberValue": 0.0,
+          "VariableOperation": 0
+        }
+      ],
+      "CreatedAt": "2025-08-12T20:24:49.3210173Z",
+      "ModifiedAt": "2026-01-15T23:25:00.032812Z",
+      "ExecuteFirstOnly": true,
+      "Category": "Mitigation"
+    },
+    {
       "Id": "b5bbb2da-d7e4-4af7-ac76-6737828c6c62",
       "Name": "Emergency Bolide",
       "Description": "",
@@ -6251,8 +6406,9 @@
         }
       ],
       "CreatedAt": "2025-08-12T20:16:53.4840465Z",
-      "ModifiedAt": "2025-08-13T05:49:41.3640727Z",
-      "ExecuteFirstOnly": false
+      "ModifiedAt": "2026-01-15T23:22:02.3952861Z",
+      "ExecuteFirstOnly": false,
+      "Category": "Mitigation"
     },
     {
       "Id": "55ed34e5-8b06-4b99-a618-dadcfbb56e10",
@@ -6418,8 +6574,9 @@
         }
       ],
       "CreatedAt": "2025-08-12T20:19:14.0787708Z",
-      "ModifiedAt": "2026-01-05T23:30:29.2130306Z",
-      "ExecuteFirstOnly": true
+      "ModifiedAt": "2026-01-15T23:22:10.5649861Z",
+      "ExecuteFirstOnly": true,
+      "Category": "Mitigation"
     },
     {
       "Id": "b7d72611-1464-4b11-ab8a-1902d092d9e1",
@@ -6585,8 +6742,9 @@
         }
       ],
       "CreatedAt": "2025-08-12T20:17:16.0236881Z",
-      "ModifiedAt": "2026-01-05T23:30:35.2804584Z",
-      "ExecuteFirstOnly": true
+      "ModifiedAt": "2026-01-15T23:22:13.3131254Z",
+      "ExecuteFirstOnly": true,
+      "Category": "Mitigation"
     },
     {
       "Id": "7a951ef0-f39b-45bd-b174-692b47fdfa76",
@@ -6626,8 +6784,9 @@
         }
       ],
       "CreatedAt": "2025-08-12T20:20:19.0034171Z",
-      "ModifiedAt": "2025-08-12T20:24:28.8804848Z",
-      "ExecuteFirstOnly": false
+      "ModifiedAt": "2026-01-15T23:22:18.3949796Z",
+      "ExecuteFirstOnly": false,
+      "Category": "Mitigation"
     },
     {
       "Id": "93a1dc02-1644-41ba-8d59-bb02bd1dde1c",
@@ -6666,148 +6825,9 @@
         }
       ],
       "CreatedAt": "2025-08-14T02:35:13.7551734Z",
-      "ModifiedAt": "2025-08-14T02:35:37.2126915Z",
-      "ExecuteFirstOnly": false
-    },
-    {
-      "Id": "ba5672cb-cc11-494b-ad31-90f80ee8a573",
-      "Name": "Automit TB",
-      "Description": "Automatic Tankbuster Mitigation",
-      "LogicType": 0,
-      "ConditionIds": [
-        "d2859eb1-badb-4baf-9898-36452e6bd3da",
-        "a5f16623-4bb1-4d16-a42b-96cd9bccb5aa"
-      ],
-      "ActionTriggers": [
-        {
-          "Id": "552baa0e-9789-4520-a8f7-f70fa00f4fb3",
-          "ActionId": 36935,
-          "SkillbarId": "",
-          "TTSText": "",
-          "TriggerType": 0,
-          "LogicOperator": 1,
-          "TargetType": 0,
-          "TargetSelectionStrategy": 6,
-          "SkipBuffId": 0,
-          "TargetOperation": 0,
-          "TargetDataId": 0,
-          "TargetName": "",
-          "TargetX": 0.0,
-          "TargetY": 0.0,
-          "TargetZ": 0.0,
-          "OverlayText": "",
-          "OverlayDuration": 3.0,
-          "VariableName": "",
-          "VariableType": 0,
-          "VariableBoolValue": true,
-          "VariableStringValue": "",
-          "VariableNumberValue": 0.0,
-          "VariableOperation": 0
-        },
-        {
-          "Id": "8ccb424b-4d5d-485f-baec-195eec2c1ee8",
-          "ActionId": 25758,
-          "SkillbarId": "",
-          "TTSText": "",
-          "TriggerType": 0,
-          "LogicOperator": 1,
-          "TargetType": 0,
-          "TargetSelectionStrategy": 6,
-          "SkipBuffId": 0,
-          "TargetOperation": 0,
-          "TargetDataId": 0,
-          "TargetName": "",
-          "TargetX": 0.0,
-          "TargetY": 0.0,
-          "TargetZ": 0.0,
-          "OverlayText": "",
-          "OverlayDuration": 3.0,
-          "VariableName": "",
-          "VariableType": 0,
-          "VariableBoolValue": true,
-          "VariableStringValue": "",
-          "VariableNumberValue": 0.0,
-          "VariableOperation": 0
-        },
-        {
-          "Id": "602400f1-1e81-4551-8c2a-1b21f4cff807",
-          "ActionId": 16140,
-          "SkillbarId": "",
-          "TTSText": "",
-          "TriggerType": 0,
-          "LogicOperator": 1,
-          "TargetType": 0,
-          "TargetSelectionStrategy": 6,
-          "SkipBuffId": 0,
-          "TargetOperation": 0,
-          "TargetDataId": 0,
-          "TargetName": "",
-          "TargetX": 0.0,
-          "TargetY": 0.0,
-          "TargetZ": 0.0,
-          "OverlayText": "",
-          "OverlayDuration": 3.0,
-          "VariableName": "",
-          "VariableType": 0,
-          "VariableBoolValue": true,
-          "VariableStringValue": "",
-          "VariableNumberValue": 0.0,
-          "VariableOperation": 0
-        },
-        {
-          "Id": "cb19cc67-76ff-4e7c-bfac-cff0c2d06b65",
-          "ActionId": 7531,
-          "SkillbarId": "",
-          "TTSText": "",
-          "TriggerType": 0,
-          "LogicOperator": 1,
-          "TargetType": 0,
-          "TargetSelectionStrategy": 6,
-          "SkipBuffId": 0,
-          "TargetOperation": 0,
-          "TargetDataId": 0,
-          "TargetName": "",
-          "TargetX": 0.0,
-          "TargetY": 0.0,
-          "TargetZ": 0.0,
-          "OverlayText": "",
-          "OverlayDuration": 3.0,
-          "VariableName": "",
-          "VariableType": 0,
-          "VariableBoolValue": true,
-          "VariableStringValue": "",
-          "VariableNumberValue": 0.0,
-          "VariableOperation": 0
-        },
-        {
-          "Id": "205270e7-1d42-4b5f-a58d-02726a2392a2",
-          "ActionId": 7535,
-          "SkillbarId": "",
-          "TTSText": "",
-          "TriggerType": 0,
-          "LogicOperator": 1,
-          "TargetType": 0,
-          "TargetSelectionStrategy": 6,
-          "SkipBuffId": 0,
-          "TargetOperation": 0,
-          "TargetDataId": 0,
-          "TargetName": "",
-          "TargetX": 0.0,
-          "TargetY": 0.0,
-          "TargetZ": 0.0,
-          "OverlayText": "",
-          "OverlayDuration": 3.0,
-          "VariableName": "",
-          "VariableType": 0,
-          "VariableBoolValue": true,
-          "VariableStringValue": "",
-          "VariableNumberValue": 0.0,
-          "VariableOperation": 0
-        }
-      ],
-      "CreatedAt": "2025-08-12T20:24:49.3210173Z",
-      "ModifiedAt": "2026-01-02T23:50:02.6221226Z",
-      "ExecuteFirstOnly": true
+      "ModifiedAt": "2026-01-15T23:22:19.9889648Z",
+      "ExecuteFirstOnly": false,
+      "Category": "Mitigation"
     },
     {
       "Id": "3ab5f523-2117-4442-99e1-dc46376c8d25",
@@ -6947,8 +6967,9 @@
         }
       ],
       "CreatedAt": "2025-08-13T05:46:40.9740572Z",
-      "ModifiedAt": "2026-01-02T23:50:13.7017025Z",
-      "ExecuteFirstOnly": true
+      "ModifiedAt": "2026-01-15T23:22:24.3651916Z",
+      "ExecuteFirstOnly": true,
+      "Category": "Mitigation"
     },
     {
       "Id": "81f01a90-0268-4250-8108-620be7a3d630",
@@ -6987,47 +7008,9 @@
         }
       ],
       "CreatedAt": "2025-08-13T05:48:38.8420281Z",
-      "ModifiedAt": "2026-01-02T23:50:21.0547076Z",
-      "ExecuteFirstOnly": false
-    },
-    {
-      "Id": "ab1aac10-ec9d-4c09-8f04-a56842337722",
-      "Name": "Hold Boss",
-      "Description": "Holds cooldowns at 15% boss HP",
-      "LogicType": 0,
-      "ConditionIds": [
-        "2e0b77ea-cf3a-4e22-bf5a-4bb01835d3e1"
-      ],
-      "ActionTriggers": [
-        {
-          "Id": "38c23425-a9c9-45ed-873a-daf234e3fccd",
-          "ActionId": 0,
-          "SkillbarId": "SaveCD",
-          "TTSText": "",
-          "TriggerType": 1,
-          "LogicOperator": 4,
-          "TargetType": 1,
-          "TargetSelectionStrategy": 6,
-          "SkipBuffId": 0,
-          "TargetOperation": 0,
-          "TargetDataId": 0,
-          "TargetName": "",
-          "TargetX": 0.0,
-          "TargetY": 0.0,
-          "TargetZ": 0.0,
-          "OverlayText": "",
-          "OverlayDuration": 3.0,
-          "VariableName": "",
-          "VariableType": 0,
-          "VariableBoolValue": true,
-          "VariableStringValue": "",
-          "VariableNumberValue": 0.0,
-          "VariableOperation": 0
-        }
-      ],
-      "CreatedAt": "2025-10-06T20:51:00.2304821Z",
-      "ModifiedAt": "2026-01-02T23:50:30.8172639Z",
-      "ExecuteFirstOnly": false
+      "ModifiedAt": "2026-01-15T23:22:26.3748881Z",
+      "ExecuteFirstOnly": false,
+      "Category": "Mitigation"
     },
     {
       "Id": "cdf210ee-6701-4012-b3e5-1be407e197b1",
@@ -7065,8 +7048,9 @@
         }
       ],
       "CreatedAt": "2025-10-30T20:14:09.9004962Z",
-      "ModifiedAt": "2026-01-02T23:51:20.7070624Z",
-      "ExecuteFirstOnly": false
+      "ModifiedAt": "2026-01-15T23:23:00.3309466Z",
+      "ExecuteFirstOnly": false,
+      "Category": "Holds"
     },
     {
       "Id": "32b92184-c156-43a9-a727-ddacf1700a85",
@@ -7105,8 +7089,9 @@
         }
       ],
       "CreatedAt": "2025-11-29T07:21:27.9692004Z",
-      "ModifiedAt": "2025-11-29T20:42:30.232828Z",
-      "ExecuteFirstOnly": false
+      "ModifiedAt": "2026-01-15T23:23:03.3336714Z",
+      "ExecuteFirstOnly": false,
+      "Category": "Holds"
     },
     {
       "Id": "dd7b2b9f-2dd9-4727-bb92-aa51f5b78dbe",
@@ -7144,8 +7129,9 @@
         }
       ],
       "CreatedAt": "2025-11-29T20:44:52.0510154Z",
-      "ModifiedAt": "2025-11-29T20:45:08.3294446Z",
-      "ExecuteFirstOnly": false
+      "ModifiedAt": "2026-01-15T23:23:08.3832191Z",
+      "ExecuteFirstOnly": false,
+      "Category": "Holds"
     },
     {
       "Id": "2fe93ae9-ec9c-463a-b57f-731c026de339",
@@ -7183,8 +7169,9 @@
         }
       ],
       "CreatedAt": "2025-11-29T20:47:33.6923885Z",
-      "ModifiedAt": "2025-11-29T20:47:43.7674394Z",
-      "ExecuteFirstOnly": false
+      "ModifiedAt": "2026-01-15T23:23:10.7138454Z",
+      "ExecuteFirstOnly": false,
+      "Category": "Holds"
     },
     {
       "Id": "3c5df484-39e7-4776-aa19-b24dfad7cf18",
@@ -7222,8 +7209,9 @@
         }
       ],
       "CreatedAt": "2026-01-02T23:59:31.9159647Z",
-      "ModifiedAt": "2026-01-03T00:06:19.9885105Z",
-      "ExecuteFirstOnly": false
+      "ModifiedAt": "2026-01-15T23:24:02.4161675Z",
+      "ExecuteFirstOnly": false,
+      "Category": "Mitigation"
     },
     {
       "Id": "92c46192-3aab-4221-8b6a-15eab78c8047",
@@ -7261,8 +7249,9 @@
         }
       ],
       "CreatedAt": "2026-01-03T00:03:53.6869437Z",
-      "ModifiedAt": "2026-01-03T00:06:04.5676733Z",
-      "ExecuteFirstOnly": false
+      "ModifiedAt": "2026-01-15T23:24:04.195042Z",
+      "ExecuteFirstOnly": false,
+      "Category": "Mitigation"
     },
     {
       "Id": "d8213858-2118-432a-994c-2a3bcb4d9632",
@@ -7301,7 +7290,8 @@
       ],
       "CreatedAt": "2026-01-03T00:12:57.4594782Z",
       "ModifiedAt": "2026-01-03T00:14:31.3527902Z",
-      "ExecuteFirstOnly": false
+      "ExecuteFirstOnly": false,
+      "Category": ""
     },
     {
       "Id": "ec0185f3-0bf0-47c7-a547-51fc74c7f474",
@@ -7366,7 +7356,8 @@
       ],
       "CreatedAt": "2026-01-05T23:12:39.0817488Z",
       "ModifiedAt": "2026-01-05T23:12:49.4660815Z",
-      "ExecuteFirstOnly": false
+      "ExecuteFirstOnly": false,
+      "Category": ""
     },
     {
       "Id": "d08bdbaa-b19e-4339-9cba-7735cd89f358",
@@ -7405,7 +7396,8 @@
       ],
       "CreatedAt": "2026-01-08T00:50:46.6137424Z",
       "ModifiedAt": "2026-01-08T00:51:00.9890202Z",
-      "ExecuteFirstOnly": false
+      "ExecuteFirstOnly": false,
+      "Category": ""
     },
     {
       "Id": "98fb393d-eda4-444b-b9e4-326aa69ddc36",
@@ -7443,8 +7435,9 @@
         }
       ],
       "CreatedAt": "2026-01-10T23:25:10.4209838Z",
-      "ModifiedAt": "2026-01-10T23:25:27.614747Z",
-      "ExecuteFirstOnly": false
+      "ModifiedAt": "2026-01-15T23:22:32.255076Z",
+      "ExecuteFirstOnly": false,
+      "Category": "Mitigation"
     }
   ],
   "QTBarConfig": {
@@ -7508,6 +7501,16 @@
         "Position": 4
       },
       {
+        "Id": "61814183-65fe-4ec4-9a62-8afb57abc84d",
+        "Name": "Automit TB",
+        "Description": "Automatically executes the best mitigation to handle an incoming tank buster.",
+        "EventIds": [
+          "c3f48c29-96d2-417e-8faa-94b7cdf8bff7"
+        ],
+        "Enabled": true,
+        "Position": 5
+      },
+      {
         "Id": "cf6a5960-5035-4f57-9561-d6f8846ae131",
         "Name": "Invuln",
         "Description": "Uses invuln skill in emergencies.",
@@ -7515,7 +7518,7 @@
           "f2daaf1d-c477-42b2-9db1-baa49330bfe3"
         ],
         "Enabled": true,
-        "Position": 5
+        "Position": 6
       },
       {
         "Id": "072fc9c0-2923-42c1-90e4-8aa220eba0a0",
@@ -7525,7 +7528,7 @@
           "732a7c9a-5487-474b-bb80-91bf92cd7e74"
         ],
         "Enabled": true,
-        "Position": 6
+        "Position": 7
       },
       {
         "Id": "9f65fecb-9378-499c-9c4f-88bd603bb1c5",
@@ -7535,7 +7538,7 @@
           "09325808-4e89-4c09-a62e-5ea2aec65eac"
         ],
         "Enabled": true,
-        "Position": 7
+        "Position": 8
       },
       {
         "Id": "43604b83-5688-4b82-9cfd-fe014743f0d7",
@@ -7545,7 +7548,7 @@
           "abbafd47-f2d3-497a-927e-dd8525c758df"
         ],
         "Enabled": true,
-        "Position": 8
+        "Position": 9
       },
       {
         "Id": "677f6fdc-4fbc-444f-9b40-c7d54eee8ec0",
@@ -7555,7 +7558,7 @@
           "f6a9ba02-bb93-406b-b7ad-b171fc3aa3d0"
         ],
         "Enabled": true,
-        "Position": 9
+        "Position": 10
       },
       {
         "Id": "64f18124-b422-43d8-b2fd-fc359af1a6d7",
@@ -7565,7 +7568,7 @@
           "565fe51c-9d06-4338-bb4e-ad1d0cba3e32"
         ],
         "Enabled": true,
-        "Position": 10
+        "Position": 11
       },
       {
         "Id": "d81f6bcd-392e-4561-a03f-2c2989e6fb45",
@@ -7575,7 +7578,7 @@
           "1b066cf9-12d8-450d-866e-677d61da153d"
         ],
         "Enabled": true,
-        "Position": 11
+        "Position": 12
       },
       {
         "Id": "df6d1cc3-cd46-477a-9300-24ab349e9872",
@@ -7585,7 +7588,7 @@
           "a6cdc6d2-6171-4f55-8f53-dbde09c85e86"
         ],
         "Enabled": true,
-        "Position": 12
+        "Position": 13
       },
       {
         "Id": "016f904b-11db-4135-9de6-25bd4634bca7",
@@ -7595,7 +7598,7 @@
           "78f2c611-1379-41d2-a2bd-26f59e78abb9"
         ],
         "Enabled": true,
-        "Position": 13
+        "Position": 14
       },
       {
         "Id": "c914f1a7-4786-4ea2-a9a3-01f150b36872",
@@ -7605,7 +7608,7 @@
           "b1a53fa1-f7f0-433b-ab95-0a01e86b12dd"
         ],
         "Enabled": true,
-        "Position": 14
+        "Position": 15
       },
       {
         "Id": "6794c678-5c6f-45a5-88c6-d4f19b40bdf8",
@@ -7615,7 +7618,7 @@
           "0f848527-2363-4851-9ca7-73666e9414b1"
         ],
         "Enabled": true,
-        "Position": 15
+        "Position": 16
       },
       {
         "Id": "f5037307-642a-4429-877c-58b929566bc9",
@@ -7625,7 +7628,7 @@
           "b14f1b3c-1603-4c32-bc6f-9759e6b68265"
         ],
         "Enabled": true,
-        "Position": 16
+        "Position": 17
       }
     ],
     "ToggleStates": {
@@ -7642,11 +7645,12 @@
       "73595275-5d4a-47ef-b3fb-b958d824781f": false,
       "016f904b-11db-4135-9de6-25bd4634bca7": true,
       "c914f1a7-4786-4ea2-a9a3-01f150b36872": false,
-      "6794c678-5c6f-45a5-88c6-d4f19b40bdf8": false,
+      "6794c678-5c6f-45a5-88c6-d4f19b40bdf8": true,
       "1b7bb064-7498-48a8-b688-0d0dd7980028": false,
       "f5037307-642a-4429-877c-58b929566bc9": false,
-      "19030dd6-0629-4029-af2d-c31e11285401": false
+      "19030dd6-0629-4029-af2d-c31e11285401": false,
+      "61814183-65fe-4ec4-9a62-8afb57abc84d": true
     }
   },
-  "Version": "1.0.4"
+  "Version": "1.0.5"
 }

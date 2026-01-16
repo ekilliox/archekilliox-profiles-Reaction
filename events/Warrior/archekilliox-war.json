@@ -3,7 +3,7 @@
   "Name": "archekilliox-war",
   "Description": "",
   "CreatedAt": "2025-08-14T04:53:49.8169798Z",
-  "ModifiedAt": "2026-01-10T22:37:39.9951197Z",
+  "ModifiedAt": "2026-01-15T23:59:27.4178688Z",
   "Events": [
     {
       "Id": "f2daaf1d-c477-42b2-9db1-baa49330bfe3",
@@ -17,7 +17,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-12T20:28:34.9132756Z",
-      "ModifiedAt": "2026-01-10T22:37:43.8385818Z"
+      "ModifiedAt": "2026-01-15T23:53:16.0643799Z"
     },
     {
       "Id": "732a7c9a-5487-474b-bb80-91bf92cd7e74",
@@ -31,7 +31,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-12T20:23:27.0455383Z",
-      "ModifiedAt": "2026-01-10T22:37:54.0905988Z"
+      "ModifiedAt": "2026-01-15T23:53:16.0643861Z"
     },
     {
       "Id": "09325808-4e89-4c09-a62e-5ea2aec65eac",
@@ -45,7 +45,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-14T02:35:46.8628569Z",
-      "ModifiedAt": "2026-01-10T22:37:55.5756908Z"
+      "ModifiedAt": "2026-01-15T23:53:16.0643863Z"
     },
     {
       "Id": "565fe51c-9d06-4338-bb4e-ad1d0cba3e32",
@@ -59,7 +59,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-12T20:28:17.4766558Z",
-      "ModifiedAt": "2026-01-10T22:37:57.850614Z"
+      "ModifiedAt": "2026-01-15T23:53:16.0643866Z"
     },
     {
       "Id": "1b066cf9-12d8-450d-866e-677d61da153d",
@@ -73,7 +73,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-12T20:27:33.1643991Z",
-      "ModifiedAt": "2026-01-10T22:37:59.8564686Z"
+      "ModifiedAt": "2026-01-15T23:53:16.0643868Z"
     },
     {
       "Id": "08c75b56-6f6e-4b0c-88f7-7f58282253c4",
@@ -87,7 +87,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-10-06T20:54:10.239536Z",
-      "ModifiedAt": "2026-01-10T22:38:04.1007402Z"
+      "ModifiedAt": "2026-01-15T23:53:16.0643872Z"
     },
     {
       "Id": "5a47325b-00d5-4e36-8843-040393757b89",
@@ -101,7 +101,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-11-29T20:46:01.621465Z",
-      "ModifiedAt": "2026-01-10T22:38:06.3524938Z"
+      "ModifiedAt": "2026-01-15T23:53:16.0643874Z"
     },
     {
       "Id": "f97dfcaf-0ec7-4a05-aa20-89d26a48e419",
@@ -115,7 +115,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-11-29T20:48:00.0845001Z",
-      "ModifiedAt": "2026-01-10T22:38:10.2023262Z"
+      "ModifiedAt": "2026-01-15T23:53:16.0643877Z"
     },
     {
       "Id": "78f2c611-1379-41d2-a2bd-26f59e78abb9",
@@ -129,7 +129,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-03T00:06:54.3440002Z",
-      "ModifiedAt": "2026-01-10T22:38:12.564273Z"
+      "ModifiedAt": "2026-01-15T23:53:16.0643879Z"
     },
     {
       "Id": "0f848527-2363-4851-9ca7-73666e9414b1",
@@ -143,7 +143,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-03T00:14:50.1039412Z",
-      "ModifiedAt": "2026-01-10T22:38:14.7356325Z"
+      "ModifiedAt": "2026-01-15T23:53:16.0643881Z"
     },
     {
       "Id": "6faa69f2-c15d-4fdc-850e-76823035610f",
@@ -157,7 +157,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-03T20:13:35.6221496Z",
-      "ModifiedAt": "2026-01-10T22:38:17.1760145Z"
+      "ModifiedAt": "2026-01-15T23:53:16.0643884Z"
     },
     {
       "Id": "2d80ee64-f724-4599-9e89-1e3cc4569aec",
@@ -171,7 +171,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-03T20:19:19.9377126Z",
-      "ModifiedAt": "2026-01-10T22:38:20.547001Z"
+      "ModifiedAt": "2026-01-15T23:53:16.0643886Z"
     },
     {
       "Id": "4a1a57d1-548b-493e-b997-a5f4834de436",
@@ -185,7 +185,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-03T20:20:18.3895338Z",
-      "ModifiedAt": "2026-01-10T22:38:22.6018629Z"
+      "ModifiedAt": "2026-01-15T23:53:16.0643889Z"
     },
     {
       "Id": "7b40e31b-cb13-4075-9cb6-7e6583968814",
@@ -199,7 +199,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-03T23:17:59.8902273Z",
-      "ModifiedAt": "2026-01-10T22:38:24.7983951Z"
+      "ModifiedAt": "2026-01-15T23:53:16.0643892Z"
     },
     {
       "Id": "72510d39-8a10-4784-a025-4d7880118358",
@@ -213,7 +213,21 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-08T00:57:01.7615289Z",
-      "ModifiedAt": "2026-01-10T22:38:26.7300115Z"
+      "ModifiedAt": "2026-01-15T23:53:16.0643896Z"
+    },
+    {
+      "Id": "234d97cf-7897-447a-9f17-846f4e8b23d3",
+      "Name": "Automit TB",
+      "Description": "",
+      "EventType": "OnAllTankBuster",
+      "LogicId": "ba5672cb-cc11-494b-ad31-90f80ee8a573",
+      "ThrottleSameEvent": 0.5,
+      "ThrottleAllEvents": 0.1,
+      "Timeout": 5.0,
+      "RecheckDuration": 0.0,
+      "Filters": {},
+      "CreatedAt": "2026-01-15T23:55:07.0710264Z",
+      "ModifiedAt": "2026-01-15T23:55:17.8165981Z"
     }
   ],
   "Conditions": [
@@ -5882,11 +5896,62 @@
           "VariableStringValue": "",
           "VariableNumberValue": 0.0,
           "VariableOperation": 0
+        },
+        {
+          "Id": "3f3ba6c3-9d04-4491-b7a5-17d52043d9bc",
+          "ActionId": 25751,
+          "SkillbarId": "",
+          "TTSText": "",
+          "TriggerType": 0,
+          "LogicOperator": 1,
+          "TargetType": 0,
+          "TargetSelectionStrategy": 6,
+          "SkipBuffId": 0,
+          "TargetOperation": 0,
+          "TargetDataId": 0,
+          "TargetName": "",
+          "TargetX": 0.0,
+          "TargetY": 0.0,
+          "TargetZ": 0.0,
+          "OverlayText": "",
+          "OverlayDuration": 3.0,
+          "VariableName": "",
+          "VariableType": 0,
+          "VariableBoolValue": true,
+          "VariableStringValue": "",
+          "VariableNumberValue": 0.0,
+          "VariableOperation": 0
+        },
+        {
+          "Id": "d50988ff-1af2-4a82-b00f-fe02a3f4f83e",
+          "ActionId": 7535,
+          "SkillbarId": "",
+          "TTSText": "",
+          "TriggerType": 0,
+          "LogicOperator": 1,
+          "TargetType": 0,
+          "TargetSelectionStrategy": 6,
+          "SkipBuffId": 0,
+          "TargetOperation": 0,
+          "TargetDataId": 0,
+          "TargetName": "",
+          "TargetX": 0.0,
+          "TargetY": 0.0,
+          "TargetZ": 0.0,
+          "OverlayText": "",
+          "OverlayDuration": 3.0,
+          "VariableName": "",
+          "VariableType": 0,
+          "VariableBoolValue": true,
+          "VariableStringValue": "",
+          "VariableNumberValue": 0.0,
+          "VariableOperation": 0
         }
       ],
       "CreatedAt": "2025-08-12T20:24:49.3210173Z",
-      "ModifiedAt": "2026-01-10T22:13:52.6476847Z",
-      "ExecuteFirstOnly": false
+      "ModifiedAt": "2026-01-15T23:57:48.1472036Z",
+      "ExecuteFirstOnly": true,
+      "Category": "Mitigation"
     },
     {
       "Id": "b5bbb2da-d7e4-4af7-ac76-6737828c6c62",
@@ -5927,8 +5992,9 @@
         }
       ],
       "CreatedAt": "2025-08-12T20:16:53.4840465Z",
-      "ModifiedAt": "2026-01-03T23:11:47.6700077Z",
-      "ExecuteFirstOnly": false
+      "ModifiedAt": "2026-01-15T23:54:29.1339111Z",
+      "ExecuteFirstOnly": false,
+      "Category": "Mitigation"
     },
     {
       "Id": "55ed34e5-8b06-4b99-a618-dadcfbb56e10",
@@ -6070,8 +6136,9 @@
         }
       ],
       "CreatedAt": "2025-08-12T20:19:14.0787708Z",
-      "ModifiedAt": "2026-01-05T23:28:47.5442787Z",
-      "ExecuteFirstOnly": true
+      "ModifiedAt": "2026-01-15T23:54:30.6906784Z",
+      "ExecuteFirstOnly": true,
+      "Category": "Mitigation"
     },
     {
       "Id": "b7d72611-1464-4b11-ab8a-1902d092d9e1",
@@ -6213,8 +6280,9 @@
         }
       ],
       "CreatedAt": "2025-08-12T20:17:16.0236881Z",
-      "ModifiedAt": "2026-01-05T23:29:03.283884Z",
-      "ExecuteFirstOnly": true
+      "ModifiedAt": "2026-01-15T23:54:31.9162051Z",
+      "ExecuteFirstOnly": true,
+      "Category": "Mitigation"
     },
     {
       "Id": "7a951ef0-f39b-45bd-b174-692b47fdfa76",
@@ -6255,8 +6323,9 @@
         }
       ],
       "CreatedAt": "2025-08-12T20:20:19.0034171Z",
-      "ModifiedAt": "2026-01-03T23:11:57.0769123Z",
-      "ExecuteFirstOnly": false
+      "ModifiedAt": "2026-01-15T23:54:33.3551961Z",
+      "ExecuteFirstOnly": false,
+      "Category": "Mitigation"
     },
     {
       "Id": "93a1dc02-1644-41ba-8d59-bb02bd1dde1c",
@@ -6295,8 +6364,9 @@
         }
       ],
       "CreatedAt": "2025-08-14T02:35:13.7551734Z",
-      "ModifiedAt": "2026-01-03T23:41:41.152896Z",
-      "ExecuteFirstOnly": false
+      "ModifiedAt": "2026-01-15T23:54:35.5173572Z",
+      "ExecuteFirstOnly": false,
+      "Category": "Mitigation"
     },
     {
       "Id": "cdf210ee-6701-4012-b3e5-1be407e197b1",
@@ -6334,8 +6404,9 @@
         }
       ],
       "CreatedAt": "2025-10-30T20:14:09.9004962Z",
-      "ModifiedAt": "2026-01-02T23:51:20.7070624Z",
-      "ExecuteFirstOnly": false
+      "ModifiedAt": "2026-01-15T23:54:40.0130644Z",
+      "ExecuteFirstOnly": false,
+      "Category": "Holds"
     },
     {
       "Id": "32b92184-c156-43a9-a727-ddacf1700a85",
@@ -6374,8 +6445,9 @@
         }
       ],
       "CreatedAt": "2025-11-29T07:21:27.9692004Z",
-      "ModifiedAt": "2025-11-29T20:42:30.232828Z",
-      "ExecuteFirstOnly": false
+      "ModifiedAt": "2026-01-15T23:54:42.9168951Z",
+      "ExecuteFirstOnly": false,
+      "Category": "Holds"
     },
     {
       "Id": "dd7b2b9f-2dd9-4727-bb92-aa51f5b78dbe",
@@ -6413,8 +6485,9 @@
         }
       ],
       "CreatedAt": "2025-11-29T20:44:52.0510154Z",
-      "ModifiedAt": "2025-11-29T20:45:08.3294446Z",
-      "ExecuteFirstOnly": false
+      "ModifiedAt": "2026-01-15T23:54:45.6629312Z",
+      "ExecuteFirstOnly": false,
+      "Category": "Holds"
     },
     {
       "Id": "2fe93ae9-ec9c-463a-b57f-731c026de339",
@@ -6452,8 +6525,9 @@
         }
       ],
       "CreatedAt": "2025-11-29T20:47:33.6923885Z",
-      "ModifiedAt": "2025-11-29T20:47:43.7674394Z",
-      "ExecuteFirstOnly": false
+      "ModifiedAt": "2026-01-15T23:54:47.1992559Z",
+      "ExecuteFirstOnly": false,
+      "Category": "Holds"
     },
     {
       "Id": "3c5df484-39e7-4776-aa19-b24dfad7cf18",
@@ -6491,8 +6565,9 @@
         }
       ],
       "CreatedAt": "2026-01-02T23:59:31.9159647Z",
-      "ModifiedAt": "2026-01-03T23:15:49.9057583Z",
-      "ExecuteFirstOnly": false
+      "ModifiedAt": "2026-01-15T23:54:49.1814393Z",
+      "ExecuteFirstOnly": false,
+      "Category": "Mitigation"
     },
     {
       "Id": "d8213858-2118-432a-994c-2a3bcb4d9632",
@@ -6531,7 +6606,8 @@
       ],
       "CreatedAt": "2026-01-03T00:12:57.4594782Z",
       "ModifiedAt": "2026-01-10T22:16:37.4963482Z",
-      "ExecuteFirstOnly": false
+      "ExecuteFirstOnly": false,
+      "Category": ""
     },
     {
       "Id": "2557472d-f661-4368-9eb2-1059343fcf12",
@@ -6569,8 +6645,9 @@
         }
       ],
       "CreatedAt": "2026-01-03T20:08:36.0381395Z",
-      "ModifiedAt": "2026-01-03T23:09:54.4162873Z",
-      "ExecuteFirstOnly": false
+      "ModifiedAt": "2026-01-15T23:54:52.395702Z",
+      "ExecuteFirstOnly": false,
+      "Category": "Mitigation"
     },
     {
       "Id": "ab041c02-24ba-4078-8ec5-66cea860df61",
@@ -6608,8 +6685,9 @@
         }
       ],
       "CreatedAt": "2026-01-05T23:14:07.7045013Z",
-      "ModifiedAt": "2026-01-05T23:14:33.621492Z",
-      "ExecuteFirstOnly": false
+      "ModifiedAt": "2026-01-15T23:54:54.2166311Z",
+      "ExecuteFirstOnly": false,
+      "Category": "Mitigation"
     },
     {
       "Id": "62f479f7-9a5f-4d78-9b8c-6c6a2b1ceb60",
@@ -6673,7 +6751,8 @@
       ],
       "CreatedAt": "2026-01-03T23:16:32.700873Z",
       "ModifiedAt": "2026-01-03T23:18:32.2606268Z",
-      "ExecuteFirstOnly": false
+      "ExecuteFirstOnly": false,
+      "Category": ""
     },
     {
       "Id": "f7147b34-a586-4934-8da8-6fc3a8adcf44",
@@ -6712,7 +6791,8 @@
       ],
       "CreatedAt": "2026-01-08T00:57:01.7615218Z",
       "ModifiedAt": "2026-01-08T00:57:01.7615219Z",
-      "ExecuteFirstOnly": false
+      "ExecuteFirstOnly": false,
+      "Category": ""
     }
   ],
   "QTBarConfig": {
@@ -6776,6 +6856,16 @@
         "Position": 4
       },
       {
+        "Id": "cdb8cb17-9aac-49bd-a715-d1ae2279dd43",
+        "Name": "Automit TB",
+        "Description": "Automatically executes the best mitigation to handle an incoming tank buster.",
+        "EventIds": [
+          "234d97cf-7897-447a-9f17-846f4e8b23d3"
+        ],
+        "Enabled": true,
+        "Position": 5
+      },
+      {
         "Id": "56cf3809-9dfd-4c06-a4c8-f6a3378d019c",
         "Name": "Bloodwhetting",
         "Description": "Bloddwhetting under 85 percent HP",
@@ -6783,7 +6873,7 @@
           "6faa69f2-c15d-4fdc-850e-76823035610f"
         ],
         "Enabled": true,
-        "Position": 5
+        "Position": 6
       },
       {
         "Id": "60e01806-6ece-41ba-8a5f-c98a1bb6d548",
@@ -6793,7 +6883,7 @@
           "4a1a57d1-548b-493e-b997-a5f4834de436"
         ],
         "Enabled": true,
-        "Position": 6
+        "Position": 7
       },
       {
         "Id": "cf6a5960-5035-4f57-9561-d6f8846ae131",
@@ -6803,7 +6893,7 @@
           "f2daaf1d-c477-42b2-9db1-baa49330bfe3"
         ],
         "Enabled": true,
-        "Position": 7
+        "Position": 8
       },
       {
         "Id": "072fc9c0-2923-42c1-90e4-8aa220eba0a0",
@@ -6813,7 +6903,7 @@
           "732a7c9a-5487-474b-bb80-91bf92cd7e74"
         ],
         "Enabled": true,
-        "Position": 8
+        "Position": 9
       },
       {
         "Id": "9f65fecb-9378-499c-9c4f-88bd603bb1c5",
@@ -6823,7 +6913,7 @@
           "09325808-4e89-4c09-a62e-5ea2aec65eac"
         ],
         "Enabled": true,
-        "Position": 9
+        "Position": 10
       },
       {
         "Id": "64f18124-b422-43d8-b2fd-fc359af1a6d7",
@@ -6833,7 +6923,7 @@
           "565fe51c-9d06-4338-bb4e-ad1d0cba3e32"
         ],
         "Enabled": true,
-        "Position": 10
+        "Position": 11
       },
       {
         "Id": "d81f6bcd-392e-4561-a03f-2c2989e6fb45",
@@ -6843,7 +6933,7 @@
           "1b066cf9-12d8-450d-866e-677d61da153d"
         ],
         "Enabled": true,
-        "Position": 11
+        "Position": 12
       },
       {
         "Id": "016f904b-11db-4135-9de6-25bd4634bca7",
@@ -6853,7 +6943,7 @@
           "78f2c611-1379-41d2-a2bd-26f59e78abb9"
         ],
         "Enabled": true,
-        "Position": 12
+        "Position": 13
       },
       {
         "Id": "6794c678-5c6f-45a5-88c6-d4f19b40bdf8",
@@ -6863,7 +6953,7 @@
           "0f848527-2363-4851-9ca7-73666e9414b1"
         ],
         "Enabled": true,
-        "Position": 13
+        "Position": 14
       },
       {
         "Id": "a8eef397-9faa-4bd2-bbd1-85cd9bddbfd6",
@@ -6873,7 +6963,7 @@
           "7b40e31b-cb13-4075-9cb6-7e6583968814"
         ],
         "Enabled": true,
-        "Position": 14
+        "Position": 15
       }
     ],
     "ToggleStates": {
@@ -6886,13 +6976,14 @@
       "969c86f4-4076-445b-8f68-b16cb511e458": false,
       "73595275-5d4a-47ef-b3fb-b958d824781f": false,
       "016f904b-11db-4135-9de6-25bd4634bca7": false,
-      "6794c678-5c6f-45a5-88c6-d4f19b40bdf8": true,
+      "6794c678-5c6f-45a5-88c6-d4f19b40bdf8": false,
       "56cf3809-9dfd-4c06-a4c8-f6a3378d019c": true,
       "f089a7bc-df0c-4c1f-b344-caf606ed5afd": true,
       "60e01806-6ece-41ba-8a5f-c98a1bb6d548": true,
       "a8eef397-9faa-4bd2-bbd1-85cd9bddbfd6": false,
-      "79c843e7-8227-4e36-98e5-a45c40f19ffd": true
+      "79c843e7-8227-4e36-98e5-a45c40f19ffd": true,
+      "cdb8cb17-9aac-49bd-a715-d1ae2279dd43": true
     }
   },
-  "Version": "1.0.5"
-} 
+  "Version": "1.0.6"
+}
