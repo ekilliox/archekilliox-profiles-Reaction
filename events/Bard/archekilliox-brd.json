@@ -3,7 +3,7 @@
   "Name": "archekilliox-brd",
   "Description": "",
   "CreatedAt": "2025-09-07T15:27:36.6567597Z",
-  "ModifiedAt": "2026-01-30T23:50:54.0385862Z",
+  "ModifiedAt": "2026-01-30T23:57:32.29619Z",
   "Events": [
     {
       "Id": "ab339d4e-1ded-46f4-bee3-7a872ac47194",
@@ -17,7 +17,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-09-08T09:34:53.460959Z",
-      "ModifiedAt": "2026-01-30T23:48:32.2301225Z"
+      "ModifiedAt": "2026-01-30T23:54:28.4398539Z"
     },
     {
       "Id": "b7bf9014-58d9-405a-b0ac-ccd70d407c27",
@@ -31,7 +31,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-09-08T09:36:36.881292Z",
-      "ModifiedAt": "2026-01-30T23:48:32.230123Z"
+      "ModifiedAt": "2026-01-30T23:54:28.4398542Z"
     },
     {
       "Id": "dc3da58d-3ab3-494e-ae38-326a2cdfdb48",
@@ -45,7 +45,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-09-10T11:17:15.8671315Z",
-      "ModifiedAt": "2026-01-30T23:48:32.2301233Z"
+      "ModifiedAt": "2026-01-30T23:54:28.4398544Z"
     },
     {
       "Id": "ca2c12e5-d077-44aa-8e82-2bb82b270656",
@@ -59,7 +59,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-09-23T20:39:56.5477669Z",
-      "ModifiedAt": "2026-01-30T23:48:32.2301237Z"
+      "ModifiedAt": "2026-01-30T23:54:28.4398546Z"
     },
     {
       "Id": "d6adbb06-b080-43fc-899b-08573440b826",
@@ -73,7 +73,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-22T01:48:10.1211577Z",
-      "ModifiedAt": "2026-01-30T23:48:32.2301239Z"
+      "ModifiedAt": "2026-01-30T23:54:28.4398549Z"
     },
     {
       "Id": "dbcc630a-9543-43d1-9118-707b3183d9f3",
@@ -87,7 +87,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-22T01:48:36.9570033Z",
-      "ModifiedAt": "2026-01-30T23:48:32.2301244Z"
+      "ModifiedAt": "2026-01-30T23:54:28.4398552Z"
     },
     {
       "Id": "7f46f888-29b2-490b-a87b-a0d49f9f1226",
@@ -101,7 +101,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-22T01:48:55.6044003Z",
-      "ModifiedAt": "2026-01-30T23:48:32.2301251Z"
+      "ModifiedAt": "2026-01-30T23:54:28.4398554Z"
     },
     {
       "Id": "e4f2d0f2-a124-4b81-a528-e0370a523760",
@@ -115,7 +115,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-30T23:48:38.6590873Z",
-      "ModifiedAt": "2026-01-30T23:48:38.6590876Z"
+      "ModifiedAt": "2026-01-30T23:54:28.4384076Z"
     }
   ],
   "Conditions": [
@@ -2507,7 +2507,7 @@
     "NumberOfColumns": 2,
     "HorizontalSpacing": 5,
     "VerticalSpacing": 5,
-    "ButtonWidth": 130,
+    "ButtonWidth": 120,
     "ButtonHeight": 30,
     "Transparency": 255,
     "Items": [
@@ -2568,6 +2568,16 @@
         ],
         "Enabled": true,
         "Position": 4
+      },
+      {
+        "Id": "355e39ff-8060-4954-a107-87487f04b765",
+        "Name": "Auto Cleanse",
+        "Description": "Automatically retargets wardens pean to remove cleansable debuffs. Prioritizes you, then your party.",
+        "EventIds": [
+          "e4f2d0f2-a124-4b81-a528-e0370a523760"
+        ],
+        "Enabled": true,
+        "Position": 5
       }
     ],
     "ToggleStates": {
@@ -2575,8 +2585,9 @@
       "bcdddb2e-db7d-40fc-8632-651d1bff02c9": false,
       "241fd874-3984-4e11-b5b4-288c91e9760c": false,
       "8d93dd37-d122-4f5e-b2c6-e10be1b977e9": false,
-      "9e33b8d9-62b8-45cb-ae30-3051cd8c6597": true
+      "9e33b8d9-62b8-45cb-ae30-3051cd8c6597": true,
+      "355e39ff-8060-4954-a107-87487f04b765": true
     }
   },
-  "Version": "1.0.3"
+  "Version": "1.0.4"
 }
