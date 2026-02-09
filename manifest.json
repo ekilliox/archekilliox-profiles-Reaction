@@ -1,4 +1,5 @@
 {
+  "events/Astrologian/archekilliox-ast.json": "1.0.0",
   "events/Warrior/archekilliox-war.json": "1.0.6",
   "events/Paladin/archekilliox-pld.json": "1.0.5",
   "events/DarkKnight/archekilliox-drk.json": "1.0.6",
@@ -14,9 +15,9 @@
   "events/Bard/archekilliox-brd.json": "1.0.6",
   "events/RedMage/RezMage.json": "1.0.3",
   "events/Pictomancer/Pictomancer.json": "1.0.2",
-  "events/BlackMage/BlackMage.json": "1.0.3",
+  "events/BlackMage/archekilliox-blm.json": "1.0.3",
   "timelines/Machinist/MCH R1.json": "1.0.1",
-  "timelines/Machinist/Heavyweight - MCH R1.json": "1.0.1",
-  "timelines/Bard/Heavyweight - BRD R1.json": "1.0.0",
+  "timelines/Machinist/Heavyweight - MCH R1.json": "1.0.2",
+  "timelines/Bard/Heavyweight - BRD R1.json": "1.0.1",
   "timelines/Dancer/Heavyweight - DNC R1.json": "1.0.0"
 }
