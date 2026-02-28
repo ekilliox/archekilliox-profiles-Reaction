@@ -1,9 +1,9 @@
 {
-  "Id": "archekilliox-gnb",
-  "Name": "archekilliox-gnb",
-  "Description": "Detailed individual reaction toggles. Every event has it's own.",
+  "Id": "Dng-GNB",
+  "Name": "Dng-GNB",
+  "Description": "All in one, consolidated dungeon reactions",
   "CreatedAt": "2025-08-14T04:53:49.8169798Z",
-  "ModifiedAt": "2026-02-28T05:03:07.6233917Z",
+  "ModifiedAt": "2026-02-28T04:33:13.4574252Z",
   "Events": [
     {
       "Id": "f2daaf1d-c477-42b2-9db1-baa49330bfe3",
@@ -17,7 +17,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-12T20:28:34.9132756Z",
-      "ModifiedAt": "2026-02-28T04:54:56.3386284Z"
+      "ModifiedAt": "2026-02-28T04:54:56.348144Z"
     },
     {
       "Id": "732a7c9a-5487-474b-bb80-91bf92cd7e74",
@@ -31,7 +31,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-12T20:23:27.0455383Z",
-      "ModifiedAt": "2026-02-28T04:54:56.3386289Z"
+      "ModifiedAt": "2026-02-28T04:54:56.3481492Z"
     },
     {
       "Id": "09325808-4e89-4c09-a62e-5ea2aec65eac",
@@ -45,7 +45,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-14T02:35:46.8628569Z",
-      "ModifiedAt": "2026-02-28T04:54:56.3386292Z"
+      "ModifiedAt": "2026-02-28T04:54:56.3481495Z"
     },
     {
       "Id": "565fe51c-9d06-4338-bb4e-ad1d0cba3e32",
@@ -59,7 +59,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-12T20:28:17.4766558Z",
-      "ModifiedAt": "2026-02-28T04:54:56.3386295Z"
+      "ModifiedAt": "2026-02-28T04:54:56.34815Z"
     },
     {
       "Id": "1b066cf9-12d8-450d-866e-677d61da153d",
@@ -73,7 +73,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-12T20:27:33.1643991Z",
-      "ModifiedAt": "2026-02-28T04:54:56.3386298Z"
+      "ModifiedAt": "2026-02-28T04:54:56.3481504Z"
     },
     {
       "Id": "a6cdc6d2-6171-4f55-8f53-dbde09c85e86",
@@ -87,11 +87,11 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-13T05:47:18.104461Z",
-      "ModifiedAt": "2026-02-28T04:54:56.3386305Z"
+      "ModifiedAt": "2026-02-28T04:54:56.3481507Z"
     },
     {
       "Id": "f6a9ba02-bb93-406b-b7ad-b171fc3aa3d0",
-      "Name": "Aurora Self <= 80%",
+      "Name": "Aurora <= 80%",
       "Description": "",
       "EventType": "OnTick",
       "LogicId": "81f01a90-0268-4250-8108-620be7a3d630",
@@ -101,7 +101,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-13T05:50:13.2969325Z",
-      "ModifiedAt": "2026-02-28T04:54:56.3386312Z"
+      "ModifiedAt": "2026-02-28T04:54:56.3481511Z"
     },
     {
       "Id": "08c75b56-6f6e-4b0c-88f7-7f58282253c4",
@@ -115,7 +115,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-10-06T20:54:10.239536Z",
-      "ModifiedAt": "2026-02-28T04:54:56.338632Z"
+      "ModifiedAt": "2026-02-28T04:54:56.3481514Z"
     },
     {
       "Id": "5a47325b-00d5-4e36-8843-040393757b89",
@@ -129,11 +129,11 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-11-29T20:46:01.621465Z",
-      "ModifiedAt": "2026-02-28T04:54:56.3386325Z"
+      "ModifiedAt": "2026-02-28T04:54:56.3481518Z"
     },
     {
       "Id": "f97dfcaf-0ec7-4a05-aa20-89d26a48e419",
-      "Name": "Burn Boss",
+      "Name": "Last Boss",
       "Description": "Enables burn boss at 5% hp.",
       "EventType": "OnTick",
       "LogicId": "2fe93ae9-ec9c-463a-b57f-731c026de339",
@@ -143,12 +143,12 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-11-29T20:48:00.0845001Z",
-      "ModifiedAt": "2026-02-28T04:54:56.3386331Z"
+      "ModifiedAt": "2026-02-28T04:54:56.348152Z"
     },
     {
       "Id": "78f2c611-1379-41d2-a2bd-26f59e78abb9",
-      "Name": "HoC OT",
-      "Description": "Automatically gives HOC to cotank at 70%. This HP value is adjustable in conditions.",
+      "Name": "Auto Buddymit",
+      "Description": "Automatically gives HOC to cotank at 50%. This HP value is adjustable in conditions.",
       "EventType": "OnTick",
       "LogicId": "3c5df484-39e7-4776-aa19-b24dfad7cf18",
       "ThrottleSameEvent": 0.5,
@@ -157,11 +157,11 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-03T00:06:54.3440002Z",
-      "ModifiedAt": "2026-02-28T04:54:56.3386335Z"
+      "ModifiedAt": "2026-02-28T04:54:56.3481523Z"
     },
     {
       "Id": "b1a53fa1-f7f0-433b-ab95-0a01e86b12dd",
-      "Name": "OT Aurora",
+      "Name": "CoTank Aurora",
       "Description": "Automatically grants your cotank aurora at 80% or less HP.",
       "EventType": "OnTick",
       "LogicId": "92c46192-3aab-4221-8b6a-15eab78c8047",
@@ -171,7 +171,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-03T00:07:04.6635422Z",
-      "ModifiedAt": "2026-02-28T04:54:56.3386341Z"
+      "ModifiedAt": "2026-02-28T04:54:56.3481527Z"
     },
     {
       "Id": "0f848527-2363-4851-9ca7-73666e9414b1",
@@ -185,7 +185,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-03T00:14:50.1039412Z",
-      "ModifiedAt": "2026-02-28T04:54:56.3386345Z"
+      "ModifiedAt": "2026-02-28T04:54:56.3481531Z"
     },
     {
       "Id": "65f5a501-e2a1-47af-9a1f-9c3b22f298a3",
@@ -199,11 +199,11 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-03T21:52:11.3787339Z",
-      "ModifiedAt": "2026-02-28T04:54:56.3386351Z"
+      "ModifiedAt": "2026-02-28T04:54:56.3481534Z"
     },
     {
       "Id": "b14f1b3c-1603-4c32-bc6f-9759e6b68265",
-      "Name": "Stance OT",
+      "Name": "Stance",
       "Description": "",
       "EventType": "OnWipe",
       "LogicId": "ec0185f3-0bf0-47c7-a547-51fc74c7f474",
@@ -213,7 +213,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-05T23:17:18.1797238Z",
-      "ModifiedAt": "2026-02-28T04:54:56.3386356Z"
+      "ModifiedAt": "2026-02-28T04:54:56.3481538Z"
     },
     {
       "Id": "fbc2cea7-a2de-443d-8c3e-17b155de744b",
@@ -227,7 +227,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-08T00:51:14.9533963Z",
-      "ModifiedAt": "2026-02-28T04:54:56.3386362Z"
+      "ModifiedAt": "2026-02-28T04:54:56.3481541Z"
     },
     {
       "Id": "abbafd47-f2d3-497a-927e-dd8525c758df",
@@ -241,7 +241,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-10T23:16:13.5209404Z",
-      "ModifiedAt": "2026-02-28T04:54:56.338637Z"
+      "ModifiedAt": "2026-02-28T04:54:56.3481544Z"
     },
     {
       "Id": "c3f48c29-96d2-417e-8faa-94b7cdf8bff7",
@@ -255,21 +255,21 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-15T23:25:16.8466631Z",
-      "ModifiedAt": "2026-02-28T04:54:56.3386374Z"
+      "ModifiedAt": "2026-02-28T04:54:56.3481546Z"
     },
     {
-      "Id": "da3e70ca-4874-4256-9bad-d7377bca5092",
+      "Id": "19363f9b-8028-4e73-8a6b-005b9470ce4e",
       "Name": "Sprint OOC",
       "Description": "",
       "EventType": "OnTick",
-      "LogicId": "f21a7f04-452b-4108-9367-71b6ee507ab3",
+      "LogicId": "f1ab36a9-085b-414d-b1b0-2fc09466ed25",
       "ThrottleSameEvent": 0.5,
       "ThrottleAllEvents": 0.1,
       "Timeout": 5.0,
       "RecheckDuration": 0.0,
       "Filters": {},
-      "CreatedAt": "2026-02-28T05:02:26.5232774Z",
-      "ModifiedAt": "2026-02-28T05:02:26.5232779Z"
+      "CreatedAt": "2026-02-28T04:30:44.7221825Z",
+      "ModifiedAt": "2026-02-28T04:54:56.3481548Z"
     }
   ],
   "Conditions": [
@@ -1387,12 +1387,12 @@
     },
     {
       "Id": "887a22c3-db4b-4035-8eb1-cdc569878b07",
-      "Name": "HP <= 50%",
+      "Name": "HP <= 40%",
       "Description": "",
       "SubConditions": [
         {
           "Id": "9ce7572f-f7c1-40d9-b328-d1a2129962ac",
-          "Name": "HP <= 50%",
+          "Name": "HP <= 40%",
           "Description": "",
           "TargetType": 0,
           "ConditionType": 1,
@@ -1415,7 +1415,7 @@
               "IsEnabled": true
             },
             "HealthParams": {
-              "Percentage": 50.0,
+              "Percentage": 40.1,
               "Comparison": 1,
               "UseRawValue": false,
               "RawValue": 1000,
@@ -1598,7 +1598,7 @@
         }
       ],
       "CreatedAt": "2025-08-12T19:55:25.4080608Z",
-      "ModifiedAt": "2026-02-09T22:59:16.5432149Z",
+      "ModifiedAt": "2025-08-12T19:55:38.0665787Z",
       "ExcludeFromTargetAccumulation": false
     },
     {
@@ -3559,11 +3559,11 @@
     {
       "Id": "9b3df71d-1a8a-45d3-9066-9c755d71f3d8",
       "Name": "Full HP Target",
-      "Description": "",
+      "Description": "set to 95 to ensure entire pack of mobs are grouped first",
       "SubConditions": [
         {
           "Id": "fa04f8d9-e6a6-4707-8b79-5559b0fb87dc",
-          "Name": "Above 60hp",
+          "Name": "95HP",
           "Description": "",
           "TargetType": 1,
           "ConditionType": 1,
@@ -3586,8 +3586,8 @@
               "IsEnabled": true
             },
             "HealthParams": {
-              "Percentage": 60.0,
-              "Comparison": 3,
+              "Percentage": 95.1,
+              "Comparison": 2,
               "UseRawValue": false,
               "RawValue": 1000,
               "IsEnabled": true
@@ -3769,7 +3769,7 @@
         }
       ],
       "CreatedAt": "2025-10-30T20:13:28.7018257Z",
-      "ModifiedAt": "2026-01-17T01:29:17.2530075Z",
+      "ModifiedAt": "2026-01-03T21:54:06.1385887Z",
       "ExcludeFromTargetAccumulation": false
     },
     {
@@ -4018,7 +4018,7 @@
               "IsEnabled": true
             },
             "HealthParams": {
-              "Percentage": 5.0,
+              "Percentage": 5.1,
               "Comparison": 1,
               "UseRawValue": false,
               "RawValue": 1000,
@@ -4201,7 +4201,7 @@
         }
       ],
       "CreatedAt": "2025-11-29T07:21:08.0248181Z",
-      "ModifiedAt": "2026-01-17T01:31:12.8589364Z",
+      "ModifiedAt": "2025-11-29T07:21:08.0248182Z",
       "ExcludeFromTargetAccumulation": false
     },
     {
@@ -4234,7 +4234,7 @@
               "IsEnabled": true
             },
             "HealthParams": {
-              "Percentage": 40.0,
+              "Percentage": 30.0,
               "Comparison": 1,
               "UseRawValue": false,
               "RawValue": 1000,
@@ -4417,7 +4417,7 @@
         }
       ],
       "CreatedAt": "2025-11-29T07:21:16.1584628Z",
-      "ModifiedAt": "2026-01-17T01:29:55.6715717Z",
+      "ModifiedAt": "2025-11-29T07:21:16.1584629Z",
       "ExcludeFromTargetAccumulation": false
     },
     {
@@ -4862,7 +4862,7 @@
               "IsEnabled": true
             },
             "HealthParams": {
-              "Percentage": 80.0,
+              "Percentage": 80.1,
               "Comparison": 1,
               "UseRawValue": false,
               "RawValue": 1000,
@@ -5045,7 +5045,7 @@
         }
       ],
       "CreatedAt": "2026-01-02T23:58:36.3514729Z",
-      "ModifiedAt": "2026-01-17T01:30:02.5498633Z",
+      "ModifiedAt": "2026-01-04T02:14:05.6596904Z",
       "ExcludeFromTargetAccumulation": false
     },
     {
@@ -5490,7 +5490,7 @@
               "IsEnabled": true
             },
             "HealthParams": {
-              "Percentage": 90.0,
+              "Percentage": 90.2,
               "Comparison": 1,
               "UseRawValue": false,
               "RawValue": 1000,
@@ -5673,7 +5673,7 @@
         }
       ],
       "CreatedAt": "2026-01-03T00:02:55.3256903Z",
-      "ModifiedAt": "2026-01-17T01:30:07.3632248Z",
+      "ModifiedAt": "2026-01-04T02:14:11.9422172Z",
       "ExcludeFromTargetAccumulation": false
     },
     {
@@ -6531,12 +6531,12 @@
       "ExcludeFromTargetAccumulation": false
     },
     {
-      "Id": "e06efb91-be3a-47a7-bf64-7c21808b2c79",
+      "Id": "4570f77b-07e5-42f1-83c8-075f8460ae89",
       "Name": "Out of combat",
       "Description": "",
       "SubConditions": [
         {
-          "Id": "e20344d2-dca3-480e-be70-ae74b5c4ca8a",
+          "Id": "b1523de2-57bc-49f0-a0a4-5ed4d5ff7348",
           "Name": "OOC",
           "Description": "",
           "TargetType": 0,
@@ -6742,8 +6742,8 @@
           "ShouldUseTargetCount": false
         }
       ],
-      "CreatedAt": "2026-02-28T05:02:26.5225213Z",
-      "ModifiedAt": "2026-02-28T05:02:26.5225214Z",
+      "CreatedAt": "2026-02-28T04:30:58.2320304Z",
+      "ModifiedAt": "2026-02-28T04:31:09.4953139Z",
       "ExcludeFromTargetAccumulation": false
     }
   ],
@@ -6943,6 +6943,31 @@
       ],
       "ActionTriggers": [
         {
+          "Id": "8ccb424b-4d5d-485f-baec-195eec2c1ee8",
+          "ActionId": 25758,
+          "SkillbarId": "",
+          "TTSText": "",
+          "TriggerType": 0,
+          "LogicOperator": 1,
+          "TargetType": 0,
+          "TargetSelectionStrategy": 6,
+          "SkipBuffId": 0,
+          "TargetOperation": 0,
+          "TargetDataId": 0,
+          "TargetName": "",
+          "TargetX": 0.0,
+          "TargetY": 0.0,
+          "TargetZ": 0.0,
+          "OverlayText": "",
+          "OverlayDuration": 3.0,
+          "VariableName": "",
+          "VariableType": 0,
+          "VariableBoolValue": true,
+          "VariableStringValue": "",
+          "VariableNumberValue": 0.0,
+          "VariableOperation": 0
+        },
+        {
           "Id": "999be5d6-f551-4e2f-be13-034aac6bb2f0",
           "ActionId": 7548,
           "SkillbarId": "",
@@ -6993,31 +7018,6 @@
           "VariableOperation": 0
         },
         {
-          "Id": "cb19cc67-76ff-4e7c-bfac-cff0c2d06b65",
-          "ActionId": 7531,
-          "SkillbarId": "",
-          "TTSText": "",
-          "TriggerType": 0,
-          "LogicOperator": 1,
-          "TargetType": 0,
-          "TargetSelectionStrategy": 6,
-          "SkipBuffId": 0,
-          "TargetOperation": 0,
-          "TargetDataId": 0,
-          "TargetName": "",
-          "TargetX": 0.0,
-          "TargetY": 0.0,
-          "TargetZ": 0.0,
-          "OverlayText": "",
-          "OverlayDuration": 3.0,
-          "VariableName": "",
-          "VariableType": 0,
-          "VariableBoolValue": true,
-          "VariableStringValue": "",
-          "VariableNumberValue": 0.0,
-          "VariableOperation": 0
-        },
-        {
           "Id": "602400f1-1e81-4551-8c2a-1b21f4cff807",
           "ActionId": 16140,
           "SkillbarId": "",
@@ -7043,8 +7043,8 @@
           "VariableOperation": 0
         },
         {
-          "Id": "8ccb424b-4d5d-485f-baec-195eec2c1ee8",
-          "ActionId": 25758,
+          "Id": "cb19cc67-76ff-4e7c-bfac-cff0c2d06b65",
+          "ActionId": 7531,
           "SkillbarId": "",
           "TTSText": "",
           "TriggerType": 0,
@@ -7094,7 +7094,7 @@
         }
       ],
       "CreatedAt": "2025-08-12T20:19:14.0787708Z",
-      "ModifiedAt": "2026-02-09T22:58:40.6683303Z",
+      "ModifiedAt": "2026-01-15T23:22:10.5649861Z",
       "ExecuteFirstOnly": true,
       "Category": "Mitigation"
     },
@@ -7111,8 +7111,8 @@
       ],
       "ActionTriggers": [
         {
-          "Id": "205270e7-1d42-4b5f-a58d-02726a2392a2",
-          "ActionId": 7535,
+          "Id": "8ccb424b-4d5d-485f-baec-195eec2c1ee8",
+          "ActionId": 25758,
           "SkillbarId": "",
           "TTSText": "",
           "TriggerType": 0,
@@ -7138,6 +7138,31 @@
         {
           "Id": "cd4becaf-4af6-419b-bf66-b2e3ff2d07c4",
           "ActionId": 7548,
+          "SkillbarId": "",
+          "TTSText": "",
+          "TriggerType": 0,
+          "LogicOperator": 1,
+          "TargetType": 0,
+          "TargetSelectionStrategy": 6,
+          "SkipBuffId": 0,
+          "TargetOperation": 0,
+          "TargetDataId": 0,
+          "TargetName": "",
+          "TargetX": 0.0,
+          "TargetY": 0.0,
+          "TargetZ": 0.0,
+          "OverlayText": "",
+          "OverlayDuration": 3.0,
+          "VariableName": "",
+          "VariableType": 0,
+          "VariableBoolValue": true,
+          "VariableStringValue": "",
+          "VariableNumberValue": 0.0,
+          "VariableOperation": 0
+        },
+        {
+          "Id": "205270e7-1d42-4b5f-a58d-02726a2392a2",
+          "ActionId": 7535,
           "SkillbarId": "",
           "TTSText": "",
           "TriggerType": 0,
@@ -7211,31 +7236,6 @@
           "VariableOperation": 0
         },
         {
-          "Id": "8ccb424b-4d5d-485f-baec-195eec2c1ee8",
-          "ActionId": 25758,
-          "SkillbarId": "",
-          "TTSText": "",
-          "TriggerType": 0,
-          "LogicOperator": 1,
-          "TargetType": 0,
-          "TargetSelectionStrategy": 6,
-          "SkipBuffId": 0,
-          "TargetOperation": 0,
-          "TargetDataId": 0,
-          "TargetName": "",
-          "TargetX": 0.0,
-          "TargetY": 0.0,
-          "TargetZ": 0.0,
-          "OverlayText": "",
-          "OverlayDuration": 3.0,
-          "VariableName": "",
-          "VariableType": 0,
-          "VariableBoolValue": true,
-          "VariableStringValue": "",
-          "VariableNumberValue": 0.0,
-          "VariableOperation": 0
-        },
-        {
           "Id": "552baa0e-9789-4520-a8f7-f70fa00f4fb3",
           "ActionId": 36935,
           "SkillbarId": "",
@@ -7262,7 +7262,7 @@
         }
       ],
       "CreatedAt": "2025-08-12T20:17:16.0236881Z",
-      "ModifiedAt": "2026-02-09T22:58:25.5903287Z",
+      "ModifiedAt": "2026-01-15T23:22:13.3131254Z",
       "ExecuteFirstOnly": true,
       "Category": "Mitigation"
     },
@@ -7535,41 +7535,16 @@
     {
       "Id": "cdf210ee-6701-4012-b3e5-1be407e197b1",
       "Name": "Enable CDs",
-      "Description": "Automatically reenables cooldowns when detecting an enemy with nearly full HP.\nSet to 90% default.",
+      "Description": "Automatically reenables cooldowns when detecting an enemy with nearly full HP.\nSet to >60% default.",
       "LogicType": 0,
       "ConditionIds": [
         "9b3df71d-1a8a-45d3-9066-9c755d71f3d8"
       ],
       "ActionTriggers": [
         {
-          "Id": "27bffa96-5cac-44ff-8027-ca00fb974523",
+          "Id": "60c02d3c-800e-4486-9c60-2a602bee1396",
           "ActionId": 0,
           "SkillbarId": "SaveCD",
-          "TTSText": "",
-          "TriggerType": 1,
-          "LogicOperator": 8,
-          "TargetType": 1,
-          "TargetSelectionStrategy": 6,
-          "SkipBuffId": 0,
-          "TargetOperation": 0,
-          "TargetDataId": 0,
-          "TargetName": "",
-          "TargetX": 0.0,
-          "TargetY": 0.0,
-          "TargetZ": 0.0,
-          "OverlayText": "",
-          "OverlayDuration": 3.0,
-          "VariableName": "",
-          "VariableType": 0,
-          "VariableBoolValue": true,
-          "VariableStringValue": "",
-          "VariableNumberValue": 0.0,
-          "VariableOperation": 0
-        },
-        {
-          "Id": "e8678943-f26f-4591-a82a-d5b525f69f26",
-          "ActionId": 0,
-          "SkillbarId": "BurnBoss",
           "TTSText": "",
           "TriggerType": 1,
           "LogicOperator": 8,
@@ -7593,7 +7568,7 @@
         }
       ],
       "CreatedAt": "2025-10-30T20:14:09.9004962Z",
-      "ModifiedAt": "2026-01-23T02:53:36.1730492Z",
+      "ModifiedAt": "2026-02-09T23:07:36.3867687Z",
       "ExecuteFirstOnly": false,
       "Category": "Holds"
     },
@@ -7985,16 +7960,16 @@
       "Category": "Mitigation"
     },
     {
-      "Id": "f21a7f04-452b-4108-9367-71b6ee507ab3",
+      "Id": "f1ab36a9-085b-414d-b1b0-2fc09466ed25",
       "Name": "Sprint OOC",
       "Description": "",
       "LogicType": 0,
       "ConditionIds": [
-        "e06efb91-be3a-47a7-bf64-7c21808b2c79"
+        "4570f77b-07e5-42f1-83c8-075f8460ae89"
       ],
       "ActionTriggers": [
         {
-          "Id": "923778f8-9147-4e8d-a163-a3852371d7d4",
+          "Id": "004557e8-9c4d-4b23-8c68-9b9511b87ab0",
           "ActionId": 3,
           "SkillbarId": "",
           "TTSText": "",
@@ -8019,8 +7994,8 @@
           "VariableOperation": 0
         }
       ],
-      "CreatedAt": "2026-02-28T05:02:26.5229299Z",
-      "ModifiedAt": "2026-02-28T05:02:26.5229299Z",
+      "CreatedAt": "2026-02-28T04:31:25.6823332Z",
+      "ModifiedAt": "2026-02-28T04:31:38.5266996Z",
       "ExecuteFirstOnly": true,
       "Category": "QOL"
     }
@@ -8036,6 +8011,25 @@
     "Transparency": 255,
     "Items": [
       {
+        "Id": "550eac98-fe17-4b97-898c-36ad70a9de68",
+        "Name": "Dungeons",
+        "Description": "",
+        "EventIds": [
+          "f2daaf1d-c477-42b2-9db1-baa49330bfe3",
+          "09325808-4e89-4c09-a62e-5ea2aec65eac",
+          "732a7c9a-5487-474b-bb80-91bf92cd7e74",
+          "565fe51c-9d06-4338-bb4e-ad1d0cba3e32",
+          "1b066cf9-12d8-450d-866e-677d61da153d",
+          "a6cdc6d2-6171-4f55-8f53-dbde09c85e86",
+          "f6a9ba02-bb93-406b-b7ad-b171fc3aa3d0",
+          "65f5a501-e2a1-47af-9a1f-9c3b22f298a3",
+          "abbafd47-f2d3-497a-927e-dd8525c758df",
+          "c3f48c29-96d2-417e-8faa-94b7cdf8bff7"
+        ],
+        "Enabled": true,
+        "Position": 0
+      },
+      {
         "Id": "80e5a42f-7cce-4607-877d-67ca6248a5df",
         "Name": "Boss Hold",
         "Description": "Holds cooldowns at 15 percent HP. Toggle for the first two bosses in dungeon.",
@@ -8043,7 +8037,7 @@
           "08c75b56-6f6e-4b0c-88f7-7f58282253c4"
         ],
         "Enabled": true,
-        "Position": 0
+        "Position": 1
       },
       {
         "Id": "969c86f4-4076-445b-8f68-b16cb511e458",
@@ -8053,7 +8047,7 @@
           "5a47325b-00d5-4e36-8843-040393757b89"
         ],
         "Enabled": true,
-        "Position": 1
+        "Position": 2
       },
       {
         "Id": "73595275-5d4a-47ef-b3fb-b958d824781f",
@@ -8061,16 +8055,6 @@
         "Description": "Enables burn boss at 5 percent HP boss health. Enable this for the last boss of a dungeon, or for any trial/raid with only one phase.",
         "EventIds": [
           "f97dfcaf-0ec7-4a05-aa20-89d26a48e419"
-        ],
-        "Enabled": true,
-        "Position": 2
-      },
-      {
-        "Id": "1b7bb064-7498-48a8-b688-0d0dd7980028",
-        "Name": "Enable CDs",
-        "Description": "Reenables cooldowns on target of a full HP enemy. Use this in conjunction with Boss Hold and Group Hold for best results in dungeons.",
-        "EventIds": [
-          "65f5a501-e2a1-47af-9a1f-9c3b22f298a3"
         ],
         "Enabled": true,
         "Position": 3
@@ -8086,167 +8070,24 @@
         "Position": 4
       },
       {
-        "Id": "61814183-65fe-4ec4-9a62-8afb57abc84d",
-        "Name": "Automit TB",
-        "Description": "Automatically executes the best mitigation to handle an incoming tank buster.",
+        "Id": "03c57f58-a312-41cb-9243-d86dd54ca27a",
+        "Name": "Sprint OOC",
+        "Description": "Sprints if you are not in combat",
         "EventIds": [
-          "c3f48c29-96d2-417e-8faa-94b7cdf8bff7"
+          "19363f9b-8028-4e73-8a6b-005b9470ce4e"
         ],
         "Enabled": true,
         "Position": 5
-      },
-      {
-        "Id": "cf6a5960-5035-4f57-9561-d6f8846ae131",
-        "Name": "Invuln",
-        "Description": "Uses invuln skill in emergencies.",
-        "EventIds": [
-          "f2daaf1d-c477-42b2-9db1-baa49330bfe3"
-        ],
-        "Enabled": true,
-        "Position": 6
-      },
-      {
-        "Id": "072fc9c0-2923-42c1-90e4-8aa220eba0a0",
-        "Name": "Reprisal RW",
-        "Description": "Uses Reprisal to mitigate incoming raidwide damage.",
-        "EventIds": [
-          "732a7c9a-5487-474b-bb80-91bf92cd7e74"
-        ],
-        "Enabled": true,
-        "Position": 7
-      },
-      {
-        "Id": "9f65fecb-9378-499c-9c4f-88bd603bb1c5",
-        "Name": "HoL RW",
-        "Description": "Uses Heart of Light to mitigate incoming raidwide damage.",
-        "EventIds": [
-          "09325808-4e89-4c09-a62e-5ea2aec65eac"
-        ],
-        "Enabled": true,
-        "Position": 8
-      },
-      {
-        "Id": "43604b83-5688-4b82-9cfd-fe014743f0d7",
-        "Name": "HoC Self",
-        "Description": "Uses Heart of Corundum on yourself at 85 percent HP.",
-        "EventIds": [
-          "abbafd47-f2d3-497a-927e-dd8525c758df"
-        ],
-        "Enabled": true,
-        "Position": 9
-      },
-      {
-        "Id": "677f6fdc-4fbc-444f-9b40-c7d54eee8ec0",
-        "Name": "Aurora Self",
-        "Description": "Uses Aurora to heal self.",
-        "EventIds": [
-          "f6a9ba02-bb93-406b-b7ad-b171fc3aa3d0"
-        ],
-        "Enabled": true,
-        "Position": 10
-      },
-      {
-        "Id": "64f18124-b422-43d8-b2fd-fc359af1a6d7",
-        "Name": "2 Mits AOE",
-        "Description": "Uses a second mitigation under 40 percent HP in pulls with 3 or more enemies. Use in conjunction with 1 Mits AOE.",
-        "EventIds": [
-          "565fe51c-9d06-4338-bb4e-ad1d0cba3e32"
-        ],
-        "Enabled": true,
-        "Position": 11
-      },
-      {
-        "Id": "d81f6bcd-392e-4561-a03f-2c2989e6fb45",
-        "Name": "1 Mits AOE",
-        "Description": "Uses 1 mitigation while tanking a group of 3 or more enemies.",
-        "EventIds": [
-          "1b066cf9-12d8-450d-866e-677d61da153d"
-        ],
-        "Enabled": true,
-        "Position": 12
-      },
-      {
-        "Id": "df6d1cc3-cd46-477a-9300-24ab349e9872",
-        "Name": "Low HP Mit",
-        "Description": "Uses extra mitigation to prevent dying at low HP. This is unconditional, meaning it works in raids/trials as well.",
-        "EventIds": [
-          "a6cdc6d2-6171-4f55-8f53-dbde09c85e86"
-        ],
-        "Enabled": true,
-        "Position": 13
-      },
-      {
-        "Id": "016f904b-11db-4135-9de6-25bd4634bca7",
-        "Name": "Buddymit",
-        "Description": "Will use Heart of Corundum on CoTank automatically in raids/trials at certain HP levels. TURN OFF HOC SELF TO USE THIS.",
-        "EventIds": [
-          "78f2c611-1379-41d2-a2bd-26f59e78abb9"
-        ],
-        "Enabled": true,
-        "Position": 14
-      },
-      {
-        "Id": "c914f1a7-4786-4ea2-a9a3-01f150b36872",
-        "Name": "Aurora OT",
-        "Description": "Will use Aurora on CoTank automatically in raids/trials at certain HP levels.",
-        "EventIds": [
-          "b1a53fa1-f7f0-433b-ab95-0a01e86b12dd"
-        ],
-        "Enabled": true,
-        "Position": 15
-      },
-      {
-        "Id": "6794c678-5c6f-45a5-88c6-d4f19b40bdf8",
-        "Name": "Auto Opener",
-        "Description": "Onwipe opener enabled automatically.",
-        "EventIds": [
-          "0f848527-2363-4851-9ca7-73666e9414b1"
-        ],
-        "Enabled": true,
-        "Position": 16
-      },
-      {
-        "Id": "f5037307-642a-4429-877c-58b929566bc9",
-        "Name": "Stance OT",
-        "Description": "Will manage stance automatically for Off-Tanks in raids. Enable stance in the end of your opener to use this effectively.",
-        "EventIds": [
-          "b14f1b3c-1603-4c32-bc6f-9759e6b68265"
-        ],
-        "Enabled": true,
-        "Position": 17
-      },
-      {
-        "Id": "3fe8ea57-6a13-410d-b51c-989e4ca4ef3a",
-        "Name": "Sprint OOC",
-        "Description": "Sprints out of combat.",
-        "EventIds": [
-          "da3e70ca-4874-4256-9bad-d7377bca5092"
-        ],
-        "Enabled": true,
-        "Position": 18
       }
     ],
     "ToggleStates": {
-      "cf6a5960-5035-4f57-9561-d6f8846ae131": true,
-      "43604b83-5688-4b82-9cfd-fe014743f0d7": true,
-      "072fc9c0-2923-42c1-90e4-8aa220eba0a0": true,
-      "9f65fecb-9378-499c-9c4f-88bd603bb1c5": true,
-      "677f6fdc-4fbc-444f-9b40-c7d54eee8ec0": true,
-      "64f18124-b422-43d8-b2fd-fc359af1a6d7": true,
-      "d81f6bcd-392e-4561-a03f-2c2989e6fb45": true,
-      "df6d1cc3-cd46-477a-9300-24ab349e9872": true,
       "80e5a42f-7cce-4607-877d-67ca6248a5df": false,
       "969c86f4-4076-445b-8f68-b16cb511e458": false,
       "73595275-5d4a-47ef-b3fb-b958d824781f": false,
-      "016f904b-11db-4135-9de6-25bd4634bca7": false,
-      "c914f1a7-4786-4ea2-a9a3-01f150b36872": false,
-      "6794c678-5c6f-45a5-88c6-d4f19b40bdf8": false,
-      "1b7bb064-7498-48a8-b688-0d0dd7980028": false,
-      "f5037307-642a-4429-877c-58b929566bc9": false,
+      "03c57f58-a312-41cb-9243-d86dd54ca27a": true,
       "19030dd6-0629-4029-af2d-c31e11285401": true,
-      "61814183-65fe-4ec4-9a62-8afb57abc84d": true,
-      "3fe8ea57-6a13-410d-b51c-989e4ca4ef3a": true
+      "550eac98-fe17-4b97-898c-36ad70a9de68": true
     }
   },
-  "Version": "1.0.6"
+  "Version": "1.0.0"
 }
