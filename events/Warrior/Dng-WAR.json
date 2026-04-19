@@ -3,7 +3,7 @@
   "Name": "Dng-WAR",
   "Description": "",
   "CreatedAt": "2025-08-14T04:53:49.8169798Z",
-  "ModifiedAt": "2026-04-19T21:06:55.7743006Z",
+  "ModifiedAt": "2026-04-19T21:11:06.3058024Z",
   "Events": [
     {
       "Id": "f2daaf1d-c477-42b2-9db1-baa49330bfe3",
@@ -9042,7 +9042,9 @@
       "Description": "",
       "LogicType": 0,
       "ConditionIds": [
-        "26b174f1-06da-4092-bb49-4af3a1491564"
+        "26b174f1-06da-4092-bb49-4af3a1491564",
+        "a446fef8-2c70-44fc-8cc5-51ad0f0fcb81",
+        "309a790a-240d-4e2f-a0b3-7282cf6b717a"
       ],
       "ActionTriggers": [
         {
@@ -9097,7 +9099,7 @@
         }
       ],
       "CreatedAt": "2025-11-29T20:47:33.6923885Z",
-      "ModifiedAt": "2026-04-19T20:12:08.4284226Z",
+      "ModifiedAt": "2026-04-19T21:10:31.2482972Z",
       "ExecuteFirstOnly": false,
       "Category": "Holds"
     },
@@ -9638,10 +9640,10 @@
     "ToggleStates": {
       "871d6ac2-ea97-44c6-8313-4449c727fe56": true,
       "6ca72a31-3f65-414b-b682-fe334d25dbab": true,
-      "a87a1ecd-3c43-458f-a0f4-778b91f1a1c8": false,
+      "a87a1ecd-3c43-458f-a0f4-778b91f1a1c8": true,
       "2d402000-064b-4cd8-ac89-ec4a9d1e8ad6": true,
       "71b2fd4a-6df7-4761-b352-e95a4de19cd2": true
     }
   },
-  "Version": "1.0.1"
+  "Version": "1.0.2"
 }
