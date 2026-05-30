@@ -1,13 +1,13 @@
 {
-  "Id": "Pictomancer (Copy)",
+  "Id": "archekilliox-PCT",
   "Name": "archekilliox-PCT",
   "Description": "",
   "CreatedAt": "2025-09-07T15:27:36.6567597Z",
-  "ModifiedAt": "2026-05-30T04:14:00.7815197Z",
+  "ModifiedAt": "2026-05-30T04:12:15.854413Z",
   "Events": [
     {
       "Id": "dc3da58d-3ab3-494e-ae38-326a2cdfdb48",
-      "Name": "OnWipe Opener",
+      "Name": "OnWipe",
       "Description": "",
       "EventType": "OnWipe",
       "LogicId": "0650ee7b-641f-4461-8170-48a02778df47",
@@ -17,7 +17,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-09-10T11:17:15.8671315Z",
-      "ModifiedAt": "2026-05-30T03:46:51.7969267Z"
+      "ModifiedAt": "2026-05-30T04:40:51.7968337Z"
     },
     {
       "Id": "56bcf09f-5bc9-4227-8b84-614a98bc4cc8",
@@ -31,7 +31,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-05-30T03:57:34.7303782Z",
-      "ModifiedAt": "2026-05-30T04:05:53.816085Z"
+      "ModifiedAt": "2026-05-30T04:40:51.7907192Z"
     },
     {
       "Id": "00d16d04-f207-4f24-b009-d93fd5b0e383",
@@ -45,7 +45,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-05-30T04:06:13.1187706Z",
-      "ModifiedAt": "2026-05-30T04:06:49.8374139Z"
+      "ModifiedAt": "2026-05-30T04:40:51.7907195Z"
     },
     {
       "Id": "cd39fad5-295b-4496-b5fe-c2a95e854171",
@@ -59,7 +59,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-05-30T04:06:19.0870248Z",
-      "ModifiedAt": "2026-05-30T04:06:24.2116198Z"
+      "ModifiedAt": "2026-05-30T04:40:51.7907196Z"
     }
   ],
   "Conditions": [
@@ -1052,7 +1052,7 @@
           "SkillbarId": "SaveCD",
           "TTSText": "",
           "TriggerType": 1,
-          "LogicOperator": 4,
+          "LogicOperator": 8,
           "TargetType": 1,
           "TargetSelectionStrategy": 6,
           "SkipBuffId": 0,
@@ -1127,7 +1127,7 @@
           "SkillbarId": "Burn",
           "TTSText": "",
           "TriggerType": 1,
-          "LogicOperator": 4,
+          "LogicOperator": 8,
           "TargetType": 1,
           "TargetSelectionStrategy": 6,
           "SkipBuffId": 0,
@@ -1398,7 +1398,7 @@
         }
       ],
       "CreatedAt": "2026-05-30T03:50:48.3946529Z",
-      "ModifiedAt": "2026-05-30T03:52:45.0195097Z",
+      "ModifiedAt": "2026-05-30T04:41:11.2437328Z",
       "ExecuteFirstOnly": false,
       "Category": "Toggles"
     }
@@ -1441,5 +1441,5 @@
       "24e1e539-9aa1-48fe-80d8-7f5de2b09331": true
     }
   },
-  "Version": "1.0.3"
+  "Version": "1.0.4"
 }
