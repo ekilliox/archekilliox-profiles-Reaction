@@ -2,7 +2,7 @@
   "Id": "Heavyweight - VPR M1",
   "Name": "Heavyweight - VPR M1",
   "Description": "",
-  "Version": "1.0.1",
+  "Version": "1.0.2",
   "AIOTimelineVersion": "2.0",
   "Timelines": {
     "Test": {
