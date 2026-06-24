@@ -3,7 +3,7 @@
   "Name": "archekilliox-ast (Copy)",
   "Description": "",
   "CreatedAt": "2026-01-28T05:54:14.889412Z",
-  "ModifiedAt": "2026-02-21T23:33:38.8668273Z",
+  "ModifiedAt": "2026-06-24T05:45:30.1894366Z",
   "Events": [
     {
       "Id": "1d56ba00-0e7d-4bc3-9ff3-f9ecd412478f",
@@ -8726,7 +8726,7 @@
           "204dfd67-9dd8-4432-a8f2-71faa73ba516",
           "2b62b745-9dc8-44ed-973d-0e2a6c7e341f"
         ],
-        "Enabled": true,
+        "Enabled": false,
         "Position": 2
       },
       {
@@ -8741,25 +8741,14 @@
         ],
         "Enabled": true,
         "Position": 3
-      },
-      {
-        "Id": "e85759ce-28c0-4906-b1c1-ba70bc88dcbc",
-        "Name": "Neutral",
-        "Description": "",
-        "EventIds": [
-          "1d56ba00-0e7d-4bc3-9ff3-f9ecd412478f"
-        ],
-        "Enabled": true,
-        "Position": 4
       }
     ],
     "ToggleStates": {
       "64f83670-b596-4bfd-88d0-526690c85f6f": true,
-      "e85759ce-28c0-4906-b1c1-ba70bc88dcbc": true,
       "fb398c26-789d-4026-9af7-42407e6c4e22": true,
       "71c52f52-663f-4376-a17a-229827e95c47": true,
-      "b077cba4-9d0a-408f-9c6c-71ee7fe49c21": true
+      "b077cba4-9d0a-408f-9c6c-71ee7fe49c21": false
     }
   },
-  "Version": "1.0.0"
+  "Version": "1.0.1"
 }
