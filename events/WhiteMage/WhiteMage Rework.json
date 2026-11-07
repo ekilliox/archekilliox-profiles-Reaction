@@ -25,10 +25,10 @@
       "Description": "",
       "EventType": "OnAllAOE",
       "LogicId": "9fdb236f-7663-4cf5-8bc7-51fa0e11b5ef",
-      "ThrottleSameEvent": 0.5,
+      "ThrottleSameEvent": 0.3,
       "ThrottleAllEvents": 0.1,
-      "Timeout": 6.0,
-      "RecheckDuration": 0.0,
+      "Timeout": 10.0,
+      "RecheckDuration": 10.0,
       "Filters": {},
       "CreatedAt": "2026-11-07T15:30:00.0000000Z",
       "ModifiedAt": "2026-11-07T15:30:00.0000000Z"
@@ -39,10 +39,10 @@
       "Description": "",
       "EventType": "OnAllAOE",
       "LogicId": "dba1bfe8-a4af-4c82-bdf9-bde3bd5334a7",
-      "ThrottleSameEvent": 0.5,
+      "ThrottleSameEvent": 0.3,
       "ThrottleAllEvents": 0.1,
-      "Timeout": 6.0,
-      "RecheckDuration": 0.0,
+      "Timeout": 10.0,
+      "RecheckDuration": 10.0,
       "Filters": {},
       "CreatedAt": "2026-11-07T15:30:00.0000000Z",
       "ModifiedAt": "2026-11-07T15:30:00.0000000Z"
@@ -53,10 +53,10 @@
       "Description": "",
       "EventType": "OnAllAOE",
       "LogicId": "1bbfb805-8fac-4fd8-903d-5cc77455ddb0",
-      "ThrottleSameEvent": 0.5,
+      "ThrottleSameEvent": 0.3,
       "ThrottleAllEvents": 0.1,
-      "Timeout": 6.0,
-      "RecheckDuration": 0.0,
+      "Timeout": 10.0,
+      "RecheckDuration": 10.0,
       "Filters": {},
       "CreatedAt": "2026-11-07T15:30:00.0000000Z",
       "ModifiedAt": "2026-11-07T15:30:00.0000000Z"
@@ -81,10 +81,10 @@
       "Description": "",
       "EventType": "OnAllTankBuster",
       "LogicId": "3ee978d3-5ee1-4525-9a49-297e623dc8e9",
-      "ThrottleSameEvent": 0.5,
+      "ThrottleSameEvent": 0.3,
       "ThrottleAllEvents": 0.1,
-      "Timeout": 5.0,
-      "RecheckDuration": 0.0,
+      "Timeout": 10.0,
+      "RecheckDuration": 10.0,
       "Filters": {},
       "CreatedAt": "2026-11-07T15:30:00.0000000Z",
       "ModifiedAt": "2026-11-07T15:30:00.0000000Z"
@@ -95,10 +95,10 @@
       "Description": "",
       "EventType": "OnAllTankBuster",
       "LogicId": "64bab511-aa49-49bb-b9fa-9ef7079ab699",
-      "ThrottleSameEvent": 0.5,
+      "ThrottleSameEvent": 0.3,
       "ThrottleAllEvents": 0.1,
-      "Timeout": 5.0,
-      "RecheckDuration": 0.0,
+      "Timeout": 10.0,
+      "RecheckDuration": 10.0,
       "Filters": {},
       "CreatedAt": "2026-11-07T15:30:00.0000000Z",
       "ModifiedAt": "2026-11-07T15:30:00.0000000Z"
@@ -109,10 +109,10 @@
       "Description": "",
       "EventType": "OnTick",
       "LogicId": "4109fdbb-f12e-4be0-ba37-249eb729ad0a",
-      "ThrottleSameEvent": 0.5,
+      "ThrottleSameEvent": 0.3,
       "ThrottleAllEvents": 0.1,
-      "Timeout": 5.0,
-      "RecheckDuration": 0.0,
+      "Timeout": 10.0,
+      "RecheckDuration": 10.0,
       "Filters": {},
       "CreatedAt": "2026-11-07T15:30:00.0000000Z",
       "ModifiedAt": "2026-11-07T15:30:00.0000000Z"
@@ -123,10 +123,10 @@
       "Description": "",
       "EventType": "OnTick",
       "LogicId": "aff176cb-5052-492b-bad7-f89f1aedf52a",
-      "ThrottleSameEvent": 0.5,
+      "ThrottleSameEvent": 0.3,
       "ThrottleAllEvents": 0.1,
-      "Timeout": 5.0,
-      "RecheckDuration": 0.0,
+      "Timeout": 10.0,
+      "RecheckDuration": 10.0,
       "Filters": {},
       "CreatedAt": "2026-11-07T15:30:00.0000000Z",
       "ModifiedAt": "2026-11-07T15:30:00.0000000Z"
@@ -137,10 +137,10 @@
       "Description": "",
       "EventType": "OnTick",
       "LogicId": "180b886a-5674-4060-9011-e3bfd41abdf0",
-      "ThrottleSameEvent": 0.5,
+      "ThrottleSameEvent": 0.3,
       "ThrottleAllEvents": 0.1,
-      "Timeout": 5.0,
-      "RecheckDuration": 0.0,
+      "Timeout": 10.0,
+      "RecheckDuration": 10.0,
       "Filters": {},
       "CreatedAt": "2026-11-07T15:30:00.0000000Z",
       "ModifiedAt": "2026-11-07T15:30:00.0000000Z"
@@ -193,10 +193,10 @@
       "Description": "",
       "EventType": "OnTick",
       "LogicId": "d59ae8b1-15eb-49df-a61a-9b8ed46ea06c",
-      "ThrottleSameEvent": 0.5,
+      "ThrottleSameEvent": 0.3,
       "ThrottleAllEvents": 0.1,
-      "Timeout": 5.0,
-      "RecheckDuration": 0.0,
+      "Timeout": 10.0,
+      "RecheckDuration": 10.0,
       "Filters": {},
       "CreatedAt": "2026-11-07T15:30:00.0000000Z",
       "ModifiedAt": "2026-11-07T15:30:00.0000000Z"
@@ -207,10 +207,10 @@
       "Description": "",
       "EventType": "OnTick",
       "LogicId": "5b301f07-a391-4223-8254-b9fe160a7053",
-      "ThrottleSameEvent": 0.5,
+      "ThrottleSameEvent": 0.3,
       "ThrottleAllEvents": 0.1,
-      "Timeout": 5.0,
-      "RecheckDuration": 0.0,
+      "Timeout": 10.0,
+      "RecheckDuration": 10.0,
       "Filters": {},
       "CreatedAt": "2026-11-07T15:30:00.0000000Z",
       "ModifiedAt": "2026-11-07T15:30:00.0000000Z"
@@ -221,10 +221,10 @@
       "Description": "",
       "EventType": "OnTick",
       "LogicId": "0336c12f-6b48-4df0-a425-42d6c0bd2bf6",
-      "ThrottleSameEvent": 0.5,
+      "ThrottleSameEvent": 0.3,
       "ThrottleAllEvents": 0.1,
-      "Timeout": 5.0,
-      "RecheckDuration": 0.0,
+      "Timeout": 10.0,
+      "RecheckDuration": 10.0,
       "Filters": {},
       "CreatedAt": "2026-11-07T15:30:00.0000000Z",
       "ModifiedAt": "2026-11-07T15:30:00.0000000Z"
@@ -249,10 +249,10 @@
       "Description": "",
       "EventType": "OnTick",
       "LogicId": "8960530b-d50a-4319-b30c-f9bda8897b36",
-      "ThrottleSameEvent": 0.5,
+      "ThrottleSameEvent": 0.3,
       "ThrottleAllEvents": 0.1,
-      "Timeout": 5.0,
-      "RecheckDuration": 0.0,
+      "Timeout": 10.0,
+      "RecheckDuration": 10.0,
       "Filters": {},
       "CreatedAt": "2026-11-07T15:30:00.0000000Z",
       "ModifiedAt": "2026-11-07T15:30:00.0000000Z"
@@ -4903,6 +4903,222 @@
       "CreatedAt": "2026-11-07T15:30:00.0000000Z",
       "ModifiedAt": "2026-11-07T15:30:00.0000000Z",
       "ExcludeFromTargetAccumulation": false
+    },
+    {
+      "Id": "5e90f799-227b-4643-a37d-0a80467f0741",
+      "Name": "In Combat",
+      "Description": "",
+      "SubConditions": [
+        {
+          "Id": "7c9cd4af-049d-4191-97c9-6661452dd23e",
+          "Name": "In Combat",
+          "Description": "",
+          "TargetType": 0,
+          "ConditionType": 14,
+          "Parameters": {
+            "BuffParams": {
+              "StatusId": 0,
+              "StatusIds": [],
+              "UseMultipleStatuses": false,
+              "StatusLogic": 1,
+              "CheckDuration": false,
+              "MinDuration": 0.0,
+              "DurationComparison": 3,
+              "CheckStacks": false,
+              "RequiredStacks": 1,
+              "StackComparison": 3,
+              "InvertCheck": false,
+              "RequiredBuffCount": 2,
+              "BuffCountComparison": 3,
+              "StatusTargetOverrides": {},
+              "IsEnabled": true
+            },
+            "HealthParams": {
+              "Percentage": 100.0,
+              "Comparison": 1,
+              "UseRawValue": false,
+              "RawValue": 1000,
+              "IsEnabled": true
+            },
+            "DistanceParams": {
+              "Distance": 0.0,
+              "Comparison": 1,
+              "CheckLineOfSight": false,
+              "IsEnabled": true
+            },
+            "GaugeParams": {
+              "PropertyName": "",
+              "ValueType": 0,
+              "NumericValue": 0.0,
+              "BooleanValue": false,
+              "StringValue": "",
+              "Comparison": 3,
+              "IsEnabled": true
+            },
+            "MpParams": {
+              "Percentage": 100.0,
+              "Comparison": 1,
+              "UseRawValue": false,
+              "RawValue": 1000,
+              "IsEnabled": true
+            },
+            "LastAbilityParams": {
+              "AbilityId": 1,
+              "TimeThreshold": 0.5,
+              "TimeComparison": 1,
+              "IsEnabled": true
+            },
+            "LastGcdParams": {
+              "AbilityId": 1,
+              "TimeThreshold": 0.5,
+              "TimeComparison": 1,
+              "IsEnabled": true
+            },
+            "CooldownParams": {
+              "AbilityId": 1,
+              "TimeThreshold": 0.0,
+              "TimeComparison": 2,
+              "CheckCharges": false,
+              "RequiredCharges": 1,
+              "IsEnabled": true
+            },
+            "ComboParams": {
+              "ComboId": 1,
+              "TimeRemaining": 0.0,
+              "TimeComparison": 3,
+              "IsEnabled": true
+            },
+            "MovementParams": {
+              "ExpectedState": true,
+              "IsEnabled": true
+            },
+            "ChannelingParams": {
+              "IsChanneling": true,
+              "SpecificAbilityId": 0,
+              "IsEnabled": true
+            },
+            "AggroParams": {
+              "HasAggro": true,
+              "AggroPosition": 1,
+              "PositionComparison": 2,
+              "IsEnabled": true
+            },
+            "AlwaysParams": {
+              "ExpectedState": true,
+              "IsEnabled": true
+            },
+            "InCombatParams": {
+              "ExpectedState": true,
+              "IsEnabled": true
+            },
+            "ActionHighlightedParams": {
+              "ActionId": 1,
+              "IsEnabled": true
+            },
+            "IsCastingParams": {
+              "IsCasting": true,
+              "SpecificActionId": 0,
+              "CheckSpecific": false,
+              "IsEnabled": true
+            },
+            "GcdTimeRemainingParams": {
+              "TimeThreshold": 2.5,
+              "Comparison": 1,
+              "IsEnabled": true
+            },
+            "CanInterruptParams": {
+              "CanInterrupt": true,
+              "IsEnabled": true
+            },
+            "EntityIdParams": {
+              "EntityId": 0,
+              "Comparison": 2,
+              "IsEnabled": true
+            },
+            "PartyHpAverageParams": {
+              "Percentage": 50.0,
+              "Comparison": 1,
+              "IsEnabled": true
+            },
+            "PartyHpLowestParams": {
+              "Percentage": 50.0,
+              "Comparison": 1,
+              "LowestMemberCount": 4,
+              "UseLowestMemberPercentage": false,
+              "LowestMemberPercentage": 50.0,
+              "IsEnabled": true
+            },
+            "PartyHpBandsParams": {
+              "CriticalThreshold": 30.0,
+              "LowThreshold": 50.0,
+              "ModerateThreshold": 70.0,
+              "RequiredCritical": 1,
+              "RequiredLow": 3,
+              "RequiredModerate": 5,
+              "BandLogic": 0,
+              "IsEnabled": true
+            },
+            "ActionChargesParams": {
+              "ActionId": 1,
+              "RequiredCharges": 1,
+              "Comparison": 3,
+              "CheckType": 0,
+              "TimeThreshold": 0.0,
+              "TimeComparison": 1,
+              "IsEnabled": true
+            },
+            "AggroCountParams": {
+              "RequiredCount": 1,
+              "CountComparison": 3,
+              "IsEnabled": true
+            },
+            "ShieldParams": {
+              "Percentage": 100.0,
+              "Comparison": 1,
+              "UseRawValue": false,
+              "RawValue": 1000,
+              "IsEnabled": true
+            },
+            "PartyShieldAverageParams": {
+              "Percentage": 20.0,
+              "Comparison": 3,
+              "IsEnabled": true
+            },
+            "VariableParams": {
+              "VariableName": "",
+              "VariableType": 0,
+              "ExpectedBoolValue": true,
+              "ExpectedStringValue": "",
+              "ExpectedNumberValue": 0.0,
+              "Comparison": 2,
+              "StringComparison": 0,
+              "InvertCheck": false,
+              "CheckExists": false,
+              "IsEnabled": true
+            },
+            "DataIdParams": {
+              "DataId": 0,
+              "Comparison": 2,
+              "IsEnabled": true
+            },
+            "TargetNameParams": {
+              "Name": "",
+              "Comparison": 0,
+              "IsEnabled": true
+            }
+          },
+          "RequiredTargetCount": 1,
+          "TargetCountComparison": 3,
+          "UsePercentageMode": true,
+          "RequiredTargetPercentage": 50.0,
+          "CreatedAt": "2026-11-07T16:20:00.0000000Z",
+          "ModifiedAt": "2026-11-07T16:20:00.0000000Z",
+          "ShouldUseTargetCount": true
+        }
+      ],
+      "CreatedAt": "2026-11-07T16:20:00.0000000Z",
+      "ModifiedAt": "2026-11-07T16:20:00.0000000Z",
+      "ExcludeFromTargetAccumulation": false
     }
   ],
   "Logics": [
@@ -4912,6 +5128,7 @@
       "Description": "",
       "LogicType": 0,
       "ConditionIds": [
+        "5e90f799-227b-4643-a37d-0a80467f0741",
         "d5c22d03-c207-4b5c-8ff7-c7486d38b3eb"
       ],
       "ActionTriggers": [
@@ -4952,6 +5169,7 @@
       "Description": "",
       "LogicType": 0,
       "ConditionIds": [
+        "5e90f799-227b-4643-a37d-0a80467f0741",
         "88a17bca-0b72-470a-b04a-d92c17f87f8f",
         "50e2b491-18a1-4af4-870e-bd58adef8741"
       ],
@@ -4993,6 +5211,7 @@
       "Description": "",
       "LogicType": 0,
       "ConditionIds": [
+        "5e90f799-227b-4643-a37d-0a80467f0741",
         "50e2b491-18a1-4af4-870e-bd58adef8741",
         "88a17bca-0b72-470a-b04a-d92c17f87f8f"
       ],
@@ -5034,6 +5253,7 @@
       "Description": "",
       "LogicType": 0,
       "ConditionIds": [
+        "5e90f799-227b-4643-a37d-0a80467f0741",
         "c499cdb9-c120-44ce-b6b7-40cc805d95a3"
       ],
       "ActionTriggers": [
@@ -5074,6 +5294,7 @@
       "Description": "",
       "LogicType": 0,
       "ConditionIds": [
+        "5e90f799-227b-4643-a37d-0a80467f0741",
         "5224737c-d5ce-44cf-b8ee-2074d8a7ebe9",
         "e8143d17-7279-4eb9-9881-b1d086599142"
       ],
@@ -5115,6 +5336,7 @@
       "Description": "",
       "LogicType": 0,
       "ConditionIds": [
+        "5e90f799-227b-4643-a37d-0a80467f0741",
         "b4a8b11f-9010-4943-beed-af03653f7aad"
       ],
       "ActionTriggers": [
@@ -5155,6 +5377,7 @@
       "Description": "",
       "LogicType": 0,
       "ConditionIds": [
+        "5e90f799-227b-4643-a37d-0a80467f0741",
         "9ecf7de4-25df-47b1-80c3-e09797dbec6e"
       ],
       "ActionTriggers": [
@@ -5195,6 +5418,7 @@
       "Description": "",
       "LogicType": 0,
       "ConditionIds": [
+        "5e90f799-227b-4643-a37d-0a80467f0741",
         "5224737c-d5ce-44cf-b8ee-2074d8a7ebe9"
       ],
       "ActionTriggers": [
@@ -5235,6 +5459,7 @@
       "Description": "",
       "LogicType": 0,
       "ConditionIds": [
+        "5e90f799-227b-4643-a37d-0a80467f0741",
         "48aa2c98-f5c4-4d86-a7bf-ba94ff41f998",
         "31e0e8b0-254c-4c91-b0bb-071e5ac4faeb"
       ],
@@ -5276,6 +5501,7 @@
       "Description": "",
       "LogicType": 0,
       "ConditionIds": [
+        "5e90f799-227b-4643-a37d-0a80467f0741",
         "8b48ef15-185e-408d-8134-ef9c60a070c6",
         "422262a3-fab2-4c00-9d24-cdf0d8e8131b"
       ],
@@ -5317,6 +5543,7 @@
       "Description": "",
       "LogicType": 0,
       "ConditionIds": [
+        "5e90f799-227b-4643-a37d-0a80467f0741",
         "48aa2c98-f5c4-4d86-a7bf-ba94ff41f998"
       ],
       "ActionTriggers": [
@@ -5357,6 +5584,7 @@
       "Description": "",
       "LogicType": 0,
       "ConditionIds": [
+        "5e90f799-227b-4643-a37d-0a80467f0741",
         "48aa2c98-f5c4-4d86-a7bf-ba94ff41f998",
         "e8143d17-7279-4eb9-9881-b1d086599142"
       ],
@@ -5398,6 +5626,7 @@
       "Description": "",
       "LogicType": 0,
       "ConditionIds": [
+        "5e90f799-227b-4643-a37d-0a80467f0741",
         "792a19ad-1a21-4f80-b537-380092f5fe40"
       ],
       "ActionTriggers": [
@@ -5438,6 +5667,7 @@
       "Description": "",
       "LogicType": 0,
       "ConditionIds": [
+        "5e90f799-227b-4643-a37d-0a80467f0741",
         "017ab22f-7ea4-43a5-8b4b-456ec3c98b78"
       ],
       "ActionTriggers": [
@@ -5478,6 +5708,7 @@
       "Description": "",
       "LogicType": 0,
       "ConditionIds": [
+        "5e90f799-227b-4643-a37d-0a80467f0741",
         "1442f5dd-e563-4d50-997d-b156a996a574"
       ],
       "ActionTriggers": [
@@ -5518,6 +5749,7 @@
       "Description": "",
       "LogicType": 0,
       "ConditionIds": [
+        "5e90f799-227b-4643-a37d-0a80467f0741",
         "7deb3846-8760-444a-b713-86aab7eb5893",
         "b4a8b11f-9010-4943-beed-af03653f7aad"
       ],
@@ -5559,6 +5791,7 @@
       "Description": "",
       "LogicType": 0,
       "ConditionIds": [
+        "5e90f799-227b-4643-a37d-0a80467f0741",
         "e90ab196-3f0b-4645-ad60-9f25d9bc9dc9",
         "6822c2a2-bb98-4391-8eb7-434d6c4d4ab3"
       ],
@@ -5600,6 +5833,7 @@
       "Description": "",
       "LogicType": 0,
       "ConditionIds": [
+        "5e90f799-227b-4643-a37d-0a80467f0741",
         "86d74e7d-adbf-43c0-bb04-dacffea3e733"
       ],
       "ActionTriggers": [
@@ -5640,6 +5874,7 @@
       "Description": "",
       "LogicType": 0,
       "ConditionIds": [
+        "5e90f799-227b-4643-a37d-0a80467f0741",
         "0176b275-abc9-4a19-a1a2-28b69f99b59d"
       ],
       "ActionTriggers": [
@@ -5680,6 +5915,7 @@
       "Description": "",
       "LogicType": 0,
       "ConditionIds": [
+        "5e90f799-227b-4643-a37d-0a80467f0741",
         "86d74e7d-adbf-43c0-bb04-dacffea3e733"
       ],
       "ActionTriggers": [
@@ -5720,6 +5956,7 @@
       "Description": "",
       "LogicType": 0,
       "ConditionIds": [
+        "5e90f799-227b-4643-a37d-0a80467f0741",
         "5224737c-d5ce-44cf-b8ee-2074d8a7ebe9",
         "e8143d17-7279-4eb9-9881-b1d086599142"
       ],
@@ -5761,6 +5998,7 @@
       "Description": "",
       "LogicType": 0,
       "ConditionIds": [
+        "5e90f799-227b-4643-a37d-0a80467f0741",
         "48aa2c98-f5c4-4d86-a7bf-ba94ff41f998",
         "e8143d17-7279-4eb9-9881-b1d086599142"
       ],
@@ -5802,6 +6040,7 @@
       "Description": "",
       "LogicType": 0,
       "ConditionIds": [
+        "5e90f799-227b-4643-a37d-0a80467f0741",
         "8b48ef15-185e-408d-8134-ef9c60a070c6"
       ],
       "ActionTriggers": [
@@ -5842,6 +6081,7 @@
       "Description": "",
       "LogicType": 0,
       "ConditionIds": [
+        "5e90f799-227b-4643-a37d-0a80467f0741",
         "21198eda-11c1-41fb-9f21-242001158a83"
       ],
       "ActionTriggers": [
